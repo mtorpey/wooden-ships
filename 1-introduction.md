@@ -15,7 +15,7 @@ Napoleonic Wars. The game is also a kit from which other scenarios or
 any fictitious engagement may be designed.
 
 Each counter represents a single ship and covers two hexes of the
-mapboard. Orders for movement are written for each ship on a \"log\".
+mapboard. Orders for movement are written for each ship on a "log".
 Ships are then moved simultaneously over the mapboard. Any which foul or
 grapple may attempt to form boarding parties to take possession of the
 enemy\'s craft by force. Ships may also fire at the opposing vessels
@@ -33,12 +33,12 @@ victory.
 2.  Set of die-cut counters.
 3.  Advanced Tables Card.
 4.  Rules of play and scenario manual.
-5.  A \"log\" pad.
+5.  A "log" pad.
 6.  One die.
 
 ### B. Mapboard
 
-The 22\" by 28\" mapboard is the playing surface upon which the ships
+The 22" by 28" mapboard is the playing surface upon which the ships
 are maneuvered. The hexagonal grid printed on the mapboard is used to
 determine movement, firing ranges, and the positions of the ships. Each
 hex (hexagon) has an identification code, this being used to determine
@@ -212,7 +212,7 @@ placed here.
 ### B. Log Sheet
 
 A very important step must now be completed; filling out the log sheet.
-A player must fill out a \"log\" for each ship that he controls. All
+A player must fill out a "log" for each ship that he controls. All
 information for that ship necessary to the play of the game will be
 placed here. This information is found on the ship counter or in the
 ship\'s Order of Battle, found in the scenarios. A diagram is given as
@@ -265,7 +265,7 @@ log.
     section 10. All crew squares are divided into sections. In the Order
     of Battle, the number of sections and number of crew squares per
     section will be given. Each crew section has a corresponding
-    numbered row in the \"log\". Squares not being used should be marked
+    numbered row in the "log". Squares not being used should be marked
     out.
 
 11.

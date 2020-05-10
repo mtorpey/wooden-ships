@@ -148,29 +148,29 @@ mapboard.
 
 ### B. Log Notations
 
-1.  All notations of the move column of the ship\'s \"log\". The column
+1.  All notations of the move column of the ship\'s "log". The column
     is divided into numbered sections corresponding to the turns. All
     notations are written in the appropriate turn section.
 2.  The number of hexes a ship is to move is written as a number.
-3.  Any turns made by the ship are written as an \"R\" for righthand
-    turn of 60 degrees or as an \"L\" for a lefthand turn of
+3.  Any turns made by the ship are written as an "R" for righthand
+    turn of 60 degrees or as an "L" for a lefthand turn of
     60 degrees.\
     ![Move L1R1](files/samplemove.gif){width="212" height="283"}
     Example: The ship is at A attitude to the wind and has a battlesail
     speed of 4. Its movement allowance is determined to be 4. The move
-    notation \"L1R1\" in the \"log\" reads left turn 60°, forward 1 hex,
+    notation "L1R1" in the "log" reads left turn 60°, forward 1 hex,
     right, turn 60°, forward 1 hex. This has completed the ship\'s full
     allowance. After its first turn into attitude C, the maximum
     distance the ship could move in that direction was one hex. If it
     wished to remain in attitude C, it would have to end its move at
-    that point. Its move would have read \"L1\".
+    that point. Its move would have read "L1".
 4.  Notation must be specific and in the same order as that in which the
     ship will be moved.
 5.  After completion of all orders, logs must be opened for inspection
     by the other players. Exception: The load column of the log may
     never be inspected.
 6.  Orders must be written for each ship. If a player does not wish a
-    ship to move, an \"0\" will be used as notation.
+    ship to move, an "0" will be used as notation.
 7.  If a log sheet is incorrectly filled out and/or indicates an illegal
     move for a ship, end that ship\'s movement at the point of the
     infraction.
@@ -209,7 +209,7 @@ move at least one hex.
 Ships which are fouled or grappled together cannot move or turn in
 place, they can only drift.
 
-For each turn a ship is to drift, a \"D\" written in the move column.
+For each turn a ship is to drift, a "D" written in the move column.
 
 Ships which have lost all rigging-squares (become dismasted) drift with
 a special turning allowance.
@@ -254,14 +254,14 @@ during movement phase may collide with the other ship.
     entangle and be fouled, locking the ships together. For each
     collision, one of the involved players must roll a die. The result
     is found on the fouling table, and is implemented immediately. If
-    the result is \"ships are not fouled\", they may continue to move
+    the result is "ships are not fouled", they may continue to move
     normally the next movement phase.
 6.  Fouled ships cannot move or turn in place. On the second movement
     phase after fouling they must drift.
 7.  Ships that are fouled may perform boarding maneuvers and melee that
     turn and/or any or all subsequent turns that they remain fouled.
 8.  The fact that a ship is fouled is indicated in the Notes section of
-    the ship\'s \"log\" by writing an \"F\".
+    the ship\'s "log" by writing an "F".
 
 [VI. Ungrappling Phase]{#hd07 .header}
 --------------------------------------
@@ -285,8 +285,8 @@ fouled or unfouled, may attempt to grapple.
     They can only drift.
 7.  Boarding parties can be formed and boarding actions fought between
     grappled ships.
-8.  The fact that a ship is grappled is indicated by writing a \"G\" in
-    the notes section of the ship\'s \"log\" for each successful
+8.  The fact that a ship is grappled is indicated by writing a "G" in
+    the notes section of the ship\'s "log" for each successful
     grapple.
 
 ### B. Ungrappling
@@ -304,7 +304,7 @@ fouled or unfouled, may attempt to grapple.
 5.  If after completion of all ungrappling attempts, any ship still
     remains grappled to one or more enemy ships, it must wait till next
     turn to attempt to ungrapple.
-6.  Ungrappling is indicated by writing a \"(G)\" in the notes section
+6.  Ungrappling is indicated by writing a "(G)" in the notes section
     of the ship\'s log.
 
 [VII. Boarding Preparation Phase]{#hd08 .header}
@@ -332,22 +332,22 @@ or defend against a take-over in the melee phase.
 
 1.  Players secretly write down which crew sections are to be used for
     boarding in the notes section for all ships fouled and/or grappled.
-    If the player does not desire to form any boarding parties \"NBP\"
+    If the player does not desire to form any boarding parties "NBP"
     is written.
 2.  There are three types of boarding parties which may be formed: An
-    offensive boarding party written as \"OBP\" a defensive boarding
-    party written as \"DBP\", and a transfer boarding party written as
-    \"TBP\". (These abbreviations will be used to denote the boarding
-    party types hereafter in the rules). An \"OBP\" must melee in the
-    Melee Phase. A \"DBP\" will melee only if attacked by an opposing
-    \"OBP\". A \"TBP\" is used only for transfer of crews between
+    offensive boarding party written as "OBP" a defensive boarding
+    party written as "DBP", and a transfer boarding party written as
+    "TBP". (These abbreviations will be used to denote the boarding
+    party types hereafter in the rules). An "OBP" must melee in the
+    Melee Phase. A "DBP" will melee only if attacked by an opposing
+    "OBP". A "TBP" is used only for transfer of crews between
     friendly ships.
 3.  To form a boarding party, the abbreviation for the type of boarding
     party desired is written in the Notes section plus each crew section
     number involved. More than one type boarding party may be formed per
     ship.
 4.  If there are several ships to which a boarding party could board at
-    the same time, the \"log\" notation should also indicate the ship(s)
+    the same time, the "log" notation should also indicate the ship(s)
     to be boarded.
 5.  If all crew sections of a ship are used for boarding parties, that
     ship may not fire at all in the Combat Phase, or move in the next
@@ -358,7 +358,7 @@ or defend against a take-over in the melee phase.
     the turn following the transfer. This applies even when the ship
     they are transferred to is engaged in melee during the turn of
     transfer.
-8.  \"TBP\'s\" may be formed to board ships which one thinks will
+8.  "TBP\'s" may be formed to board ships which one thinks will
     surrender. If, for any reason the ship does not surrender, no
     transfer is made and the crew section(s) involved may not be used in
     any other function for that turn.
@@ -368,14 +368,14 @@ or defend against a take-over in the melee phase.
 
 In this phase, ships may fire at enemy ships in their field of fire and
 within range. Firing is considered simultaneous and all firing is
-considered completed before results of combat are marked on the \"log\"
+considered completed before results of combat are marked on the "log"
 sheets. Firing is done by broadsides of cannon.
 
 ### A. Fire Determination
 
 1.  Each ship has a right and left (in Naval terminology, starboard and
     port) broadside. These broadsides are effective only from their side
-    of the ship. Each broadside has a \"play\" or area over which its
+    of the ship. Each broadside has a "play" or area over which its
     broadside firepower is effective. The play of each broadside is
     shown on the following diagram\
     ![Basic Field of Fire](files/basicfof.gif){width="350" height="249"}
@@ -388,14 +388,14 @@ sheets. Firing is done by broadsides of cannon.
     fire subject to two conditions:
     a.  The ship being fired upon must be the closest in number of hexes
         to the firing ship of all ships in the field of fire;
-    b.  If the \"closest ship\" happens to be a land hex, friendly ship,
+    b.  If the "closest ship" happens to be a land hex, friendly ship,
         surrendered or captured ship, or a hulk, the field of fire is
         blocked and the ship may not fire that broadside in that turn.
 5.  If there is more than one ship or obstacle which qualifies as
-    \"closest ship\", the attacker may choose which is closest and fire
+    "closest ship", the attacker may choose which is closest and fire
     at that ship.
-6.  Firing is noted on the log by drawing a slant line (\"/\") through
-    the last loading notation \"R\" on the broadside fired.
+6.  Firing is noted on the log by drawing a slant line ("/") through
+    the last loading notation "R" on the broadside fired.
 7.  As firing is considered simultaneous, it may be carried out in any
     order.a Hits will not be marked until after all firing is completed.
 8.  A ship may fire both broadsides during the same combat phase, if
@@ -409,7 +409,7 @@ sheets. Firing is done by broadsides of cannon.
 1.  Count the number of hexes to the target by the shortest possible
     route. It may be to either the bow or stern hex, whichever is
     closest. This is the range.
-2.  In the gun section of the firing ship\'s \"log\", count the number
+2.  In the gun section of the firing ship\'s "log", count the number
     of guns squares on the broadside firing. Do not include damaged gun
     squares in this count. Also, do not include carronade squares unless
     the range is two hexes or less.
@@ -421,7 +421,7 @@ sheets. Firing is done by broadsides of cannon.
     variables that will increase or decrease the Hit Table. All
     modifiers are cumulative. If, after using all modifiers that apply,
     Table Zero or above has not been reached, the result is an automatic
-    \"miss\". If a table number higher than eight has been reached, use
+    "miss". If a table number higher than eight has been reached, use
     Table Eight, as this is the highest allowed.
 5.  The player firing now decides if the fire is to be aimed at the
     hull, or at the rigging. If the range is six hexes or more, the fire
@@ -434,7 +434,7 @@ sheets. Firing is done by broadsides of cannon.
 7.  There are four types of hits: H (Hull), G (Gun), C (Crew), and
     R (Rigging). At the end of the Combat Phase, the number and type of
     hits are marked off in the appropriate sections of the target
-    ship\'s \"log\". Players may wish to keep track of these hits on a
+    ship\'s "log". Players may wish to keep track of these hits on a
     side sheet of paper until the end of the phase.
 8.  Grappled and/or fouled ships may not fire at each other\'s rigging.
 
@@ -462,33 +462,33 @@ sheets. Firing is done by broadsides of cannon.
 
 ### D. Marking Hits and the Effects of Damage
 
-Hits are marked on the \"log\" of the target ship with an \"X\". The
-\"log\" has four major parts, each part corresponding to a type of hit
+Hits are marked on the "log" of the target ship with an "X". The
+"log" has four major parts, each part corresponding to a type of hit
 on the Hit Table.
 
-1.  Hull Hits (\"H\")
+1.  Hull Hits ("H")
     a.  Mark off one hull square per hull hit called for on the Hit
         Tables.
     b.  When all of a ship\'s hull squares have been marked off, that
-        ship will \"surrender by striking her colors\". The ship is
+        ship will "surrender by striking her colors". The ship is
         considered to be in such danger of sinking that it cannot be
         sailed or the guns worked for the remainder of the game (even by
         a prize crew). None of the original crew can be removed from the
         ship (all are required to try to keep the ship afloat). Neither
-        side is allowed to fire on a \"struck\" ship, although it can be
-        boarded. Excess hull hits are treated as \"misses\". The crew of
-        a \"surrender by striking\" ship cannot participate in melee
+        side is allowed to fire on a "struck" ship, although it can be
+        boarded. Excess hull hits are treated as "misses". The crew of
+        a "surrender by striking" ship cannot participate in melee
         even if boarding parties have been formed. Place a strike marker
-        on a ship which has \"struck\".
-2.  Crew Hits (\"C\")
+        on a ship which has "struck".
+2.  Crew Hits ("C")
     a.  Mark off one crew square per crew hit called for on the Hit
         Tables. Alla crew hits must be taken out of the first section
         until all of its crew squares are gone, then from the second
         section. and finally from the third section.
     b.  When all crew squares on a ship are marked off, the ship cannot
         be moved or be used in combat until more crew squares are put on
-        board. Excess crew hits are treated as \"misses\".
-3.  Gun Hits (\"G\")
+        board. Excess crew hits are treated as "misses".
+3.  Gun Hits ("G")
     a.  Mark off one gun square per gun hit called for on the Hit
         Tables. When a gun hit is called for, and the ship has carronade
         squares available, the commander of the hit ship can mark off
@@ -503,9 +503,9 @@ on the Hit Table.
         distance, the ship will surrender to the first enemy ship that
         can move into an adjacent hex and fire a broadside into it. The
         ten hex range is determined at the moment the broadside is
-        fired. This is known as \"surrender by firepower\". Excess gun
+        fired. This is known as "surrender by firepower". Excess gun
         hits are treated as hull hits.
-4.  Rigging Hits (\"R\")
+4.  Rigging Hits ("R")
     a.  Mark off one rigging square per rigging hit called for on the
         Hit Tables. The rigging squares are divided into either three
         sections (for ships with a battle sail speed of 3) or four
@@ -518,27 +518,27 @@ on the Hit Table.
     b.  If all rigging squares are marked off, and no friendly ship of
         the same or larger class as the firing ship is within ten
         squares distance, the ship will surrender to the first enemy
-        ship which can rake its hull. This is known as \"surrender by
-        immobility\". Excess rigging hits are treated as \"misses\".
+        ship which can rake its hull. This is known as "surrender by
+        immobility". Excess rigging hits are treated as "misses".
 
 [IX. Melee Phase]{#hd10 .header}
 --------------------------------
 
-All ships which have not \"surrendered\" and have crew squares remaining
+All ships which have not "surrendered" and have crew squares remaining
 in their boarding parties may now attempt to capture opposing ships, to
 defend themselves and/or to transfer to friendly ships. To determine the
-success of the boarding, melee must occur with the enemy\'s \"OBP\" or
-\"DBP\". Melee is fought simultaneously once per turn.
+success of the boarding, melee must occur with the enemy\'s "OBP" or
+"DBP". Melee is fought simultaneously once per turn.
 
 ### A. Transfer Procedure
 
-1.  Crew sections designated as \"TBP\" during the Boarding Preparation
+1.  Crew sections designated as "TBP" during the Boarding Preparation
     Phase may now transfer as ordered to any friendly adjacent ship.
-2.  Cross off the transferred crewsections on the \"log\" as if they
+2.  Cross off the transferred crewsections on the "log" as if they
     were casualties, and make a note on a separate sheet of paper of the
     strengths of the transferred crew sections, and their present
     locations. Friendly crews ordered to transfer to ships which have
-    \"surrendered\" in the Combat Phase may not transfer.
+    "surrendered" in the Combat Phase may not transfer.
 3.  If crew sections are transferring to ships which have lost crew
     squares, they may permanently transfer by erasing one crew square
     for each square being transferred. Start erasing with the most
@@ -551,25 +551,25 @@ success of the boarding, melee must occur with the enemy\'s \"OBP\" or
 
 ### B. Boarding Procedure
 
-1.  Ships which have formed \"OBP\'s\" during the Boarding Preparation
-    Phase must now attempt to have their \"0BP\'s\" board and capture by
+1.  Ships which have formed "OBP\'s" during the Boarding Preparation
+    Phase must now attempt to have their "0BP\'s" board and capture by
     melee the opposing enemy ships to which they have been ordered. Only
-    \"OBP\'s\" initiate melee.
-2.  If two opposing ships are simultaneously sending \"OBP\'s\" to
+    "OBP\'s" initiate melee.
+2.  If two opposing ships are simultaneously sending "OBP\'s" to
     capture each other, both parties must melee.
-3.  If one of the opposing ships has ordered a \"DBP\", melee occurs if
-    she is attacked by an \"OBP\". If the other ship has a \"DBP\",
-    \"TBP\", or \"NBP\" then no melee occurs.
-4.  If an \"0BP\" (not \"DBP\") boards a ship which has ordered a
-    \"NBP\" or \"TBP\" only, that \"OBP\" automatically captures the
-    ship without melee. The \"TBP\" would effect its transfer
+3.  If one of the opposing ships has ordered a "DBP", melee occurs if
+    she is attacked by an "OBP". If the other ship has a "DBP",
+    "TBP", or "NBP" then no melee occurs.
+4.  If an "0BP" (not "DBP") boards a ship which has ordered a
+    "NBP" or "TBP" only, that "OBP" automatically captures the
+    ship without melee. The "TBP" would effect its transfer
     simultaneously.
-5.  If several \"OBP\'s\" are boarding the same ship, their total melee
+5.  If several "OBP\'s" are boarding the same ship, their total melee
     strengths are added together.
-6.  If an \"OBP\" is ordered to board a ship which has ordered both an
-    \"OBP\" and a \"DBP\", the two \"OBP\'s\" must melee first. If
-    victorious the \"OBP\" must continue melee with the \"DBP\".
-7.  If an enemy ship \"surrenders\" during the Combat Phase, an \"OBP\"
+6.  If an "OBP" is ordered to board a ship which has ordered both an
+    "OBP" and a "DBP", the two "OBP\'s" must melee first. If
+    victorious the "OBP" must continue melee with the "DBP".
+7.  If an enemy ship "surrenders" during the Combat Phase, an "OBP"
     intended for that ship may go aboard to act as prize crew.
 
 ### C. Melee Procedure
@@ -592,8 +592,8 @@ success of the boarding, melee must occur with the enemy\'s \"OBP\" or
 4.  Crew sections already engaged in melee may not quit until one of the
     conditions in 3 above has been met. New crew sections may be added
     to the melee each turn if available.
-5.  A victorious \"DBP\" has the option of boarding the opposing ship.
-    When the \"DBP\" boards it automatically changes status to \"OBP\"
+5.  A victorious "DBP" has the option of boarding the opposing ship.
+    When the "DBP" boards it automatically changes status to "OBP"
     and must continue melee for the remaining rounds if necessary.
 6.  If two different crews are combined in melee, the controlling player
     selects where losses are taken.
@@ -601,14 +601,14 @@ success of the boarding, melee must occur with the enemy\'s \"OBP\" or
 ### D. Capturing Procedure
 
 1.  Any ship which surrenders in any of four ways either by
-    \"striking\", \"firepower\", \"melee\" or \"immobility\" may be
+    "striking", "firepower", "melee" or "immobility" may be
     captured.
 2.  A ship which surrenders by melee is automatically captured by the
     victorious boarding party which is considered to be on the deck of
     the ship the enemy boarding party came from. It now becomes the
     prize crew.
 3.  A ship which surrenders by any other means is captured when either a
-    \"TBP\" or \"OBP\" is placed aboard. The boarding party becomes the
+    "TBP" or "OBP" is placed aboard. The boarding party becomes the
     prize crew (See 11118. 8. of the Basic Game).
 
     (Meaningless cross-reference\...)
@@ -619,10 +619,10 @@ success of the boarding, melee must occur with the enemy\'s \"OBP\" or
     the ship, engage in melees, and fire and load the guns (but at two
     tables less than normal).
 6.  Once a ship is captured, the victorious player opens a new column on
-    his \"log\" sheet for the captured ship, copying all information
-    (including damage) from the old enemy \"log\".
+    his "log" sheet for the captured ship, copying all information
+    (including damage) from the old enemy "log".
 7.  The original crew is still marked on the ship\'s crew section of the
-    \"log\". The prize crew is kept on a separate sheet of paper.
+    "log". The prize crew is kept on a separate sheet of paper.
 8.  If for any reason a prize crew leaves, or is eliminated, the ship
     returns to the control of the original owner.
 9.  At least one crew square of the prize crew is required for every six
@@ -630,12 +630,12 @@ success of the boarding, melee must occur with the enemy\'s \"OBP\" or
     ratio, the prisoners immediately take over the ship, and the prize
     crew becomes prisoners.
 10. The captured ship assumes the quality of the prize crew.
-11. If a ship with a prize crew on board is fired upon, take all \"odd\"
+11. If a ship with a prize crew on board is fired upon, take all "odd"
     crew square losses (i.e., the first, third, fifth, etc. losses) that
-    occurs in a Combat Phase from the prize crew and all \"even\" losses
+    occurs in a Combat Phase from the prize crew and all "even" losses
     from the prisoners. Remember that ships with all hull squares marked
     out cannot be fired upon.
-12. Ships which have \"surrendered by striking\" may never fire their
+12. Ships which have "surrendered by striking" may never fire their
     guns nor sail even if captured. The prize crew can melee.
 13. Ships that surrender automatically become friendly.
 14. If at any time a ship which has surrendered other than by striking
@@ -658,8 +658,8 @@ B.  A broadside can be loaded in the same turn that it is fired, and
     fired again during the following turn, or any later turn. Thus it is
     possible for the same broadside to be fired every turn.
 C.  In the Basic Game only roundshot may be fired. Reloading is
-    indicated in the \"log\" by writing the letter \"R\" under the \"R\"
-    or \"L\" column of the load section at the appropriate turn number.
+    indicated in the "log" by writing the letter "R" under the "R"
+    or "L" column of the load section at the appropriate turn number.
 D.  A broadside may be fired even if there are no targets, but the
     advantage of initial broadside is lost.
 
@@ -673,7 +673,7 @@ for multi-ship scenarios.
 
 ### A. Single Ship Victory Conditions
 
-Single ship scenarios end when one ship \"surrenders\". The other player
+Single ship scenarios end when one ship "surrenders". The other player
 is the victor. There is no time limit for this. Other situations that
 qualify are printed below:
 
@@ -682,9 +682,9 @@ qualify are printed below:
     is not an explicit rule so some intelligence must be used to
     implement it. Its function is to keep partially damaged ships from
     attempting to draw by avoiding victory conditions.
-2.  If both ships \"surrender\" simultaneously, it is a draw.
+2.  If both ships "surrender" simultaneously, it is a draw.
 3.  Loss of all crew squares will automatically end the game with
-    victory for the other side, even if that side \"strikes\".
+    victory for the other side, even if that side "strikes".
 4.  As soon as the victory conditions are met, the game ends at that
     point, and the turn is not completed.
 

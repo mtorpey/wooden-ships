@@ -38,7 +38,7 @@ A.  Messages between ships of the same fleet may be sent in writing
     only. This is done in the Movement Notation Phase.
 B.  Only one message per ship may be sent to the other ships of the
     fleet in that phase.
-C.  This option should be used with the \"timed moves\" option.
+C.  This option should be used with the "timed moves" option.
 D.  Players may also wish to forbid any communications between players
     commanding different squadrons of different nationalities, to
     simulate their difficulties in reading each other\'s flag signaling
@@ -49,7 +49,7 @@ D.  Players may also wish to forbid any communications between players
 
 The number of ships any flag officer of the period could actually
 control effectively was a squadron of six ships (often less). There
-would be a considerable \"time-lag\" between the time an admiral
+would be a considerable "time-lag" between the time an admiral
 signaled a squadron not under his immediate control, and the time that
 squadron actually carried out his orders.
 
@@ -118,14 +118,14 @@ still turn in place as in the Basic Game.
 D. Towing Procedure
 
 1\. Maneuver the towing ship so that its stern is in the hex to which the
-bow of the ship to be towed is pointing. Indicate in the \"log\" that
+bow of the ship to be towed is pointing. Indicate in the "log" that
 the ships are to be grappled.
 
 2\. The two ships can be maneuvered together on succeeding turns, the
 ship being towed moving directly in the wake of the other ship. Only one
 movement plot need be written.
 
-3\. Ungrappling notations in the \"log\" will end the tow.
+3\. Ungrappling notations in the "log" will end the tow.
 
 [VIII. Loss of Rigging]{#hd09 .header}
 --------------------------------------
@@ -173,7 +173,7 @@ which the mast hangs must roll for fouling.
 ---------------------------------
 
 When one ship is adjacent to another and lays directly between its bow
-or stern hex and the wind, the sails would tend to \"blanket\" or block
+or stern hex and the wind, the sails would tend to "blanket" or block
 off the wind to the second ship, thereby slowing it down.
 
 A. If the ship blocking the wind is under full sails, the movement
@@ -222,7 +222,7 @@ B. Immediately roll a die. The resulting number indicates the relative
 difficulty of refloating the ship. On each succeeding turn during the
 reload phase, the die is rolled to see if the ship can be refloated. The
 die number rolled must exceed the number initially rolled, or the ship
-remains aground for another turn. If a \"6\" had been rolled initially,
+remains aground for another turn. If a "6" had been rolled initially,
 this would indicate that the ship cannot be refloated by ordinary means.
 
 C. Ships that enter land hexes are considered to be destroyed.
@@ -240,7 +240,7 @@ Ships often needed to measure depth of uncharted waters through which
 they intended to travel. Casting the lead was a method used to determine
 this.
 
-A. Players can be assumed to be \"casting the lead\" for any ships which
+A. Players can be assumed to be "casting the lead" for any ships which
 have moved a maximum of one hex in that movement phase. On request, the
 enemy player must tell the depth of water in all hexes adjacent to their
 ship.

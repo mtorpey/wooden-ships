@@ -48,7 +48,7 @@ appropriate section of the rules.
         3.  All critical hit damage is cumulative.
         4.  Some results are a function of one or more of the Optional
             rules. Those players not using the appropriate Optional
-            rule, must ignore the result taking a \"no effect\" instead.
+            rule, must ignore the result taking a "no effect" instead.
 
 ### B. Log Modifications
 
@@ -71,20 +71,20 @@ A.  Wind Phase: Roll one die to determine wind change, and if so, how it
 B.  Unfouling Phase: Make attempts to unfoul ships which were fouled on
     previous moves. Roll for sinking or exploding ships.
 C.  Movement Notation Phase: Movement is plotted secretly by all players
-    on their ships \"logs\". Anchoring, up-anchoring, and cutting
-    anchors orders are written in the Notes section of \"log\".
+    on their ships "logs". Anchoring, up-anchoring, and cutting
+    anchors orders are written in the Notes section of "log".
 D.  Movement Execution Phase: Each ship is moved exactly as ordered in
-    the \"log\". Retrace any possible collisions one hex at a time.
+    the "log". Retrace any possible collisions one hex at a time.
     Check for fouling.
 E.  Grappling and Ungrappling Phase: Attempt to grapple, avoid
     grappling, or ungrapple.
 F.  Boarding Preparation Phase: Write any boarding parties in the
-    \"logs\" of the involved ships.
-G.  Combat Phase: Resolve all firing, and mark all hits in the \"logs\".
+    "logs" of the involved ships.
+G.  Combat Phase: Resolve all firing, and mark all hits in the "logs".
     Determine if certain ships are to sink or explode.
 H.  Melee Phase: Resolve melee.
 I.  Load Phase: Reload broadsides. A variety of ammunition may now be
-    used. Mark any repairs in notes section of the \"log\"; erase
+    used. Mark any repairs in notes section of the "log"; erase
     applicable squares if repairs are completed.
 J.  Full Sail Phase: Place or remove full sail counters on ships.
 
@@ -187,22 +187,22 @@ more sails than normally used in battle.
 
     (Meaningless cross reference\...)
 
-    A player does not have to note full sails in the \"log\".
+    A player does not have to note full sails in the "log".
 
 ### B. Backing Sails
 
 Ships that wish to stay in place for part of the movement execution
-phase may use the notation \"B\" (for \"backing sails\") in the moves
-column of the \"log\". The use of backing sails is important when trying
+phase may use the notation "B" (for "backing sails") in the moves
+column of the "log". The use of backing sails is important when trying
 to avoid collisions. Backing sails may be used in any part of the
 movement plot. For each movement factor of the movement allowance that a
-ship expends staying in place, a \"B\" must be written. Example: Two
+ship expends staying in place, a "B" must be written. Example: Two
 ships A and B have both been noted to move into the same hex:
 
 ![collision](files/collision.gif){width="348" height="218"}
 
 A collision would occur in hex J20. If ship B had used the backing sails
-rule it could amend its movement plot to Moves \"B B B 1\". Thus it
+rule it could amend its movement plot to Moves "B B B 1". Thus it
 would enter hex J20 on the last move of the phase thereby avoiding ship
 A which by that time had already passed through the hex. Note that each
 B written is equivalent to one movement factor expended.
@@ -219,18 +219,18 @@ position. This rule may only be used in certain scenarios which will be
 so designated.
 
 1.  There are three types of anchoring: Ordinary anchoring, written
-    \"A\", anchored by bow; written \"AB\"; and anchored by stem,
-    written \"AS\". A ship may not be simultaneously anchored by more
+    "A", anchored by bow; written "AB"; and anchored by stem,
+    written "AS". A ship may not be simultaneously anchored by more
     than one type of anchoring.
 2.  Anchoring does not go into effect the turn of noting it on the
-    \"log\", but the following turn. Ships may write their movement plot
+    "log", but the following turn. Ships may write their movement plot
     and continue operating normally the turn they decide to anchor. The
     following turn though, the ship must stop at anchor. Ordinary
     anchored ships may not move or turn in place.
-3.  Ships may also be anchored by \"springs\". This was a system of
+3.  Ships may also be anchored by "springs". This was a system of
     cables attached to the anchors which enabled a ship to be turned
-    while at anchor. A ship can anchor on \"springs\" by making
-    notations of either \"AS\" (anchored by the stern), or \"AB\"
+    while at anchor. A ship can anchor on "springs" by making
+    notations of either "AS" (anchored by the stern), or "AB"
     (anchored by the bow). A ship anchored by its stern will pivot on
     its stern hex when turning, while a ship anchored by its bow will
     pivot on its bow hex when turning.
@@ -240,14 +240,14 @@ so designated.
     made and melees fought.
 5.  The effect of anchoring on firing is found in the Advanced modifiers
     of the HDT.
-6.  A ship can up-anchor by writing the symbol \"(A)\" in the notes
-    column of the quot;log\" for two consecutive turns. On the turn
+6.  A ship can up-anchor by writing the symbol "(A)" in the notes
+    column of the quot;log" for two consecutive turns. On the turn
     following the completion of this, the ship can resume normal
     maneuvering. During the two turns that a ship is up-anchoring, she
     cannot load or fire her guns, make repairs, or engage in melees. A
     ship is not considered anchored while up-anchoring.
-7.  A ship can cut anchors by writing \"a\" in the notes column of the
-    \"log\". The turn following this notation, the ship can resume
+7.  A ship can cut anchors by writing "a" in the notes column of the
+    "log". The turn following this notation, the ship can resume
     normal maneuvering. Once a ship has cut its anchors, it cannot be
     anchored again.
 
@@ -360,7 +360,7 @@ loading times.
     a.  Chainshot has a maximum range of three hexes.
     b.  Chainshot increases the Basic Hit Table by the amount found in
         the chainshot section under Optional modifiers of HDT. Chainshot
-        lacks the penetrating ability of shot, and \"H\" and \"G\" hits
+        lacks the penetrating ability of shot, and "H" and "G" hits
         count as misses when it is used.
     c.  Chainshot is loaded in one turn.
     d.  The British may never fire chainshot.
@@ -369,7 +369,7 @@ loading times.
     a.  Doubleshot has a range of just one hex.
     b.  Doubleshot increases the Hit table number by the amount
         indicated in the Optional modifier of the HDT.
-    c.  Two moves are required to load doubleshot. \"DS\" is marked in
+    c.  Two moves are required to load doubleshot. "DS" is marked in
         the load section of the ship\'s log for two consecutive turns.
         On the turn following this, the doubleshot may be fired. The
         other broadside may not be reloaded during either of the two
@@ -399,25 +399,25 @@ additional crew square loss over and above the normal crew loss.
 
 ### C. Sink and Explode
 
-If any ship \"surrenders by striking\" in the Combat Phase, the
+If any ship "surrenders by striking" in the Combat Phase, the
 possibility that it may sink or explode must be determined.
 
 1.  When all of a ship\'s hull squares have been marked off, the enemy
     player rolls a die, and the Destroyed Hull Table is checked.
-2.  If the result indicates the ship \"surrenders by striking\" handle
+2.  If the result indicates the ship "surrenders by striking" handle
     as in the Basic Game.
-3.  If the result indicates that the \"surrendered\" ship will sink, the
+3.  If the result indicates that the "surrendered" ship will sink, the
     ship does not sink immediately. Continue to roll the die once for
     that ship on each succeeding turn during the Unfouling Phase until a
-    \"6\" is rolled. At that time the ship sinks and is removed from the
+    "6" is rolled. At that time the ship sinks and is removed from the
     mapboard. Place a sink marker on a ship about to sink.
-4.  If the result indicates that the \"surrendered\" ship will explode,
+4.  If the result indicates that the "surrendered" ship will explode,
     it does not do so immediately. Continue to roll the die once for
     that ship on each succeeding turn during the Unfouling Phase until a
-    \"6\" is rolled. At that time, the ship explodes, and is removed
+    "6" is rolled. At that time, the ship explodes, and is removed
     from the mapboard. The force of the exploding ship will damage every
     other ship located in an adjacent hex. This is handled by rolling
-    the die, and consulting Hit Table number\"10 under the Rigging
+    the die, and consulting Hit Table number"10 under the Rigging
     Section. Mark this damage on each adjacent ship or ships. Place a
     explode marker on a ship about to explode
 5.  Ships which will explode or sink remain on the mapboard until they
@@ -425,7 +425,7 @@ possibility that it may sink or explode must be determined.
     be taken off, repairs cannot be made, and the crew cannot melee or
     fire the guns. The ship cannot be sailed, although it will drift
     normally. It may not be captured.
-6.  Ships that will sink or explode cannot be \"scuttled\" so as to sink
+6.  Ships that will sink or explode cannot be "scuttled" so as to sink
     sooner than indicate on the die.
 
 ### D. Rake
@@ -442,8 +442,8 @@ The Melee Phase is identical to that of the Basic Game.
 [X. Loading Phase]{#hd11 .header}
 ---------------------------------
 
-A. One broadside per ship may be reloaded with \"R\" (roundshot),
-\"DS\" (doubleshot), \"CS\" (chainshot), or \"GS\" (grapeshot).
+A. One broadside per ship may be reloaded with "R" (roundshot),
+"DS" (doubleshot), "CS" (chainshot), or "GS" (grapeshot).
 
 ### B. Repairs
 
@@ -453,11 +453,11 @@ vice-versa or expend any factors of its movement allowance to turn, may
 make repairs; provided there are a least two crew sections available.
 (The second section need not be complete). All repairs take three turns
 (not necessarily in sequence). In three turns, two hull, two rigging, or
-two gun squares can be repaired by simply erasing the \"X\" on the most
-recently marked squares. Repairs cannot be made on \"surrendered\"
+two gun squares can be repaired by simply erasing the "X" on the most
+recently marked squares. Repairs cannot be made on "surrendered"
 ships. Repairs in progress are listed in the Notes section of the
-ship\'s \"log\", in this phase by writing \"RH\" for hull repairs \"RG\"
-for gun repairs, and \"RR\" for rigging repairs. The third repair of the
+ship\'s "log", in this phase by writing "RH" for hull repairs "RG"
+for gun repairs, and "RR" for rigging repairs. The third repair of the
 same type is circled and the boxes erased. Only one type of repair may
 be made per turn.
 
