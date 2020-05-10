@@ -1,8 +1,8 @@
-[Introduction to Rules]{#hd01 .header}
-======================================
+Introduction to Rules
+=====================
 
-[I. Introduction]{#hd02 .header}
---------------------------------
+I. Introduction
+---------------
 
 Wooden Ships and Iron Men is a tactical simulation of naval warfare
 during the great age of sail. The game covers the period from 1776 to
@@ -23,8 +23,8 @@ hoping to reduce them to a state of surrender. Careful maneuvering and
 good fleet organization are essential to defeat the enemy and gain
 victory.
 
-[II. Components]{#hd03 .header}
--------------------------------
+II. Components
+--------------
 
 ### A. Game Equipment
 
@@ -190,8 +190,8 @@ height="173"}
 All the essential information needed for moving and firing ships is
 placed here.
 
-[III. Prepare For Play]{#hd04 .header}
---------------------------------------
+III. Prepare For Play
+---------------------
 
 ### A. Mapboard Set Up
 

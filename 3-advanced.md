@@ -1,8 +1,8 @@
-[Advanced Game Rules]{#hd01 .header}
-====================================
+Advanced Game Rules
+===================
 
-[I. Introduction]{#hd02 .header}
---------------------------------
+I. Introduction
+---------------
 
 Upon mastering the Basic Game rules, players may wish to advance to a
 more realistic and complex version. The Advanced Game offers just that
@@ -60,8 +60,8 @@ appropriate section of the rules.
     bow and stern section.\
     ![Gun Log Notation](files/gunlog.gif){width="181" height="117"}
 
-[II. Sequence of Play]{#hd03 .header}
--------------------------------------
+II. Sequence of Play
+--------------------
 
 The expanded sequence of play is presented and should be followed in
 exact order. Each turn is composed of ten phases of play:
@@ -88,8 +88,8 @@ I.  Load Phase: Reload broadsides. A variety of ammunition may now be
     applicable squares if repairs are completed.
 J.  Full Sail Phase: Place or remove full sail counters on ships.
 
-[III. Wind Phase]{#hd04 .header}
---------------------------------
+III. Wind Phase
+---------------
 
 Wind is no longer a constant factor in the game. Changes may occur in
 both direction and velocity.
@@ -149,13 +149,13 @@ direction and/or velocity.
     placed in the Advanced Game for convenience, this may be used as an
     Optional rule if desired.
 
-[IV. Unfouling Phase]{#hd05 .header}
-------------------------------------
+IV. Unfouling Phase
+-------------------
 
 This phase remains the same as in the Basic Game.
 
-[V. Movement Notation Phase]{#hd06 .header}
--------------------------------------------
+V. Movement Notation Phase
+--------------------------
 
 There are several additions and changes to this phase.
 
@@ -264,18 +264,18 @@ restrictions:
     one hex in a straight line in the movement execution phase. No
     turning is allowed at any time during the move.
 
-[VI. Movement Execution Phase]{#hd07 .header}
----------------------------------------------
+VI. Movement Execution Phase
+----------------------------
 
 This phase is identical to that of the Basic Game.
 
-[VII. Boarding Preparation Phase]{#hd08 .header}
-------------------------------------------------
+VII. Boarding Preparation Phase
+-------------------------------
 
 This phase is identical to that of the Basic Game.
 
-[VIII. Combat Phase]{#hd09 .header}
------------------------------------
+VIII. Combat Phase
+------------------
 
 This phase is conducted in the same manner as the Combat Phase in the
 Basic Game. However, each broadside must fire in a reduced
@@ -434,13 +434,13 @@ A ship which occupies the hex directly in front of the target ship's
 bow or directly behind the target ship's stern and which may bring it
 guns to bear may fire a rake even if return fire is possible.
 
-[IX. Melee Phase]{#hd10 .header}
---------------------------------
+IX. Melee Phase
+---------------
 
 The Melee Phase is identical to that of the Basic Game.
 
-[X. Loading Phase]{#hd11 .header}
----------------------------------
+X. Loading Phase
+----------------
 
 A. One broadside per ship may be reloaded with "R" (roundshot),
 "DS" (doubleshot), "CS" (chainshot), or "GS" (grapeshot).
@@ -461,8 +461,8 @@ for gun repairs, and "RR" for rigging repairs. The third repair of the
 same type is circled and the boxes erased. Only one type of repair may
 be made per turn.
 
-[XI. Full Sail Phase]{#hd12 .header}
-------------------------------------
+XI. Full Sail Phase
+-------------------
 
 During this phase a player may decide for each ship whether full sails
 should be added or dropped. Full sails are added by placing a full sails

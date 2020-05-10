@@ -1,8 +1,8 @@
-[Basic Game Rules]{#hd01 .header}
-=================================
+Basic Game Rules
+================
 
-[I. Introduction]{#hd02 .header}
---------------------------------
+I. Introduction
+---------------
 
 The Basic Game gives all the information needed to play a scenario in
 Wooden Ships and Iron Men. Once this section of the rules is completed,
@@ -14,8 +14,8 @@ which allows players to design their own scenarios.
 The rules outline for the Basic Game follows the sequence of play for
 each turn.
 
-[II. Sequence of Play]{#hd03 .header}
--------------------------------------
+II. Sequence of Play
+--------------------
 
 Once the game has been set up, play begins. The game is played in turns
 (representing approximately three minutes). Most scenarios have no limit
@@ -40,8 +40,8 @@ G.  Melee Phase: Resolve all boarding actions, and mark all crew hits on
     the log sheet.
 H.  Load Phase: Load broadsides.
 
-[III. Unfouling Phase]{#hd04 .header}
--------------------------------------
+III. Unfouling Phase
+--------------------
 
 Ships which have fouled their rigging (i.e., have entangled their
 rigging with that of other ships) on previous moves and have not been
@@ -59,8 +59,8 @@ to attempt to unfoul.
 Successful Unfouling is noted by writing (F) in the notes section of the
 log.
 
-[IV. Movement Notation Phase]{#hd05 .header}
---------------------------------------------
+IV. Movement Notation Phase
+---------------------------
 
 All ships are moved simultaneously. The move of each ship must be
 written secretly in the log before any ship can actually be moved on the
@@ -178,8 +178,8 @@ mapboard.
     noted in their movement column. The first hex entered counts against
     their movement allowance.
 
-[V. Movement Execution Phase]{#hd06 .header}
---------------------------------------------
+V. Movement Execution Phase
+---------------------------
 
 ### A. Movement
 
@@ -263,8 +263,8 @@ during movement phase may collide with the other ship.
 8.  The fact that a ship is fouled is indicated in the Notes section of
     the ship's "log" by writing an "F".
 
-[VI. Ungrappling Phase]{#hd07 .header}
---------------------------------------
+VI. Ungrappling Phase
+---------------------
 
 At the end of the movement execution phase, any ship that occupies a hex
 adjacent to a hex occupied by another ship, friendly or unfriendly,
@@ -307,8 +307,8 @@ fouled or unfouled, may attempt to grapple.
 6.  Ungrappling is indicated by writing a "(G)" in the notes section
     of the ship's log.
 
-[VII. Boarding Preparation Phase]{#hd08 .header}
-------------------------------------------------
+VII. Boarding Preparation Phase
+-------------------------------
 
 Ships which have been fouled or successfully grappled may form boarding
 parties if desired. These parties may attempt to take over an enemy ship
@@ -363,8 +363,8 @@ or defend against a take-over in the melee phase.
     transfer is made and the crew section(s) involved may not be used in
     any other function for that turn.
 
-[VIII. Combat Phase]{#hd09 .header}
------------------------------------
+VIII. Combat Phase
+------------------
 
 In this phase, ships may fire at enemy ships in their field of fire and
 within range. Firing is considered simultaneous and all firing is
@@ -521,8 +521,8 @@ on the Hit Table.
         ship which can rake its hull. This is known as "surrender by
         immobility". Excess rigging hits are treated as "misses".
 
-[IX. Melee Phase]{#hd10 .header}
---------------------------------
+IX. Melee Phase
+---------------
 
 All ships which have not "surrendered" and have crew squares remaining
 in their boarding parties may now attempt to capture opposing ships, to
@@ -645,8 +645,8 @@ success of the boarding, melee must occur with the enemy's "OBP" or
     It is still subject to surrender if the necessary conditions occur
     again.
 
-[X. Loading Phase]{#hd11 .header}
----------------------------------
+X. Loading Phase
+----------------
 
 Ships should have their broadsides loaded in the beginning of the
 scenario. Reloading of fired broadsides takes place in the last phase of
@@ -663,8 +663,8 @@ C.  In the Basic Game only roundshot may be fired. Reloading is
 D.  A broadside may be fired even if there are no targets, but the
     advantage of initial broadside is lost.
 
-[XI. Victory Conditions]{#hd12 .header}
----------------------------------------
+XI. Victory Conditions
+----------------------
 
 Victory conditions depend upon the scenario. Any special conditions will
 be written in the appropriate scenario. General victory conditions will
@@ -701,8 +701,8 @@ scenario. Some general rules follow:
 4.  At the end of the scenario, all points are counted and the player
     with the highest amount is declared the winner.
 
-[XII. Miscellaneous]{#hd13 .header}
------------------------------------
+XII. Miscellaneous
+------------------
 
 Except for scenarios where land hexes are present, or where land is
 defined as being just off a certain edge of the mapboard, it should be

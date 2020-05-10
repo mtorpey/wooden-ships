@@ -1,15 +1,15 @@
-[Optional Rules]{#hd01 .header}
-===============================
+Optional Rules
+==============
 
-[I. Introduction]{#hd02 .header}
---------------------------------
+I. Introduction
+---------------
 
 This section offers a set of optional rules that may be added in any
 combination to suit the player's taste. Each optional rule adds greater
 scope and realism as well as complexity to play of the game.
 
-[II. Timed Moves]{#hd03 .header}
---------------------------------
+II. Timed Moves
+---------------
 
 To make the game flow more quickly, use a timer to limit the writing of
 movement. Allow one minute to write for single-ship actions, two minutes
@@ -19,8 +19,8 @@ side. Ships whose orders do not get written, move on a straight course
 their full movement allowance. 1, 2, and 3 minute timers may be
 purchased directly from Avalon Hill. Ask for a current Parts List.
 
-[III. Multi-Player Communication]{#hd04 .header}
-------------------------------------------------
+III. Multi-Player Communication
+-------------------------------
 
 During the age of sail, flags were used to communicate tactics to the
 ships of a fleet. This system was inefficient for three major reasons:
@@ -44,8 +44,8 @@ D.  Players may also wish to forbid any communications between players
     simulate their difficulties in reading each other's flag signaling
     system.
 
-[IV. Command Lag]{#hd05 .header}
---------------------------------
+IV. Command Lag
+---------------
 
 The number of ships any flag officer of the period could actually
 control effectively was a squadron of six ships (often less). There
@@ -84,16 +84,16 @@ commanding more than one squadron, use the following rules:
 6.  In multi-player games, each player chooses a flag ship for the
     squadron that he controls.
 
-[V. Changing Wind Number]{#hd06 .header}
-----------------------------------------
+V. Changing Wind Number
+-----------------------
 
 When changing wind direction and wind velocity, a player may roll the
 die a fourth time. This new number represents the new wind change
 number. It may not be rolled if the wind does not change in velocity or
 direction.
 
-[VI. Variable Wind Direction and Velocity]{#hd07 .header}
----------------------------------------------------------
+VI. Variable Wind Direction and Velocity
+----------------------------------------
 
 At the start of any scenario, a player may instead of accepting the
 historical wind factors roll a die 3 times for a new wind direction,
@@ -103,8 +103,8 @@ wind velocity would be the match of the second die roll with the die
 roll column of the Wind Velocity Table. The third die roll would be the
 wind change number.
 
-[VII. Towing]{#hd08 .header}
-----------------------------
+VII. Towing
+-----------
 
 A. A ship may tow another friendly ship.
 
@@ -127,8 +127,8 @@ movement plot need be written.
 
 3\. Ungrappling notations in the "log" will end the tow.
 
-[VIII. Loss of Rigging]{#hd09 .header}
---------------------------------------
+VIII. Loss of Rigging
+---------------------
 
 Although the rigging sections do not correspond exactly on a one-to-one
 basis with the masts of a ship, there is a positive correlation between
@@ -169,8 +169,8 @@ mast loose. The ship's speed is reduced by one and may not turn until
 it is cut loose. Any adjacent ship within the play of the broadside over
 which the mast hangs must roll for fouling.
 
-[IX. Blocked Wind]{#hd10 .header}
----------------------------------
+IX. Blocked Wind
+----------------
 
 When one ship is adjacent to another and lays directly between its bow
 or stern hex and the wind, the sails would tend to "blanket" or block
@@ -195,8 +195,8 @@ in A above is reduced by one for that turn.
 guns, the loss of speed in A above is varied by two as explained in B
 above.
 
-[X. Exploding Ships]{#hd11 .header}
------------------------------------
+X. Exploding Ships
+------------------
 
 As damage caused by exploding ships was a function of the ship's size,
 a variable damage effect is herein incorporated. A ship exploding will
@@ -205,8 +205,8 @@ double to her 1 hex range rake bonus, but in no case to exceed table 10.
 In addition No. 14 of the Critical Hits Table must be checked for fire
 damage.
 
-[XI. Running Aground]{#hd12 .header}
-------------------------------------
+XI. Running Aground
+-------------------
 
 Each ship has a depth value. This value indicates the maximum depth of
 water in which that ship will run aground. If a ship enters a hex in
@@ -233,8 +233,8 @@ turn.
 
 E. Ships cannot fire their guns while aground.
 
-[XII. Casting the Lead]{#hd13 .header}
---------------------------------------
+XII. Casting the Lead
+---------------------
 
 Ships often needed to measure depth of uncharted waters through which
 they intended to travel. Casting the lead was a method used to determine
@@ -248,8 +248,8 @@ ship.
 B. Ships at anchor which turn 120 degrees have moved either stern or bow
 two hexes and cannot be considered to be -casting the lead.\-\--
 
-[XIII. Optional Rake Determination]{#hd14 .header}
---------------------------------------------------
+XIII. Optional Rake Determination
+---------------------------------
 
 Ships qualify for raking only when they occupy a hex toward which the
 bow or stern of the target ship is pointing.
@@ -266,8 +266,8 @@ movement of ships in real battle.
 Players are advised to bear this in mind when choosing which rule to
 use.
 
-[XIV. Fore and Aft Rigging]{#hd15 .header}
-------------------------------------------
+XIV. Fore and Aft Rigging
+-------------------------
 
 Allow ships which have fore and aft rigging (ships which are rigged with
 the type sails used by modern sailboats as opposed to the square sails
@@ -277,8 +277,8 @@ improved weatherliness of fore-and-aft sails. Ships which carry this
 special type of rigging will be stated as such in the scenario. Rigging
 hits are not doubled if a fore and aft rigged ship is at full sail.
 
-[XV. Special Rules]{#hd16 .header}
-----------------------------------
+XV. Special Rules
+-----------------
 
 ### A. Copper Bottom
 

@@ -1,5 +1,5 @@
-[Tables]{#hd01 .header}
-=======================
+Tables
+======
 
 I do apologize for the fact that I've simply dumped a scan of the
 Avalon Hill chart here. I have to convert all of this information into
