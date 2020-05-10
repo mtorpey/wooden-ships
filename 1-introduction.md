@@ -180,7 +180,7 @@ height="173"}
     explained in the appropriate section of rules. Hereafter all Tables
     will be referred to in abbreviated form.
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
 2.  The Advanced/Optional Tables differ from the Basic Game Tables and
     are located on a separate card.
@@ -220,14 +220,14 @@ an example of this procedure.
 
 ![Sample Log Sheet](files/logsample.gif){width="207" height="612"}
 
-(Image incomplete\...)
+(Image incomplete...)
 
 The ship counter and log above represent the starting Basic Game
 strength of the Constellation. Check her specifications on the Master
 Scenario Chart on Page 27 to ascertain how to correct fill out a ship's
 log.
 
-(Meaningless cross reference\...)
+(Meaningless cross reference...)
 
 1.
 :   The name of the ship and number of gun carried is placed on line 1.
@@ -247,7 +247,7 @@ log.
     to wind. This information can be found in Movement section of the
     Basic Game (IV A. 3., 4.).
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
     Ignore parenthesis for Basic Game a these spaces are intended for
     full-sail movement in the Advanced Game.
@@ -280,7 +280,7 @@ log.
     exactly like section 11. Carronades are special guns of limited
     range, hence the reason for separation from section 11.
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
 13.
 :   Section 13 is the Rigging section. Each line of squares represent

@@ -76,7 +76,7 @@ mapboard.
     Introduction to Rules). All ships have a battle sail speed of
     either 3 or 4.
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
 3.  Along with the battle sail speed the attitude of the ship in
     relation to the wind must be determined. There are four attitudes to
@@ -97,7 +97,7 @@ mapboard.
     which its bow is pointing; i.e., a ship can't move sideways or
     backwards (exception: drift- V, 8. 1. of Basic Game).
 
-    (Meaningless cross-reference\...)
+    (Meaningless cross-reference...)
 
     Each hex a ship's bow enters costs one movement factor of its
     allowance. Once a ship has used all its factors, it must stop.
@@ -121,7 +121,7 @@ mapboard.
 10. Each individual turn costs one movement factor of the allowance.
     (Exception: IV, A. 15 of Basic Game).
 
-    (Meaningless cross-reference\...)
+    (Meaningless cross-reference...)
 
 11. A ship may never make a turn if the cost would cause that ship to
     exceed its movement allowance.
@@ -199,7 +199,7 @@ least their second consecutive movement execution phase without moving
 into another hex. Ships may turn in place and still fulfill drifting
 obligations (see 1V, A. 15, of the Basic Game).
 
-(Meaningless cross-reference\...)
+(Meaningless cross-reference...)
 
 Ship of the line class vessels will drift on hex every other turn while
 drifting. Frigates and smaller class ships will drift one hex per turn
@@ -611,7 +611,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
     "TBP" or "OBP" is placed aboard. The boarding party becomes the
     prize crew (See 11118. 8. of the Basic Game).
 
-    (Meaningless cross-reference\...)
+    (Meaningless cross-reference...)
 
 4.  Surrendered ships may not fire their guns, melee, or move as long as
     they are surrendered.

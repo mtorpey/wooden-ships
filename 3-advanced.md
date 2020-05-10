@@ -41,7 +41,7 @@ appropriate section of the rules.
             the target aspect, (either hull or rigging), on the Critical
             Hit Table found on the inside back cover of the manual.
 
-            (Meaningless cross reference\...)
+            (Meaningless cross reference...)
 
         2.  Any Critical Hit damage acquired is applied after all other
             damage has been recorded at the end of the Combat Phase.
@@ -179,13 +179,13 @@ more sails than normally used in battle.
     regain at least one rigging square in the first section. (See X 8,
     Advanced Game).
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
 5.  A ship sets sail to full sail speed by placing a full sail marker on
     his ship. The procedure for placing and removing full sail counters
     is explained in Section XI of the Advanced Game.
 
-    (Meaningless cross reference\...)
+    (Meaningless cross reference...)
 
     A player does not have to note full sails in the "log".
 
@@ -251,7 +251,7 @@ so designated.
     normal maneuvering. Once a ship has cut its anchors, it cannot be
     anchored again.
 
-(Header missing\...)
+(Header missing...)
 
 Ships which did not move from their bow hex during the previous movement
 execution phase are limited in their movement by the following
@@ -296,7 +296,7 @@ fire at targets outside of this field.
     section. Field 5 can be fired at only by the guns of the bow
     section. (See Advanced Game II B 2).
 
-    (Meaningless crossreference\...)
+    (Meaningless crossreference...)
 
 3.  A ship may never fire at more than one target with a broadside even
     if just a section of the broadside is fired.
