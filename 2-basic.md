@@ -552,7 +552,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
 ### B. Boarding Procedure
 
 1.  Ships which have formed "OBP's" during the Boarding Preparation
-    Phase must now attempt to have their "0BP's" board and capture by
+    Phase must now attempt to have their "OBP's" board and capture by
     melee the opposing enemy ships to which they have been ordered. Only
     "OBP's" initiate melee.
 2.  If two opposing ships are simultaneously sending "OBP's" to
@@ -560,7 +560,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
 3.  If one of the opposing ships has ordered a "DBP", melee occurs if
     she is attacked by an "OBP". If the other ship has a "DBP",
     "TBP", or "NBP" then no melee occurs.
-4.  If an "0BP" (not "DBP") boards a ship which has ordered a
+4.  If an "OBP" (not "DBP") boards a ship which has ordered a
     "NBP" or "TBP" only, that "OBP" automatically captures the
     ship without melee. The "TBP" would effect its transfer
     simultaneously.
