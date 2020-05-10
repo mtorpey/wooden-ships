@@ -69,7 +69,7 @@ mapboard.
 ### A. Movement and Turning Allowance
 
 1.  Before writing orders, the movement allowance for each ship must be
-    determined. This movement allowance is a combination of a ship\'s
+    determined. This movement allowance is a combination of a ship's
     battle sail speed and its attitude to the wind direction.
 2.  The battle sail speed of each ship is printed on the counter
     adjacent to the stern of the ship diagram (see 11, C. 2 of
@@ -94,12 +94,12 @@ mapboard.
         notation phase in attitude A. Its movement allowance is 4.
 5.  The movement allowance is the maximum number of hexes a ship may
     move in a movement phase. A ship may only move into a hex toward
-    which its bow is pointing; i.e., a ship can\'t move sideways or
+    which its bow is pointing; i.e., a ship can't move sideways or
     backwards (exception: drift- V, 8. 1. of Basic Game).
 
     (Meaningless cross-reference\...)
 
-    Each hex a ship\'s bow enters costs one movement factor of its
+    Each hex a ship's bow enters costs one movement factor of its
     allowance. Once a ship has used all its factors, it must stop.
 
 6.  Movement factors may not be accumulated from one turn to another nor
@@ -110,7 +110,7 @@ mapboard.
 8.  A ship may make only one 60 degree turn per hex in a movement
     execution phase. A 60 degree turn is equivalent to turning the bow
     to face an adjacent hexside. Since each ship counter occupies
-    2 hexes, as a ship\'s bow is pivoted 60 degrees to point to a new
+    2 hexes, as a ship's bow is pivoted 60 degrees to point to a new
     hexside, the stern will swing into a new hex.
 9.  The turning ability number on the ship counter represents the
     maximum number of turns that ship may make in a movement execution
@@ -144,11 +144,11 @@ mapboard.
 16. A ship which turns into attitude D must immediately stop and may not
     move or turn for the remainder of the movement phase, even if it has
     movement factors remaining.
-17. A ship\'s movement allowance may never be reduced below 0.
+17. A ship's movement allowance may never be reduced below 0.
 
 ### B. Log Notations
 
-1.  All notations of the move column of the ship\'s "log". The column
+1.  All notations of the move column of the ship's "log". The column
     is divided into numbered sections corresponding to the turns. All
     notations are written in the appropriate turn section.
 2.  The number of hexes a ship is to move is written as a number.
@@ -159,7 +159,7 @@ mapboard.
     Example: The ship is at A attitude to the wind and has a battlesail
     speed of 4. Its movement allowance is determined to be 4. The move
     notation "L1R1" in the "log" reads left turn 60°, forward 1 hex,
-    right, turn 60°, forward 1 hex. This has completed the ship\'s full
+    right, turn 60°, forward 1 hex. This has completed the ship's full
     allowance. After its first turn into attitude C, the maximum
     distance the ship could move in that direction was one hex. If it
     wished to remain in attitude C, it would have to end its move at
@@ -172,7 +172,7 @@ mapboard.
 6.  Orders must be written for each ship. If a player does not wish a
     ship to move, an "0" will be used as notation.
 7.  If a log sheet is incorrectly filled out and/or indicates an illegal
-    move for a ship, end that ship\'s movement at the point of the
+    move for a ship, end that ship's movement at the point of the
     infraction.
 8.  Ships which are to enter the game on this turn have their movement
     noted in their movement column. The first hex entered counts against
@@ -261,7 +261,7 @@ during movement phase may collide with the other ship.
 7.  Ships that are fouled may perform boarding maneuvers and melee that
     turn and/or any or all subsequent turns that they remain fouled.
 8.  The fact that a ship is fouled is indicated in the Notes section of
-    the ship\'s "log" by writing an "F".
+    the ship's "log" by writing an "F".
 
 [VI. Ungrappling Phase]{#hd07 .header}
 --------------------------------------
@@ -286,7 +286,7 @@ fouled or unfouled, may attempt to grapple.
 7.  Boarding parties can be formed and boarding actions fought between
     grappled ships.
 8.  The fact that a ship is grappled is indicated by writing a "G" in
-    the notes section of the ship\'s "log" for each successful
+    the notes section of the ship's "log" for each successful
     grapple.
 
 ### B. Ungrappling
@@ -305,7 +305,7 @@ fouled or unfouled, may attempt to grapple.
     remains grappled to one or more enemy ships, it must wait till next
     turn to attempt to ungrapple.
 6.  Ungrappling is indicated by writing a "(G)" in the notes section
-    of the ship\'s log.
+    of the ship's log.
 
 [VII. Boarding Preparation Phase]{#hd08 .header}
 ------------------------------------------------
@@ -358,7 +358,7 @@ or defend against a take-over in the melee phase.
     the turn following the transfer. This applies even when the ship
     they are transferred to is engaged in melee during the turn of
     transfer.
-8.  "TBP\'s" may be formed to board ships which one thinks will
+8.  "TBP's" may be formed to board ships which one thinks will
     surrender. If, for any reason the ship does not surrender, no
     transfer is made and the crew section(s) involved may not be used in
     any other function for that turn.
@@ -384,7 +384,7 @@ sheets. Firing is done by broadsides of cannon.
     of fire.
 3.  The field of fire of each broadside is the area covered by the play
     of the broadside up to the limit of the ten hex firing range.
-4.  A ship may fire at a single enemy ship in a broadside\'s field of
+4.  A ship may fire at a single enemy ship in a broadside's field of
     fire subject to two conditions:
     a.  The ship being fired upon must be the closest in number of hexes
         to the firing ship of all ships in the field of fire;
@@ -409,7 +409,7 @@ sheets. Firing is done by broadsides of cannon.
 1.  Count the number of hexes to the target by the shortest possible
     route. It may be to either the bow or stern hex, whichever is
     closest. This is the range.
-2.  In the gun section of the firing ship\'s "log", count the number
+2.  In the gun section of the firing ship's "log", count the number
     of guns squares on the broadside firing. Do not include damaged gun
     squares in this count. Also, do not include carronade squares unless
     the range is two hexes or less.
@@ -434,9 +434,9 @@ sheets. Firing is done by broadsides of cannon.
 7.  There are four types of hits: H (Hull), G (Gun), C (Crew), and
     R (Rigging). At the end of the Combat Phase, the number and type of
     hits are marked off in the appropriate sections of the target
-    ship\'s "log". Players may wish to keep track of these hits on a
+    ship's "log". Players may wish to keep track of these hits on a
     side sheet of paper until the end of the phase.
-8.  Grappled and/or fouled ships may not fire at each other\'s rigging.
+8.  Grappled and/or fouled ships may not fire at each other's rigging.
 
 ### C. Hit Table Modifiers
 
@@ -469,7 +469,7 @@ on the Hit Table.
 1.  Hull Hits ("H")
     a.  Mark off one hull square per hull hit called for on the Hit
         Tables.
-    b.  When all of a ship\'s hull squares have been marked off, that
+    b.  When all of a ship's hull squares have been marked off, that
         ship will "surrender by striking her colors". The ship is
         considered to be in such danger of sinking that it cannot be
         sailed or the guns worked for the remainder of the game (even by
@@ -512,7 +512,7 @@ on the Hit Table.
         sections (for ships with a battle sail speed of 4). All rigging
         hits are taken out of the first section until all rigging
         squares are gone there, then out of the second section, etc.
-        Each complete rigging section marked off drops the ship\'s
+        Each complete rigging section marked off drops the ship's
         movement allowance by one hex in all attitudes to the wind. When
         all rigging sections are gone, the ship cannot move.
     b.  If all rigging squares are marked off, and no friendly ship of
@@ -527,7 +527,7 @@ on the Hit Table.
 All ships which have not "surrendered" and have crew squares remaining
 in their boarding parties may now attempt to capture opposing ships, to
 defend themselves and/or to transfer to friendly ships. To determine the
-success of the boarding, melee must occur with the enemy\'s "OBP" or
+success of the boarding, melee must occur with the enemy's "OBP" or
 "DBP". Melee is fought simultaneously once per turn.
 
 ### A. Transfer Procedure
@@ -551,11 +551,11 @@ success of the boarding, melee must occur with the enemy\'s "OBP" or
 
 ### B. Boarding Procedure
 
-1.  Ships which have formed "OBP\'s" during the Boarding Preparation
-    Phase must now attempt to have their "0BP\'s" board and capture by
+1.  Ships which have formed "OBP's" during the Boarding Preparation
+    Phase must now attempt to have their "0BP's" board and capture by
     melee the opposing enemy ships to which they have been ordered. Only
-    "OBP\'s" initiate melee.
-2.  If two opposing ships are simultaneously sending "OBP\'s" to
+    "OBP's" initiate melee.
+2.  If two opposing ships are simultaneously sending "OBP's" to
     capture each other, both parties must melee.
 3.  If one of the opposing ships has ordered a "DBP", melee occurs if
     she is attacked by an "OBP". If the other ship has a "DBP",
@@ -564,10 +564,10 @@ success of the boarding, melee must occur with the enemy\'s "OBP" or
     "NBP" or "TBP" only, that "OBP" automatically captures the
     ship without melee. The "TBP" would effect its transfer
     simultaneously.
-5.  If several "OBP\'s" are boarding the same ship, their total melee
+5.  If several "OBP's" are boarding the same ship, their total melee
     strengths are added together.
 6.  If an "OBP" is ordered to board a ship which has ordered both an
-    "OBP" and a "DBP", the two "OBP\'s" must melee first. If
+    "OBP" and a "DBP", the two "OBP's" must melee first. If
     victorious the "OBP" must continue melee with the "DBP".
 7.  If an enemy ship "surrenders" during the Combat Phase, an "OBP"
     intended for that ship may go aboard to act as prize crew.
@@ -575,7 +575,7 @@ success of the boarding, melee must occur with the enemy\'s "OBP" or
 ### C. Melee Procedure
 
 1.  Each crew square involved in a melee is worth a certain number of
-    melee factors dependent on the ship\'s crew quality. The number of
+    melee factors dependent on the ship's crew quality. The number of
     combat factors each crew square is worth is given on the Crew Melee
     Strength Table. Each side multiplies the number of crew squares in
     the melee times the number of combat factors per crew square to find
@@ -621,7 +621,7 @@ success of the boarding, melee must occur with the enemy\'s "OBP" or
 6.  Once a ship is captured, the victorious player opens a new column on
     his "log" sheet for the captured ship, copying all information
     (including damage) from the old enemy "log".
-7.  The original crew is still marked on the ship\'s crew section of the
+7.  The original crew is still marked on the ship's crew section of the
     "log". The prize crew is kept on a separate sheet of paper.
 8.  If for any reason a prize crew leaves, or is eliminated, the ship
     returns to the control of the original owner.
@@ -678,7 +678,7 @@ is the victor. There is no time limit for this. Other situations that
 qualify are printed below:
 
 1.  If a player refuses to have combat and continually moves his ship
-    out of the enemy\'s ship\'s range, he is considered the loser. This
+    out of the enemy's ship's range, he is considered the loser. This
     is not an explicit rule so some intelligence must be used to
     implement it. Its function is to keep partially damaged ships from
     attempting to draw by avoiding victory conditions.
@@ -694,7 +694,7 @@ In Multi-ship scenarios, special victory conditions are printed with the
 scenario. Some general rules follow:
 
 1.  Each ship has a point value written in its order of battle.
-2.  Ships which strike give the opposing player that ship\'s point
+2.  Ships which strike give the opposing player that ship's point
     value.
 3.  Ships which have been captured count twice the value to the opposing
     player.
@@ -708,7 +708,7 @@ Except for scenarios where land hexes are present, or where land is
 defined as being just off a certain edge of the mapboard, it should be
 possible for players to keep from sailing off the mapboard by the
 expedient of moving all counters a certain number of hexes in the same
-direction. This method, maintains the ship\'s relative positions to one
+direction. This method, maintains the ship's relative positions to one
 another.
 
 At other times when all ships have moved to one side of the board, it

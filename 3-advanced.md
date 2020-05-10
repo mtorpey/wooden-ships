@@ -24,11 +24,11 @@ appropriate section of the rules.
         with the number of guns firing on the range table. The number in
         parenthesis determines which Hit Table is to be used.
     b.  Stern Rake: A bonus of +1 is added to a rake any time it is
-        fired at a ship\'s stern.
+        fired at a ship's stern.
 2.  Hit Tables
     a.  The number of hit tables has been increased by two to Hit Table
         No. 10 in both the hull and rigging sections. If a firing
-        ship\'s Hit Table has been modified to a value greater than ten,
+        ship's Hit Table has been modified to a value greater than ten,
         resolve the attack as separate die rolls. Each die roll must be
         made on the highest table possible. (Example: The greatest
         modification for a firing ship is 20. This would allow the ship
@@ -139,7 +139,7 @@ direction and/or velocity.
     representing the four attitudes to wind. To determine the effect of
     wind velocity on ship, cross index the velocity to the ship class
     number and wind attitude. The result then subtracted from the
-    ship\'s movement allowance which becomes the new movement allowance
+    ship's movement allowance which becomes the new movement allowance
     for that turn. No allowance can be reduced to less than zero.
     (Example: A ship of 74 guns sailing with battle sails in attitude to
     a wind of gale force, has movement allowance of 2. Cross-indexing
@@ -165,12 +165,12 @@ Full sails allow ships to increase their movement allowance by setting
 more sails than normally used in battle.
 
 1.  Like battle sail speed, each ship has a full sail speed that is
-    given on each ship\'s counter. There are three full sail speeds: 5,
-    6, and 7. The following diagrams give a ship\'s movement allowance
+    given on each ship's counter. There are three full sail speeds: 5,
+    6, and 7. The following diagrams give a ship's movement allowance
     at full sail in relation to wind attitudes:\
     ![speeds under full sail](files/fsspeeds.gif){width="377"
     height="194"}
-2.  Note in each ship\'s log each full Sail movement allowance per
+2.  Note in each ship's log each full Sail movement allowance per
     attitude.
 3.  All rigging hits scored on full sail ships are doubled.
 4.  Any ship which loses the entire first section of rigging immediately
@@ -213,7 +213,7 @@ B written is equivalent to one movement factor expended.
 
 During the Movement Notation Phase, players may decide to anchor their
 ships by making the appropriate notation in the notes column of the
-ship\'s log. The advantage to anchoring is that it improves the firing
+ship's log. The advantage to anchoring is that it improves the firing
 accuracy as a result of the steadier fire maintained from a more stable
 position. This rule may only be used in certain scenarios which will be
 so designated.
@@ -283,7 +283,7 @@ field-of-fire, but may use additional types of ammunition.
 
 ### A. Reduced Field-of-Fire
 
-The ship\'s field of fire in the Basic Game was simplified for the sake
+The ship's field of fire in the Basic Game was simplified for the sake
 of playability. Ships actually had a more limited field at which a full
 broadside could be trained at a target, although certain sections could
 fire at targets outside of this field.
@@ -331,7 +331,7 @@ fire at targets outside of this field.
     determination](files/range.gif){width="282" height="284"} Example:
     Ships A and B are firing at each other. Determination of
     field-of-fire indicates that a full broadside may be fired by both
-    ships as they mutually occupy each other\'s field 3. Range
+    ships as they mutually occupy each other's field 3. Range
     determination indicates, though, that the closest range is two hexes
     counted through field 4. As both field-of-fire and range must be
     determined independently, each ship may fire at each other with full
@@ -339,7 +339,7 @@ fire at targets outside of this field.
 7.  Gun hits are marked off in the section closest to the firing guns.
     If both sections are equidistant, then the defender chooses which
     gun squares are lost. If there are no guns left in that broadside
-    hits are marked off on any unmarked gun squares of the defender\'s
+    hits are marked off on any unmarked gun squares of the defender's
     choice. This includes carronades.
 
 ### B. Types of Ammunition
@@ -370,7 +370,7 @@ loading times.
     b.  Doubleshot increases the Hit table number by the amount
         indicated in the Optional modifier of the HDT.
     c.  Two moves are required to load doubleshot. "DS" is marked in
-        the load section of the ship\'s log for two consecutive turns.
+        the load section of the ship's log for two consecutive turns.
         On the turn following this, the doubleshot may be fired. The
         other broadside may not be reloaded during either of the two
         turns. Once a ship has begun loading doubleshot, it is committed
@@ -402,7 +402,7 @@ additional crew square loss over and above the normal crew loss.
 If any ship "surrenders by striking" in the Combat Phase, the
 possibility that it may sink or explode must be determined.
 
-1.  When all of a ship\'s hull squares have been marked off, the enemy
+1.  When all of a ship's hull squares have been marked off, the enemy
     player rolls a die, and the Destroyed Hull Table is checked.
 2.  If the result indicates the ship "surrenders by striking" handle
     as in the Basic Game.
@@ -430,8 +430,8 @@ possibility that it may sink or explode must be determined.
 
 ### D. Rake
 
-A ship which occupies the hex directly in front of the target ship\'s
-bow or directly behind the target ship\'s stern and which may bring it
+A ship which occupies the hex directly in front of the target ship's
+bow or directly behind the target ship's stern and which may bring it
 guns to bear may fire a rake even if return fire is possible.
 
 [IX. Melee Phase]{#hd10 .header}
@@ -447,7 +447,7 @@ A. One broadside per ship may be reloaded with "R" (roundshot),
 
 ### B. Repairs
 
-Ships which don\'t load or fire guns, engage in melee, become involved
+Ships which don't load or fire guns, engage in melee, become involved
 in a collision, up-anchor change from full sails to battle sails or
 vice-versa or expend any factors of its movement allowance to turn, may
 make repairs; provided there are a least two crew sections available.
@@ -456,7 +456,7 @@ make repairs; provided there are a least two crew sections available.
 two gun squares can be repaired by simply erasing the "X" on the most
 recently marked squares. Repairs cannot be made on "surrendered"
 ships. Repairs in progress are listed in the Notes section of the
-ship\'s "log", in this phase by writing "RH" for hull repairs "RG"
+ship's "log", in this phase by writing "RH" for hull repairs "RG"
 for gun repairs, and "RR" for rigging repairs. The third repair of the
 same type is circled and the boxes erased. Only one type of repair may
 be made per turn.

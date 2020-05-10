@@ -18,7 +18,7 @@ Each counter represents a single ship and covers two hexes of the
 mapboard. Orders for movement are written for each ship on a "log".
 Ships are then moved simultaneously over the mapboard. Any which foul or
 grapple may attempt to form boarding parties to take possession of the
-enemy\'s craft by force. Ships may also fire at the opposing vessels
+enemy's craft by force. Ships may also fire at the opposing vessels
 hoping to reduce them to a state of surrender. Careful maneuvering and
 good fleet organization are essential to defeat the enemy and gain
 victory.
@@ -43,7 +43,7 @@ are maneuvered. The hexagonal grid printed on the mapboard is used to
 determine movement, firing ranges, and the positions of the ships. Each
 hex (hexagon) has an identification code, this being used to determine
 the initial placement of ships for the various scenarios. The code is
-also valuable in checking a ship\'s movement. Portions of the board are
+also valuable in checking a ship's movement. Portions of the board are
 sometimes used as juttings of land in certain scenarios, and will be
 defined as such in the applicable scenario. A wind direction hexagon is
 found at the lower lefthand corner. Each edge of the board is labeled by
@@ -55,7 +55,7 @@ labeled in clockwise order, 1, 2-3, 4, 5-6.
 Included in the game is a sheet of die-cut counters which represent
 ships and markers of various types. These are the playing pieces used in
 the game. Each counter has a colored spot amidships to identify it and
-act as the ship\'s colors. Red spots identify British ships; white spots
+act as the ship's colors. Red spots identify British ships; white spots
 identify French vessels; gold spots identify Spanish and Venetian ships;
 and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
@@ -152,7 +152,7 @@ height="173"}
     ship can make during the course of the Movement Execution Phase.
 2.  Battle Sail Speed: The maximum speed that a ship has under battle
     sails. (There are two speeds, 3 and 4).
-3.  Full Sail Speed: The lower righthand number represents a ship\'s
+3.  Full Sail Speed: The lower righthand number represents a ship's
     movement ability under an increased spread of sail. This speed is
     used in the Advanced Game only.
 4.  Stern: The stern of a ship is its rear section. This is the blunt
@@ -201,7 +201,7 @@ placed here.
     as experience is gained.
 2.  Remove from the counter sheet a counter of proper nationality and
     class for each ship to be played.
-3.  Lay the mapboard out and place each ship\'s bow in the assigned bow
+3.  Lay the mapboard out and place each ship's bow in the assigned bow
     hex and pointing in the numbered direction corresponding to the wind
     direction hex on the board.
 4.  The wind arrow counter is placed in the wind direction hex pointing
@@ -215,7 +215,7 @@ A very important step must now be completed; filling out the log sheet.
 A player must fill out a "log" for each ship that he controls. All
 information for that ship necessary to the play of the game will be
 placed here. This information is found on the ship counter or in the
-ship\'s Order of Battle, found in the scenarios. A diagram is given as
+ship's Order of Battle, found in the scenarios. A diagram is given as
 an example of this procedure.
 
 ![Sample Log Sheet](files/logsample.gif){width="207" height="612"}
@@ -224,7 +224,7 @@ an example of this procedure.
 
 The ship counter and log above represent the starting Basic Game
 strength of the Constellation. Check her specifications on the Master
-Scenario Chart on Page 27 to ascertain how to correct fill out a ship\'s
+Scenario Chart on Page 27 to ascertain how to correct fill out a ship's
 log.
 
 (Meaningless cross reference\...)
@@ -289,7 +289,7 @@ log.
     not being used are marked out.
 
 14.
-:   On the movement column (14) of the ship\'s log, there is a load
+:   On the movement column (14) of the ship's log, there is a load
     section. It is composed of two spaces, one marked L for left
     broadside; the other R for right broadside. In these spaces the type
     of shot for each broadside is to be marked. There are 4 types of

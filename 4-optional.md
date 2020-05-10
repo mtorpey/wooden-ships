@@ -5,7 +5,7 @@
 --------------------------------
 
 This section offers a set of optional rules that may be added in any
-combination to suit the player\'s taste. Each optional rule adds greater
+combination to suit the player's taste. Each optional rule adds greater
 scope and realism as well as complexity to play of the game.
 
 [II. Timed Moves]{#hd03 .header}
@@ -41,7 +41,7 @@ B.  Only one message per ship may be sent to the other ships of the
 C.  This option should be used with the "timed moves" option.
 D.  Players may also wish to forbid any communications between players
     commanding different squadrons of different nationalities, to
-    simulate their difficulties in reading each other\'s flag signaling
+    simulate their difficulties in reading each other's flag signaling
     system.
 
 [IV. Command Lag]{#hd05 .header}
@@ -165,7 +165,7 @@ If the mast fails free, the results of the mast loss are the same as the
 loss of a rigging section. If the mast hangs over the side, the ship
 cannot fire until it has been cut loose. The Unfouling Table is used,
 and one die roll per unfouling phase is allowed for attempts to cut the
-mast loose. The ship\'s speed is reduced by one and may not turn until
+mast loose. The ship's speed is reduced by one and may not turn until
 it is cut loose. Any adjacent ship within the play of the broadside over
 which the mast hangs must roll for fouling.
 
@@ -198,7 +198,7 @@ above.
 [X. Exploding Ships]{#hd11 .header}
 -----------------------------------
 
-As damage caused by exploding ships was a function of the ship\'s size,
+As damage caused by exploding ships was a function of the ship's size,
 a variable damage effect is herein incorporated. A ship exploding will
 cause damage to any adjacent ship on the Rigging Effects Table number
 double to her 1 hex range rake bonus, but in no case to exceed table 10.
@@ -215,7 +215,7 @@ aground. The depths of shallow water hexes is given in the appropriate
 scenario.
 
 A. When a ship runs aground, it stops all movement and may proceed no
-further that turn. Readjust the movement plot of the ship\'s log to
+further that turn. Readjust the movement plot of the ship's log to
 reflect the actual move.
 
 B. Immediately roll a die. The resulting number indicates the relative
@@ -284,7 +284,7 @@ hits are not doubled if a fore and aft rigged ship is at full sail.
 
 Some ships, especially during the Revolutionary period, did not have
 copper bottoming. This allowed marine invertebrates to attack to the
-hull and reduce the vessel\'s speed. For those who wish to include this,
+hull and reduce the vessel's speed. For those who wish to include this,
 the following rule is presented:
 
 All ships designated as being at sea for at least three months and
