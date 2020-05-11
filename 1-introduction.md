@@ -48,7 +48,7 @@ sometimes used as juttings of land in certain scenarios, and will be
 defined as such in the applicable scenario. A wind direction hexagon is
 found at the lower lefthand corner. Each edge of the board is labeled by
 the wind direction numbers pointing toward it. The four edges are
-labeled in clockwise order, 1, 2-3, 4, 5-6.
+labeled in clockwise order, 1, 2--3, 4, 5--6.
 
 ### C. Unit Counters
 
@@ -61,92 +61,44 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-+-----------------------------------+-----------------------------------+
-| ![Wind                            | Wind Direction                    |
-| Direction](files/windarrow.gif){w |                                   |
-| idth="35"                         |                                   |
-| height="37"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Full                            | Full Sail                         |
-| Sail](files/fullsail.gif){width=" |                                   |
-| 37"                               |                                   |
-| height="36"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Strike](files/strike.gif){width | Strike                            |
-| ="36"                             |                                   |
-| height="37"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Explosion](files/explosion.gif) | Explosion                         |
-| {width="37"                       |                                   |
-| height="37"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Sinking](files/sinking.gif){wid | Sinking                           |
-| th="36"                           |                                   |
-| height="37"}                      |                                   |
-+-----------------------------------+-----------------------------------+
+![Wind Direction](files/windarrow.gif)
+
+![Full Sail](files/fullsail.gif)
+
+![Strike](files/strike.gif)
+
+![Explosion](files/explosion.gif)
+
+![Sinking](files/sinking.gif)
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must
 be used to match the proper class counter for each ship being played.
 The size of a ship is indicated by the size of the class overview.
 
-+-----------------------------------+-----------------------------------+
-| ![Nr. 1 Ship-of-the-line          | Nr. 1 Ship-of-the-line (S.O.L.)   |
-| (S.O.L.)](files/sol1.gif){width=" |                                   |
-| 105"                              |                                   |
-| height="50"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 2 Ship-of-the-line          | Nr 2. Ship-of-the-line (S.O.L.)   |
-| (S.O.L.)](files/sol2.gif){width=" |                                   |
-| 106"                              |                                   |
-| height="51"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 3 Frigate                   | Nr. 3 Frigate (F)                 |
-| (F)](files/f3.gif){width="104"    |                                   |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 4 Frigate (F) Corvette      | Nr. 4 Frigate (F)\                |
-| (C)](files/cf4.gif){width="105"   | Corvette (C)                      |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 5 Brig (B) Sloop (S)        | Nr. 5 Brig (B)\                   |
-| Schooner                          | Sloop (S)\                        |
-| (SC)](files/ship5.gif){width="105 | Schooner (SC)                     |
-| "                                 |                                   |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 6 Gondola (GO) Galley (G)   | Nr. 6 Gondola (GO)\               |
-| Radeau                            | Galley (G)\                       |
-| (R)](files/ship6.gif){width="105" | Radeau (R)                        |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Nr. 7 Gunboat                   | Nr. 7 Gunboat (GB)                |
-| (GB)](files/ship7.gif){width="52" |                                   |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Privateer (P) Class             | Privateer (P) Class varies        |
-| varies](files/ship8.gif){width="1 |                                   |
-| 07"                               |                                   |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Merchantman (M) Class           | Merchantman (M) Class varies      |
-| varies](files/ship9.gif){width="1 |                                   |
-| 09"                               |                                   |
-| height="51"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Fire ship (FI) Class            | Fire ship (FI) Class varies       |
-| varies](files/ship10.gif){width=" |                                   |
-| 108"                              |                                   |
-| height="52"}                      |                                   |
-+-----------------------------------+-----------------------------------+
-| ![Bomb Ketch (B) (No provision in | Bomb Ketch (B) (No provision in   |
-| rules)](files/ship11.gif){width=" | rules)                            |
-| 107"                              |                                   |
-| height="51"}                      |                                   |
-+-----------------------------------+-----------------------------------+
+![Nr. 1 Ship-of-the-line (S.O.L.)](files/sol1.gif)
 
-![Ship Counter Overview](files/shipcounter.gif){width="265"
-height="173"}
+![Nr. 2 Ship-of-the-line (S.O.L.)](files/sol2.gif)
+
+![Nr. 3 Frigate (F)](files/f3.gif)
+
+![Nr. 4 Frigate (F) Corvette (C)](files/cf4.gif)
+
+![Nr. 5 Brig (B), Sloop (S), Schooner (SC)](files/ship5.gif)
+
+![Nr. 6 Gondola (GO), Galley (G), Radeau (R)](files/ship6.gif)
+
+![Nr. 7 Gunboat (GB)](files/ship7.gif)
+
+![Privateer (P) Class varies](files/ship8.gif)
+
+![Merchantman (M) Class varies](files/ship9.gif)
+
+![Fire ship (FI) Class varies](files/ship10.gif)
+
+![Bomb Ketch (B) (No provision for use in rules)](files/ship11.gif)
+
+![Ship Counter Overview](files/shipcounter.gif)
 
 1.  Turning Ability: The maximum number of 60 degree turns which that
     ship can make during the course of the Movement Execution Phase.
@@ -224,36 +176,35 @@ Scenario Chart on Page 27 to ascertain how to correct fill out a ship's
 log.
 
 
-1.
+1\.
 :   The name of the ship and number of gun carried is placed on line 1.
 
-2.
+2\.
 :   The identification number of counter to be used for the ship is put
     on line 2.
 
-3.
+3\.
 :   The Class of ship is placed on line 3. Certain ships may be given a
     specific counter to use in the scenario. This will be indicate by
     giving the I.D. number in this section.
 
-4., 5., 6., and 7.\
-
+4., 5., 6., and 7\.
 :   On lines 4, 5, 6, and 7 place movement allowance for each attitude
     to wind. This information can be found in Movement section of the
     Basic Game (IV A. 3., 4.).
 
-    Ignore parenthesis for Basic Game a these spaces are intended for
+    Ignore parenthesis for Basic Game as these spaces are intended for
     full-sail movement in the Advanced Game.
 
-8.
+8\.
 :   The quality of crew manning the ship either elite, crack, average,
     green or poor is placed on line 8.
 
-9.
+9\.
 :   The number of hull squares allotted for each ship is placed in
     section 9. All squares over this number are marked out.
 
-10.
+10\.
 :   The number of crew squares allotted to each ship is placed in
     section 10. All crew squares are divided into sections. In the Order
     of Battle, the number of sections and number of crew squares per
@@ -261,25 +212,25 @@ log.
     numbered row in the "log". Squares not being used should be marked
     out.
 
-11.
+11\.
 :   The number of gun squares allotted for each ship is placed in
     section 11. This section divides the guns into left and right
     broadsides (labeled L and R). Mark out the gun squares not being
     used.
 
-12.
+12\.
 
 :   Section 12 is the Carronade section. This section is completed
     exactly like section 11. Carronades are special guns of limited
     range, hence the reason for separation from section 11.
 
-13.
+13\.
 :   Section 13 is the Rigging section. Each line of squares represent
     one battle sail speed factor. The number of rigging squares per
     battle sail speed factor is given in the Order of Battle. Squares
     not being used are marked out.
 
-14.
+14\.
 :   On the movement column (14) of the ship's log, there is a load
     section. It is composed of two spaces, one marked L for left
     broadside; the other R for right broadside. In these spaces the type
@@ -291,11 +242,11 @@ log.
     marked: R for roundshot, G for grapeshot, or D for doubleshot. For
     the basic game only roundshot is to be used.
 
-15.
+15\.
 :   Section 15 denotes the move column. All movement for the ship will
     be placed here. No information is placed here at this time.
 
-16.
+16\.
 :   The notes section (16) is the part of the moves column where special
     orders and notations are written. These notations will be explained
     in appropriate sections of the rules. No information is placed here
