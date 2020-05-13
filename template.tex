@@ -1,0 +1,18 @@
+\usepackage{a4wide}
+%\usepackage{graphicx}
+%\usepackage[colorlinks]{hyperref}
+\hypersetup{linkcolor=blue, urlcolor=blue, citecolor=red}
+\usepackage{pxfonts}
+\usepackage{svg}
+\usepackage{tgpagella}
+\usepackage{url}
+
+% Block quotes in red boxes
+\usepackage[most]{tcolorbox}
+\newtcolorbox{myquote}{breakable, enhanced jigsaw, parbox=false, colback=red!5!white, colframe=red!75!black}
+\renewenvironment{quote}{\begin{myquote}}{\end{myquote}}
+
+% Inline code highlighted in grey
+\let\oldTexttt\texttt
+%\renewcommand{\texttt}[1]{\textcolor{MidnightBlue}{\oldTexttt{#1}}}
+\renewcommand{\texttt}[1]{\colorbox{gray!20}{\oldTexttt{#1}}}
