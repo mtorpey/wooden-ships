@@ -1,6 +1,6 @@
 # Options for pandoc
 SHARED_OPTS=-f markdown-implicit_figures
-PDF_OPTS=$(SHARED_OPTS) -V papersize=a4 -V fontsize=12pt --variable urlcolor=cyan --include-in-header=template.tex --default-image-extension=pdf
+PDF_OPTS=$(SHARED_OPTS) -V papersize=a4 -V fontsize=10pt -V classoption=twocolumn --variable urlcolor=cyan --include-in-header=template.tex --default-image-extension=pdf
 HTML_OPTS=$(SHARED_OPTS) --self-contained --template=template.html5 --metadata pagetitle="$*" --default-image-extension=svg
 
 # Compile four versions of each .md file in this directory
