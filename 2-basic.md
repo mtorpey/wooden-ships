@@ -22,30 +22,30 @@ Once the game has been set up, play begins. The game is played in turns
 to the number of turns contained therein. Each turn is divided into
 eight phases. The sequence of play for each turn is as follows:
 
-A.  Unfouling Phase: Make attempts to unfoul ships which were fouled on
-    previous turns.
+A.  **Unfouling Phase:** Make attempts to unfoul ships which were fouled
+    on previous turns.
 
-B.  Movement Notation Phase: Players secretly write in the proposed
+B.  **Movement Notation Phase:** Players secretly write in the proposed
     movements for each ship on their log sheets.
 
-C.  Movement Execution Phase: When both players have completed their log
-    notations, all simultaneously move exactly as their movement was
+C.  **Movement Execution Phase:** When both players have completed their
+    log notations, all simultaneously move exactly as their movement was
     written in the log. Retrace any possible collisions one hex at a
     time. if any collisions occur check for fouling.
 
-D.  Grappling and Ungrappling Phase: Make all attempts to grapple, avoid
-    grappling, and ungrapple.
+D.  **Grappling and Ungrappling Phase:** Make all attempts to grapple,
+    avoid grappling, and ungrapple.
 
-E.  Boarding Preparation Phase: Write any boarding parties in the logs
-    of the involved ships.
+E.  **Boarding Preparation Phase:** Write any boarding parties in the
+    logs of the involved ships.
 
-F.  Combat Phase: Resolve all gunfire, and mark all hits on the hit
+F.  **Combat Phase:** Resolve all gunfire, and mark all hits on the hit
     boxes of the log sheet.
 
-G.  Melee Phase: Resolve all boarding actions, and mark all crew hits on
-    the log sheet.
+G.  **Melee Phase:** Resolve all boarding actions, and mark all crew
+    hits on the log sheet.
 
-H.  Load Phase: Load broadsides.
+H.  **Load Phase:** Load broadsides.
 
 III. Unfouling Phase
 --------------------

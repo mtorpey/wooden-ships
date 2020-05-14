@@ -4,7 +4,7 @@ Introduction to Rules
 I. Introduction
 ---------------
 
-Wooden Ships and Iron Men is a tactical simulation of naval warfare
+*Wooden Ships and Iron Men* is a tactical simulation of naval warfare
 during the great age of sail. The game covers the period from 1776 to
 1814 when the great square sail ships-of-the-line dominated the oceans
 and the speedy and durable American frigates gave world recognition to
@@ -30,10 +30,15 @@ II. Components
 
 1.  Mapboard consisting of two sections which can be joined together in
     a variety of ways to allow more freedom of movement.
+
 2.  Set of die-cut counters.
+
 3.  Advanced Tables Card.
+
 4.  Rules of play and scenario manual.
+
 5.  A "log" pad.
+
 6.  One die.
 
 ### B. Mapboard
@@ -61,15 +66,15 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-![Wind Direction](files/windarrow.gif)
+![Wind Direction](files/windarrow.gif) Wind Direction
 
-![Full Sail](files/fullsail.gif)
+![Full Sail](files/fullsail.gif) Full Sail
 
-![Strike](files/strike.gif)
+![Strike](files/strike.gif) Strike
 
-![Explosion](files/explosion.gif)
+![Explosion](files/explosion.gif) Explosion
 
-![Sinking](files/sinking.gif)
+![Sinking](files/sinking.gif) Sinking
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must
@@ -82,7 +87,7 @@ The size of a ship is indicated by the size of the class overview.
 
 ![Nr. 3 Frigate (F)](files/f3.gif)
 
-![Nr. 4 Frigate (F) Corvette (C)](files/cf4.gif)
+![Nr. 4 Frigate (F), Corvette (C)](files/cf4.gif)
 
 ![Nr. 5 Brig (B), Sloop (S), Schooner (SC)](files/ship5.gif)
 
@@ -102,15 +107,20 @@ The size of a ship is indicated by the size of the class overview.
 
 1.  Turning Ability: The maximum number of 60 degree turns which that
     ship can make during the course of the Movement Execution Phase.
+
 2.  Battle Sail Speed: The maximum speed that a ship has under battle
     sails. (There are two speeds, 3 and 4).
+
 3.  Full Sail Speed: The lower righthand number represents a ship's
     movement ability under an increased spread of sail. This speed is
     used in the Advanced Game only.
+
 4.  Stern: The stern of a ship is its rear section. This is the blunt
     end of the ship diagram on the counter.
+
 5.  Stern Hex: The hex that the stern and the rear half of the ship
     occupies.
+
 6.  Identification number: Each counter has a 4 digit number which is
     used to identify it with the ship that it represents. The first
     digit refers to the nationality of the vessel. The second digit
@@ -119,8 +129,10 @@ The size of a ship is indicated by the size of the class overview.
     ![Ship Identification Number](files/shipid.gif){width="224"
     height="101"}
     Nationality
+
 7.  Bow Hex: The hex that the bow and the forward half of the ship
     occupies.
+
 8.  Bow: The bow of a ship is its front. This is the pointed end of the
     ship diagram on the counter. The bow always points in the direction
     in which the ship is sailing.
@@ -149,13 +161,17 @@ III. Prepare For Play
     information necessary for the set-up is found in the scenario. It is
     better to start with single ship encounters and move on from there
     as experience is gained.
+
 2.  Remove from the counter sheet a counter of proper nationality and
     class for each ship to be played.
+
 3.  Lay the mapboard out and place each ship's bow in the assigned bow
     hex and pointing in the numbered direction corresponding to the wind
     direction hex on the board.
+
 4.  The wind arrow counter is placed in the wind direction hex pointing
     to the proper numbered direction.
+
 5.  If the scenario has any land features involved, the hexes to be
     noted as land will be listed.
 
@@ -168,7 +184,7 @@ placed here. This information is found on the ship counter or in the
 ship's Order of Battle, found in the scenarios. A diagram is given as
 an example of this procedure.
 
-![Sample Log Sheet](files/logsample.gif){width="207" height="612"} TODO: IMAGE INCOMPLETE
+![Sample Log Sheet](files/logsample.png)
 
 The ship counter and log above represent the starting Basic Game
 strength of the Constellation. Check her specifications on the Master
