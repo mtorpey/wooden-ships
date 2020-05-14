@@ -1,9 +1,20 @@
-\usepackage{a4wide}
+\usepackage[left=1cm, right=1cm, top=1cm, bottom=2cm]{geometry}
 %\usepackage{graphicx}
 %\usepackage[colorlinks]{hyperref}
-\hypersetup{linkcolor=blue, urlcolor=blue, citecolor=red}
+%\hypersetup{linkcolor=blue, urlcolor=blue, citecolor=red}
+\usepackage[default]{cantarell} %% Use option "defaultsans" to use cantarell as sans serif only
+\usepackage[T1]{fontenc}
 \usepackage{multicol}
 \usepackage{pxfonts}
 \usepackage{svg}
-\usepackage{tgpagella}
+%\usepackage{tgpagella}
 \usepackage{url}
+
+\makeatletter
+\renewcommand{\section}[1]{\end{multicols}%
+                                   \@startsection {section}{1}{\z@}%
+                                   {-23ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\centering\normalfont\Huge}{\uppercase{#1}}%
+                                   \begin{multicols}{3}}
+\makeatother
