@@ -10,7 +10,7 @@ ALL_TITLES=$(patsubst %.md, $(OUT_DIR)/%, $(INPUT_FILES))
 ALL_TARGETS=$(foreach T,$(ALL_TITLES), $T.pdf $T.html)
 
 # Make everything
-all : $(ALL_TARGETS)
+all : $(OUT_DIR)/full.pdf $(OUT_DIR)/full.html
 
 # Two output versions
 $(OUT_DIR)/%.pdf : %.md template.tex | $(OUT_DIR)
@@ -18,6 +18,20 @@ $(OUT_DIR)/%.pdf : %.md template.tex | $(OUT_DIR)
 
 $(OUT_DIR)/%.html : %.md template.html5 | $(OUT_DIR)
 	pandoc $< $(HTML_OPTS) -o $@
+
+$(OUT_DIR)/full.pdf : $(OUT_DIR)/full.md template.tex | $(OUT_DIR)
+	pandoc $< $(PDF_OPTS) -o $@
+
+$(OUT_DIR)/full.html : $(OUT_DIR)/full.md template.html5 | $(OUT_DIR)
+	pandoc $< $(HTML_OPTS) -o $@
+
+# Combined document
+$(OUT_DIR)/full.md : $(INPUT_FILES) | $(OUT_DIR)
+	rm -f $@
+	for T in $(sort $(INPUT_FILES)); do \
+		cat $$T >> $@; \
+		echo "" >> $@; \
+	done
 
 # Output directory
 $(OUT_DIR) :
