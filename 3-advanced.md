@@ -58,7 +58,7 @@ appropriate section of the rules.
     while completing the log.
 2.  Each broadside and carronade section is sub-divided equally into a
     bow and stern section.\
-    ![Gun Log Notation](files/gunlog.gif){width="181" height="117"}
+    ![Gun Log Notation](files/gunlog.png){width="181" height="117"}
 
 II. Sequence of Play
 --------------------
@@ -168,7 +168,7 @@ more sails than normally used in battle.
     given on each ship's counter. There are three full sail speeds: 5,
     6, and 7. The following diagrams give a ship's movement allowance
     at full sail in relation to wind attitudes:\
-    ![speeds under full sail](files/fsspeeds.gif){width="377"
+    ![speeds under full sail](files/fsspeeds.png){width="377"
     height="194"}
 2.  Note in each ship's log each full Sail movement allowance per
     attitude.
@@ -199,7 +199,7 @@ movement plot. For each movement factor of the movement allowance that a
 ship expends staying in place, a "B" must be written. Example: Two
 ships A and B have both been noted to move into the same hex:
 
-![collision](files/collision.gif){width="348" height="218"}
+![collision](files/collision.png){width="348" height="218"}
 
 A collision would occur in hex J20. If ship B had used the backing sails
 rule it could amend its movement plot to Moves "B B B 1". Thus it
@@ -207,7 +207,7 @@ would enter hex J20 on the last move of the phase thereby avoiding ship
 A which by that time had already passed through the hex. Note that each
 B written is equivalent to one movement factor expended.
 
-![backing sails](files/backing.gif){width="336" height="251"}
+![backing sails](files/backing.png){width="336" height="251"}
 
 ### C. Anchors
 
@@ -289,7 +289,7 @@ broadside could be trained at a target, although certain sections could
 fire at targets outside of this field.
 
 1.  The play of guns is divided into 5 fields, numbered 1 through 5:
-    ![reduced field of fire](files/reducedfof.gif){width="358"
+    ![reduced field of fire](files/reducedfof.png){width="358"
     height="290"}
 2.  Fields 1, 2, and 3 cover hexes that can be hit by the entire
     broadside. Field 4 can be fired at only by the guns of the stern
@@ -328,7 +328,7 @@ fire at targets outside of this field.
             field 5. It may fire its stern section.
 6.  Determination of field-of-fire is made independently of the
     determination of the range between two opposing ships. ![range
-    determination](files/range.gif){width="282" height="284"} Example:
+    determination](files/range.png){width="282" height="284"} Example:
     Ships A and B are firing at each other. Determination of
     field-of-fire indicates that a full broadside may be fired by both
     ships as they mutually occupy each other's field 3. Range

@@ -66,44 +66,44 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-![Wind Direction](files/windarrow.gif) Wind Direction
+![Wind Direction](files/windarrow.png) Wind Direction
 
-![Full Sail](files/fullsail.gif) Full Sail
+![Full Sail](files/fullsail.png) Full Sail
 
-![Strike](files/strike.gif) Strike
+![Strike](files/strike.png) Strike
 
-![Explosion](files/explosion.gif) Explosion
+![Explosion](files/explosion.png) Explosion
 
-![Sinking](files/sinking.gif) Sinking
+![Sinking](files/sinking.png) Sinking
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must
 be used to match the proper class counter for each ship being played.
 The size of a ship is indicated by the size of the class overview.
 
-![Nr. 1 Ship-of-the-line (S.O.L.)](files/sol1.gif)
+![Nr. 1 Ship-of-the-line (S.O.L.)](files/sol1.png)
 
-![Nr. 2 Ship-of-the-line (S.O.L.)](files/sol2.gif)
+![Nr. 2 Ship-of-the-line (S.O.L.)](files/sol2.png)
 
-![Nr. 3 Frigate (F)](files/f3.gif)
+![Nr. 3 Frigate (F)](files/f3.png)
 
-![Nr. 4 Frigate (F), Corvette (C)](files/cf4.gif)
+![Nr. 4 Frigate (F), Corvette (C)](files/cf4.png)
 
-![Nr. 5 Brig (B), Sloop (S), Schooner (SC)](files/ship5.gif)
+![Nr. 5 Brig (B), Sloop (S), Schooner (SC)](files/ship5.png)
 
-![Nr. 6 Gondola (GO), Galley (G), Radeau (R)](files/ship6.gif)
+![Nr. 6 Gondola (GO), Galley (G), Radeau (R)](files/ship6.png)
 
-![Nr. 7 Gunboat (GB)](files/ship7.gif)
+![Nr. 7 Gunboat (GB)](files/ship7.png)
 
-![Privateer (P) Class varies](files/ship8.gif)
+![Privateer (P) Class varies](files/ship8.png)
 
-![Merchantman (M) Class varies](files/ship9.gif)
+![Merchantman (M) Class varies](files/ship9.png)
 
-![Fire ship (FI) Class varies](files/ship10.gif)
+![Fire ship (FI) Class varies](files/ship10.png)
 
-![Bomb Ketch (B) (No provision for use in rules)](files/ship11.gif)
+![Bomb Ketch (B) (No provision for use in rules)](files/ship11.png)
 
-![Ship Counter Overview](files/shipcounter.gif)
+![Ship Counter Overview](files/shipcounter.png)
 
 1.  Turning Ability: The maximum number of 60 degree turns which that
     ship can make during the course of the Movement Execution Phase.
@@ -126,9 +126,12 @@ The size of a ship is indicated by the size of the class overview.
     digit refers to the nationality of the vessel. The second digit
     refers to the class of ship. (See below) The last two digits serve
     to identify the counter as separate from any other.\
-    ![Ship Identification Number](files/shipid.gif){width="224"
-    height="101"}
-    Nationality
+    ![Ship Identification Number](files/shipid.png)
+    **Nationality:**\
+    1 (Red) = British\
+    2 (White) = French\
+    3 (Gold) = Spanish/Venetian\
+    4 (Light Blue) = American
 
 7.  Bow Hex: The hex that the bow and the forward half of the ship
     occupies.

@@ -89,10 +89,10 @@ mapboard.
     the wind for each ship, labeled A, B, C, D. Each letter represents a
     different position of the ship in relation to the direction that the
     wind is blowing. See diagram:\
-    ![Wind directions](files/attitudes.gif)
+    ![Wind directions](files/attitudes.png)
 
 4.  The movement allowance is now checked on one of these two charts:\
-    ![Battlesail Speeds](files/battlesail.gif)
+    ![Battlesail Speeds](files/battlesail.png)
 
     Examples:
 
@@ -174,7 +174,7 @@ mapboard.
     turn of 60 degrees or as an "L" for a lefthand turn of
     60 degrees.
 
-    ![Move L1R1](files/samplemove.gif)\
+    ![Move L1R1](files/samplemove.png)\
     **Example: Moves L1R1**\
     The ship is at A attitude to the wind and has a battlesail
     speed of 4. Its movement allowance is determined to be 4. The move
@@ -437,7 +437,7 @@ sheets. Firing is done by broadsides of cannon.
     of the ship. Each broadside has a "play" or area over which its
     broadside firepower is effective. The play of each broadside is
     shown on the following diagram:\
-    ![Basic Field of Fire](files/basicfof.gif)
+    ![Basic Field of Fire](files/basicfof.png)
 
 2.  Each ship also has two fields of fire; one for each broadside. Any
     blocking of one field, has no effect, whatsoever, on the other field
@@ -551,7 +551,7 @@ on the Hit Table.
     a.  Mark off one hull square per hull hit called for on the Hit
         Tables.
 
-    ![Strike](files/strike.gif)
+    ![Strike](files/strike.png)
     b.  When all of a ship's hull squares have been marked off, that
         ship will "surrender by striking her colors". The ship is
         considered to be in such danger of sinking that it cannot be
