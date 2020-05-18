@@ -13,6 +13,16 @@
 %\usepackage{tgpagella}
 \usepackage{url}
 
+\usepackage[labelformat=empty]{caption}
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
 \makeatletter
 \renewcommand{\section}[1]{\end{multicols}%
   \@startsection {section}{1}{\z@}%

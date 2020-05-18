@@ -1,5 +1,5 @@
 # Options for pandoc
-SHARED_OPTS=-f markdown-implicit_figures
+SHARED_OPTS=
 PDF_OPTS=$(SHARED_OPTS) -V papersize=a4 -V fontsize=8pt -V documentclass=extarticle --include-in-header=template.tex --include-before-body=before.tex --include-after-body=after.tex
 HTML_OPTS=$(SHARED_OPTS) --self-contained --template=template.html5 --metadata pagetitle="$*"
 
