@@ -88,11 +88,13 @@ mapboard.
     relation to the wind must be determined. There are four attitudes to
     the wind for each ship, labeled A, B, C, D. Each letter represents a
     different position of the ship in relation to the direction that the
-    wind is blowing. See diagram:\
-    ![Wind directions](files/attitudes.png)
+    wind is blowing. See diagram:
 
-4.  The movement allowance is now checked on one of these two charts:\
-    ![Battlesail Speeds](files/battlesail.png)
+    ![](files/attitudes.png)
+
+4.  The movement allowance is now checked on one of these two charts:
+
+    ![](files/battlesail.png)
 
     Examples:
 
@@ -174,8 +176,8 @@ mapboard.
     turn of 60 degrees or as an "L" for a lefthand turn of
     60 degrees.
 
-    ![Move L1R1](files/samplemove.png)\
-    **Example: Moves L1R1**\
+    ![Example: Moves L1R1](files/samplemove.png)
+
     The ship is at A attitude to the wind and has a battlesail
     speed of 4. Its movement allowance is determined to be 4. The move
     notation in the "log" reads left turn 60°, forward 1 hex,
@@ -436,8 +438,9 @@ sheets. Firing is done by broadsides of cannon.
     port) broadside. These broadsides are effective only from their side
     of the ship. Each broadside has a "play" or area over which its
     broadside firepower is effective. The play of each broadside is
-    shown on the following diagram:\
-    ![Basic Field of Fire](files/basicfof.png)
+    shown on the following diagram:
+
+    ![Left (Port) ... Right (Starboard)](files/basicfof.png)
 
 2.  Each ship also has two fields of fire; one for each broadside. Any
     blocking of one field, has no effect, whatsoever, on the other field
@@ -551,7 +554,6 @@ on the Hit Table.
     a.  Mark off one hull square per hull hit called for on the Hit
         Tables.
 
-    ![Strike](files/strike.png)
     b.  When all of a ship's hull squares have been marked off, that
         ship will "surrender by striking her colors". The ship is
         considered to be in such danger of sinking that it cannot be
@@ -563,6 +565,8 @@ on the Hit Table.
         a "surrender by striking" ship cannot participate in melees
         even if boarding parties have been formed. Place a strike marker
         on a ship which has "struck".
+
+        ![Strike marker](files/strike.png)
 
 2.  Crew Hits ("C"):
 

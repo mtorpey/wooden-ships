@@ -66,15 +66,15 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-![Wind Direction](files/windarrow.png) Wind Direction
+![Wind Direction](files/windarrow.png)
 
-![Full Sail](files/fullsail.png) Full Sail
+![Full Sail](files/fullsail.png)
 
-![Strike](files/strike.png) Strike
+![Strike](files/strike.png)
 
-![Explosion](files/explosion.png) Explosion
+![Explosion](files/explosion.png)
 
-![Sinking](files/sinking.png) Sinking
+![Sinking](files/sinking.png)
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must
@@ -103,7 +103,7 @@ The size of a ship is indicated by the size of the class overview.
 
 ![Bomb Ketch (B) (No provision for use in rules)](files/ship11.png)
 
-![Ship Counter Overview](files/shipcounter.png)
+![](files/shipcounter.png)
 
 1.  Turning Ability: The maximum number of 60 degree turns which that
     ship can make during the course of the Movement Execution Phase.
@@ -125,8 +125,10 @@ The size of a ship is indicated by the size of the class overview.
     used to identify it with the ship that it represents. The first
     digit refers to the nationality of the vessel. The second digit
     refers to the class of ship. (See below) The last two digits serve
-    to identify the counter as separate from any other.\
-    ![Ship Identification Number](files/shipid.png)
+    to identify the counter as separate from any other.
+
+    ![](files/shipid.png)
+
     **Nationality:**\
     1 (Red) = British\
     2 (White) = French\
@@ -187,7 +189,7 @@ placed here. This information is found on the ship counter or in the
 ship's Order of Battle, found in the scenarios. A diagram is given as
 an example of this procedure.
 
-![Sample Log Sheet](files/logsample.png)
+![](files/logsample.png)
 
 The ship counter and log above represent the starting Basic Game
 strength of the Constellation. Check her specifications on the Master
