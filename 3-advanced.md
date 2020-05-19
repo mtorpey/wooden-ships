@@ -31,13 +31,12 @@ appropriate section of the rules.
 2.  *Hit Tables:*
 
     a.  The number of hit tables has been increased by two to Hit Table
-        No. 10 in both the hull and rigging sections. If a firing
-        ship's Hit Table has been modified to a value greater than ten,
-        resolve the attack as separate die rolls. Each die roll must be
-        made on the highest table possible. (Example: The greatest
-        modification for a firing ship is 20. This would allow the ship
-        to fire twice on Hit Table 10 only and not in any other
-        combination.)
+        No. 10 in both the hull and rigging sections. If a firing ship's
+        Hit Table has been modified to a value greater than ten, resolve
+        the attack as separate die rolls. Each die roll must be made on
+        the highest table possible. (Example: The greatest modification
+        for a firing ship is 20. This would allow the ship to fire twice
+        on Hit Table 10 only and not in any other combination.)
 
     b.  In each Hit Table, the 6 results are marked with an asterisk.
         These indicate a possible critical hit.
@@ -216,20 +215,20 @@ more sails than normally used in battle.
 ### B. Backing Sails
 
 Ships that wish to stay in place for part of the movement execution
-phase may use the notation "B" (for "backing sails") in the moves
-column of the "log". The use of backing sails is important when trying
-to avoid collisions. Backing sails may be used in any part of the
-movement plot. For each movement factor of the movement allowance that a
-ship expends staying in place, a "B" must be written. Example: Two
-ships A and B have both been noted to move into the same hex:
+phase may use the notation "B" (for "backing sails") in the moves column
+of the "log". The use of backing sails is important when trying to avoid
+collisions. Backing sails may be used in any part of the movement
+plot. For each movement factor of the movement allowance that a ship
+expends staying in place, a "B" must be written. Example: Two ships A
+and B have both been noted to move into the same hex:
 
 ![](files/collision.png)
 
 A collision would occur in hex J20. If ship B had used the backing sails
-rule it could amend its movement plot to Moves "B B B 1". Thus it
-would enter hex J20 on the last move of the phase thereby avoiding ship
-A which by that time had already passed through the hex. Note that each
-B written is equivalent to one movement factor expended.
+rule it could amend its movement plot to Moves "B B B 1". Thus it would
+enter hex J20 on the last move of the phase thereby avoiding ship A
+which by that time had already passed through the hex. Note that each B
+written is equivalent to one movement factor expended.
 
 ![](files/backing.png)
 
@@ -244,8 +243,8 @@ so designated.
 
 1.  There are three types of anchoring: *Ordinary anchoring*, written
     "A"; *anchored by bow*, written "AB"; and *anchored by stern*,
-    written "AS". A ship may not be simultaneously anchored by more
-    than one type of anchoring.
+    written "AS". A ship may not be simultaneously anchored by more than
+    one type of anchoring.
 
 2.  Anchoring does not go into effect the turn of noting it on the
     "log", but the following turn. Ships may write their movement plot
@@ -253,13 +252,13 @@ so designated.
     following turn though, the ship must stop at anchor. Ordinary
     anchored ships may not move or turn in place.
 
-3.  Ships may also be anchored by "springs". This was a system of
-    cables attached to the anchors which enabled a ship to be turned
-    while at anchor. A ship can anchor on "springs" by making
-    notations of either "AS" (anchored by the stern), or "AB"
-    (anchored by the bow). A ship anchored by its stern will pivot on
-    its stern hex when turning, while a ship anchored by its bow will
-    pivot on its bow hex when turning.
+3.  Ships may also be anchored by "springs". This was a system of cables
+    attached to the anchors which enabled a ship to be turned while at
+    anchor. A ship can anchor on "springs" by making notations of either
+    "AS" (anchored by the stern), or "AB" (anchored by the bow). A ship
+    anchored by its stern will pivot on its stern hex when turning,
+    while a ship anchored by its bow will pivot on its bow hex when
+    turning.
 
 4.  Ships on springs can be turned up to 120 degrees left or right
     during the movement execution phase. Ships being turned on springs
@@ -269,17 +268,17 @@ so designated.
 5.  The effect of anchoring on firing is found in the Advanced modifiers
     of the HDT.
 
-6.  A ship can up-anchor by writing the symbol "(A)" in the notes
-    column of the "log" for two consecutive turns. On the turn
-    following the completion of this, the ship can resume normal
-    maneuvering. During the two turns that a ship is up-anchoring, she
-    cannot load or fire her guns, make repairs, or engage in melees. A
-    ship is not considered anchored while up-anchoring.
+6.  A ship can up-anchor by writing the symbol "(A)" in the notes column
+    of the "log" for two consecutive turns. On the turn following the
+    completion of this, the ship can resume normal maneuvering. During
+    the two turns that a ship is up-anchoring, she cannot load or fire
+    her guns, make repairs, or engage in melees. A ship is not
+    considered anchored while up-anchoring.
 
 7.  A ship can cut anchors by writing "a" in the notes column of the
-    "log". The turn following this notation, the ship can resume
-    normal maneuvering. Once a ship has cut its anchors, it cannot be
-    anchored again.
+    "log". The turn following this notation, the ship can resume normal
+    maneuvering. Once a ship has cut its anchors, it cannot be anchored
+    again.
 
 ### D. Turning
 
@@ -289,7 +288,9 @@ restrictions:
 
 1.  They must move at least one hex straight ahead before they may turn;
     or they may turn in place 60 degrees but can make no other movement.
+
 2.  They lose one turning factor of their turning allowance.
+
 3.  They may increase sail to full sail speed only if they move at least
     one hex in a straight line in the movement execution phase. No
     turning is allowed at any time during the move.
