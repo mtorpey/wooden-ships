@@ -19,13 +19,17 @@ the Advanced Game and adjustments in play must be made for this. New
 tables have been added and their functions will be explained in the
 appropriate section of the rules.
 
-1.  HDT Modifications
-    a.  Rake: If a ship is raking, cross-index the range of the target
+1.  *HDT Modifications:*
+
+    a.  *Rake:* If a ship is raking, cross-index the range of the target
         with the number of guns firing on the range table. The number in
         parenthesis determines which Hit Table is to be used.
-    b.  Stern Rake: A bonus of +1 is added to a rake any time it is
+
+    b.  *Stern Rake:* A bonus of +1 is added to a rake any time it is
         fired at a ship's stern.
-2.  Hit Tables
+
+2.  *Hit Tables:*
+
     a.  The number of hit tables has been increased by two to Hit Table
         No. 10 in both the hull and rigging sections. If a firing
         ship's Hit Table has been modified to a value greater than ten,
@@ -34,18 +38,20 @@ appropriate section of the rules.
         modification for a firing ship is 20. This would allow the ship
         to fire twice on Hit Table 10 only and not in any other
         combination.)
+
     b.  In each Hit Table, the 6 results are marked with an asterisk.
         These indicate a possible critical hit.
+
         1.  If a 6 is rolled on any Hit Table, roll the die again adding
             the Hit Table number to the result. Index this value with
             the target aspect, (either hull or rigging), on the Critical
             Hit Table found on the inside back cover of the manual.
 
-            (Meaningless cross reference...)
-
         2.  Any Critical Hit damage acquired is applied after all other
             damage has been recorded at the end of the Combat Phase.
+
         3.  All critical hit damage is cumulative.
+
         4.  Some results are a function of one or more of the Optional
             rules. Those players not using the appropriate Optional
             rule, must ignore the result taking a "no effect" instead.
@@ -56,6 +62,7 @@ appropriate section of the rules.
     Basic Game value (rounded up). Gun, carronade, and crew values are
     twice as large as the Basic Game values. These changes are made
     while completing the log.
+
 2.  Each broadside and carronade section is sub-divided equally into a
     bow and stern section.
 
@@ -67,27 +74,36 @@ II. Sequence of Play
 The expanded sequence of play is presented and should be followed in
 exact order. Each turn is composed of ten phases of play:
 
-A.  Wind Phase: Roll one die to determine wind change, and if so, how it
-    will change. This is done every third turn.
-B.  Unfouling Phase: Make attempts to unfoul ships which were fouled on
-    previous moves. Roll for sinking or exploding ships.
-C.  Movement Notation Phase: Movement is plotted secretly by all players
-    on their ships "logs". Anchoring, up-anchoring, and cutting
+A.  **Wind Phase:** *Roll one die to determine wind change, and if so,
+    how it will change. This is done every third turn.*
+
+B.  **Unfouling Phase:** Make attempts to unfoul ships which were fouled
+    on previous moves. Roll for sinking or exploding ships.
+
+C.  **Movement Notation Phase:** Movement is plotted secretly by all
+    players on their ships "logs". Anchoring, up-anchoring, and cutting
     anchors orders are written in the Notes section of "log".
-D.  Movement Execution Phase: Each ship is moved exactly as ordered in
-    the "log". Retrace any possible collisions one hex at a time.
+
+D.  **Movement Execution Phase:** Each ship is moved exactly as ordered
+    in the "log". Retrace any possible collisions one hex at a time.
     Check for fouling.
-E.  Grappling and Ungrappling Phase: Attempt to grapple, avoid
+
+E.  **Grappling and Ungrappling Phase:** Attempt to grapple, avoid
     grappling, or ungrapple.
-F.  Boarding Preparation Phase: Write any boarding parties in the
+
+F.  **Boarding Preparation Phase:** Write any boarding parties in the
     "logs" of the involved ships.
-G.  Combat Phase: Resolve all firing, and mark all hits in the "logs".
-    Determine if certain ships are to sink or explode.
-H.  Melee Phase: Resolve melee.
-I.  Load Phase: Reload broadsides. A variety of ammunition may now be
-    used. Mark any repairs in notes section of the "log"; erase
+
+G.  **Combat Phase:** Resolve all firing, and mark all hits in the
+    "logs".  Determine if certain ships are to sink or explode.
+
+H.  **Melee Phase:** Resolve melee.
+
+I.  **Load Phase:** Reload broadsides -- a variety of ammunition may now
+    be used. Mark any repairs in notes section of the "log"; erase
     applicable squares if repairs are completed.
-J.  Full Sail Phase: Place or remove full sail counters on ships.
+
+J.  **Full Sail Phase:** *Place or remove full sail counters on ships.*
 
 III. Wind Phase
 ---------------
@@ -97,35 +113,41 @@ both direction and velocity.
 
 ### A. Wind Numbers
 
-Each scenario lists an initial wind direction number that indicates the
-direction in which the wind is blowing at the start of the game, a wind
-velocity number that represents the strength which the wind is blowing,
-and a wind change number that determines any possible shift wind
-direction and/or velocity.
+Each scenario lists an initial *wind direction* number that indicates
+the direction in which the wind is blowing at the start of the game, a
+*wind velocity* number that represents the strength at which the wind is
+blowing, and a *wind change* number that determines any possible shift
+in wind direction and/or velocity.
 
-1.  The initial wind direction is recorded b moving the wind marker to
+1.  The initial wind direction is recorded by moving the wind marker to
     the stated direction number on the wind direction hex.
+
 2.  The wind velocity is determined by checking the wind velocity number
-    and indexing with the proper velocity. There are eight types of
-    velocity located in the Wind Effect Table. Each type has a
-    corresponding win velocity number: (0) becalmed, (1) light breeze,
+    and indexing it with the proper velocity. There are eight types of
+    velocity located in the Wind Effects Table. Each type has a
+    corresponding wind velocity number: (0) becalmed, (1) light breeze,
     (2) moderate breeze, (3) normal breeze, (4) heavy breeze, (5) gale,
     (6) storm and (7) hurricane.
+
 3.  Wind change is determined in the wind phase of every third turn,
     i.e., turn three, six, nine, etc., by rolling a single die. If the
     number rolled equals or exceeds the wind change number, the wind
     changes as follows:
+
     a.  A die is rolled again and the Wind Direction Changes Table is
         consulted. The wind arrow counter is then shifted as directed by
         this table.
+
     b.  A die is rolled a third time and the Wind Velocity Changes Table
         is consulted. The velocity is shifted a step if applicable.
+
     c.  If the wind velocity should increase a step from storm force to
         hurricane force, the game ends immediately. If the wind velocity
         should drop a step from light breeze force, all ships are
         becalmed and no movement other than turning in place is allowed
         until the wind velocity increases. Velocity cannot be reduce to
         less than zero.
+
     d.  NOTE: Wind Velocity affects not only movement but full sail and
         fire capabilities of certain ships. These exceptions are noted
         underneath the Wind Effects Table.
@@ -133,22 +155,23 @@ direction and/or velocity.
 ### B. Wind Effects
 
 1.  Wind Direction: Same effect as in the Basic Game.
+
 2.  Wind Velocity: The Wind Effects Table reflects the effects of
     different wind velocities upon various size ships. The Table
     compares the wind velocities to the class number of ship. Each class
-    number is divided into a additional four columns; A, B, C, and D
+    number is divided into an additional four columns; A, B, C, and D
     representing the four attitudes to wind. To determine the effect of
-    wind velocity on ship, cross index the velocity to the ship class
-    number and wind attitude. The result then subtracted from the
+    wind velocity on a ship, cross index the velocity to the ship class
+    number and wind attitude. The result is then subtracted from the
     ship's movement allowance which becomes the new movement allowance
     for that turn. No allowance can be reduced to less than zero.
-    (Example: A ship of 74 guns sailing with battle sails in attitude to
-    a wind of gale force, has movement allowance of 2. Cross-indexing
-    the class 2 B column with the gale row in th Wind Effects Table, a
-    result of -1 is found. Subtracting 1 from its movement allowance of
-    2, the ship has a readjusted allowance of 1 for this turn). Although
-    placed in the Advanced Game for convenience, this may be used as an
-    Optional rule if desired.
+    (Example: A ship of 74 guns sailing with battle sails in B attitude
+    to a wind of gale force, has a movement allowance
+    of 2. Cross-indexing the class 2 B column with the gale row in the
+    Wind Effects Table, a result of --1 is found. Subtracting 1 from its
+    movement allowance of 2, the ship has a readjusted allowance of 1
+    for this turn). Although placed in the Advanced Game for
+    convenience, this may be used as an Optional rule if desired.
 
 IV. Unfouling Phase
 -------------------
@@ -165,31 +188,30 @@ There are several additions and changes to this phase.
 Full sails allow ships to increase their movement allowance by setting
 more sails than normally used in battle.
 
-1.  Like battle sail speed, each ship has a full sail speed that is
+1.  Like battle sail speed, each ship has a *full sail* speed that is
     given on each ship's counter. There are three full sail speeds: 5,
-    6, and 7. The following diagrams give a ship's movement allowance
-    at full sail in relation to wind attitudes:
+    6, and 7. The following diagrams give a ship's movement allowance at
+    full sail in relation to wind attitudes:
 
-    ![speeds under full sail](files/fsspeeds.png)
+    ![Full Sail Speeds 5, 6, 7](files/fsspeeds.png)
 
-2.  Note in each ship's log each full Sail movement allowance per
+2.  Note in each ship's log each full sail movement allowance per
     attitude.
+
 3.  All rigging hits scored on full sail ships are doubled.
+
 4.  Any ship which loses the entire first section of rigging immediately
     removes his ship from full sail status. It may not use full sails
     for the remainder of the game unless it repairs its rigging so as to
-    regain at least one rigging square in the first section. (See X 8,
-    Advanced Game).
-
-    (Meaningless cross reference...)
+    regain at least one rigging square in the first section. (*See X B,
+    Advanced Game*).
 
 5.  A ship sets sail to full sail speed by placing a full sail marker on
     his ship. The procedure for placing and removing full sail counters
-    is explained in Section XI of the Advanced Game.
-
-    (Meaningless cross reference...)
-
-    A player does not have to note full sails in the "log".
+    is explained in Section XI of the Advanced Game.  A player does not
+    have to note full sails in the "log".
+    
+    ![Full Sail marker](files/fullsail.png)
 
 ### B. Backing Sails
 
@@ -201,7 +223,7 @@ movement plot. For each movement factor of the movement allowance that a
 ship expends staying in place, a "B" must be written. Example: Two
 ships A and B have both been noted to move into the same hex:
 
-![collision](files/collision.png)
+![](files/collision.png)
 
 A collision would occur in hex J20. If ship B had used the backing sails
 rule it could amend its movement plot to Moves "B B B 1". Thus it
@@ -209,7 +231,7 @@ would enter hex J20 on the last move of the phase thereby avoiding ship
 A which by that time had already passed through the hex. Note that each
 B written is equivalent to one movement factor expended.
 
-![backing sails](files/backing.png)
+![](files/backing.png)
 
 ### C. Anchors
 
@@ -220,15 +242,17 @@ accuracy as a result of the steadier fire maintained from a more stable
 position. This rule may only be used in certain scenarios which will be
 so designated.
 
-1.  There are three types of anchoring: Ordinary anchoring, written
-    "A", anchored by bow; written "AB"; and anchored by stem,
+1.  There are three types of anchoring: *Ordinary anchoring*, written
+    "A"; *anchored by bow*, written "AB"; and *anchored by stern*,
     written "AS". A ship may not be simultaneously anchored by more
     than one type of anchoring.
+
 2.  Anchoring does not go into effect the turn of noting it on the
     "log", but the following turn. Ships may write their movement plot
     and continue operating normally the turn they decide to anchor. The
     following turn though, the ship must stop at anchor. Ordinary
     anchored ships may not move or turn in place.
+
 3.  Ships may also be anchored by "springs". This was a system of
     cables attached to the anchors which enabled a ship to be turned
     while at anchor. A ship can anchor on "springs" by making
@@ -236,24 +260,28 @@ so designated.
     (anchored by the bow). A ship anchored by its stern will pivot on
     its stern hex when turning, while a ship anchored by its bow will
     pivot on its bow hex when turning.
+
 4.  Ships on springs can be turned up to 120 degrees left or right
     during the movement execution phase. Ships being turned on springs
     cannot reload or fire during that phase, although repairs can be
     made and melees fought.
+
 5.  The effect of anchoring on firing is found in the Advanced modifiers
     of the HDT.
+
 6.  A ship can up-anchor by writing the symbol "(A)" in the notes
-    column of the quot;log" for two consecutive turns. On the turn
+    column of the "log" for two consecutive turns. On the turn
     following the completion of this, the ship can resume normal
     maneuvering. During the two turns that a ship is up-anchoring, she
     cannot load or fire her guns, make repairs, or engage in melees. A
     ship is not considered anchored while up-anchoring.
+
 7.  A ship can cut anchors by writing "a" in the notes column of the
     "log". The turn following this notation, the ship can resume
     normal maneuvering. Once a ship has cut its anchors, it cannot be
     anchored again.
 
-(Header missing...)
+### D. Turning
 
 Ships which did not move from their bow hex during the previous movement
 execution phase are limited in their movement by the following
