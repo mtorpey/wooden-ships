@@ -29,8 +29,6 @@
   {-23ex \@plus -1ex \@minus -.2ex}%
   {2.3ex \@plus.2ex}%
   {\centering\normalfont\Huge}{\uppercase{#1}}%
-  \ifthenelse{\equal{\detokenize{#1}}{\detokenize{Basic Game Tables}}}
-  {}
-  {\begin{multicols}{3}}%
+  \begin{multicols}{3}%
 }
 \makeatother

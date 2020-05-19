@@ -1,6 +1,10 @@
 Basic Game Tables
 =================
 
+```{=latex}
+\end{multicols}
+```
+
 ```{=html}
 <table>
   <caption>Hit Determination Table (HDT)</caption>
@@ -206,6 +210,11 @@ Basic Game Tables
   \end{longtable}
 ```
 
+Hit tables
+----------
+
+`\begin{minipage}[t]{0.2\textwidth}`{=latex}
+
 : Number 0
 
 |  |Hull |Rigging|
@@ -217,6 +226,12 @@ Basic Game Tables
 |5 |H    |R      |
 |6 |G    |C      |
 
+`\end{minipage}`{=latex}
+
+Melee tables
+------------
+
+`\begin{minipage}[t]{0.3\textwidth}`{=latex}
 
 : Crew melee strength table
 
@@ -228,6 +243,8 @@ Basic Game Tables
 | Green crew square | 2 strength pts. |
 | Poor crew square | 1 strength pts. |
 
+`\end{minipage}`{=latex}
+`\begin{minipage}[t]{0.7\textwidth}`{=latex}
 
 : Melee resolution table (by total melee strength)
 
@@ -237,6 +254,13 @@ Basic Game Tables
 | 3--4 | 0 | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
 | 5--6 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 2 | 2 |
 
+`\end{minipage}`{=latex}
+
+
+Fouled rigging tables
+---------------------
+
+`\begin{minipage}[t]{0.5\textwidth}`{=latex}
 
 : Fouling table
 
@@ -245,6 +269,8 @@ Basic Game Tables
 | 1--3 | Ships are fouled |
 | 4--6 | Ships are not fouled |
 
+`\end{minipage}`{=latex}
+`\begin{minipage}[t]{0.5\textwidth}`{=latex}
 
 : Unfouling table
 
@@ -253,6 +279,13 @@ Basic Game Tables
 | 1--2 | Ships are unfouled |
 | 3--6 | Ships are not unfouled |
 
+`\end{minipage}`{=latex}
+
+
+Grappling tables
+----------------
+
+`\begin{minipage}[t]{0.5\textwidth}`{=latex}
 
 : Grappling table
 
@@ -261,6 +294,8 @@ Basic Game Tables
 | 1--2 | Grappling succeeds |
 | 3--6 | Attempt fails |
 
+`\end{minipage}`{=latex}
+`\begin{minipage}[t]{0.5\textwidth}`{=latex}
 
 : Ungrappling table
 
@@ -268,3 +303,9 @@ Basic Game Tables
 |:-:|:-:|
 | 1--2 | Ungrappling succeeds |
 | 3--6 | Attempt fails |
+
+`\end{minipage}`{=latex}
+
+
+
+`\begin{multicols}{3}`{=latex}
