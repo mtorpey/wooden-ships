@@ -209,8 +209,8 @@ more sails than normally used in battle.
     his ship. The procedure for placing and removing full sail counters
     is explained in Section XI of the Advanced Game.  A player does not
     have to note full sails in the "log".
-    
-    ![Full Sail marker](files/fullsail.png)
+
+    ![Full sail marker](files/fullsail.png)
 
 ### B. Backing Sails
 
@@ -321,56 +321,63 @@ fire at targets outside of this field.
 
 1.  The play of guns is divided into 5 fields, numbered 1 through 5:
 
-    ![reduced field of fire](files/reducedfof.png)
+    ![](files/reducedfof.png)
 
 2.  Fields 1, 2, and 3 cover hexes that can be hit by the entire
     broadside. Field 4 can be fired at only by the guns of the stern
     section. Field 5 can be fired at only by the guns of the bow
-    section. (See Advanced Game II B 2).
-
-    (Meaningless crossreference...)
+    section. (See *Advanced Game II B 2*).
 
 3.  A ship may never fire at more than one target with a broadside even
     if just a section of the broadside is fired.
+
 4.  If only one section fires in an initial broadside, it is treated as
     if the entire initial broadside has been fired and the other section
     loses the advantage.
-5.  Blocked fields of fire
+
+5.  Blocked Fields of Fire
+
     a.  If a ship fires at a target that lies within the field of the
         entire broadside, i.e., fields 1, 2, or 3, the ship must fire at
         the closest target as explained in the Basic Game.
+
     b.  Ships cannot fire the stern section at a target in field 4 if
         there is a closer target in field 2 or 4. Ships may fire at a
         target in 4 if there are closer targets occupying fields 1, 3,
         and 5.
+
     c.  Ships cannot fire the bow section at a target in field 5 if
         there is a closer target in field 3 or 5. Ships may fire at a
         target in field 5 if there are closer targets occupying fields
         1, 2, or 4.
+
     d.  NOTE: In many cases a ship will straddle two fields. For the
         purpose of determining fire, that ship occupies the lowest
         numbered field. For the purpose of determining line of sight,
         that ship occupies both fields. There are two exceptions to this
         rule:
+
         1.  Ships firing at a target straddling fields 2 and 4 may not
             fire the stern section if there is a closer target occupying
             field 4. It may fire its bow section.
+
         2.  Ships firing at a target straddling fields 5 and 3 may not
             fire the bow section if there is a closer target occupying
             field 5. It may fire its stern section.
+
 6.  Determination of field-of-fire is made independently of the
-    determination of the range between two opposing ships. 
-    
-    ![range determination](files/range.png)
-    
-    Example:
-    Ships A and B are firing at each other. Determination of
-    field-of-fire indicates that a full broadside may be fired by both
-    ships as they mutually occupy each other's field 3. Range
+    determination of the range between two opposing ships.
+
+    ![](files/range.png)
+
+    **Example:** Ships A and B are firing at each other. Determination
+    of field-of-fire indicates that a full broadside may be fired by
+    both ships as they mutually occupy each other's field 3. Range
     determination indicates, though, that the closest range is two hexes
     counted through field 4. As both field-of-fire and range must be
     determined independently, each ship may fire at each other with full
     broadsides at a range of two hexes.
+
 7.  Gun hits are marked off in the section closest to the firing guns.
     If both sections are equidistant, then the defender chooses which
     gun squares are lost. If there are no guns left in that broadside
@@ -385,52 +392,68 @@ advantages and disadvantages. This rule covers several other types of
 ammunition and their capabilities as regards range, effectiveness, and
 loading times.
 
-1.  Roundshot: As roundshot is the only type of ammunition used in the
+1.  *Roundshot*: As roundshot is the only type of ammunition used in the
     Basic Game, there is no change in its use in the Advanced Game.
+
     a.  The range of roundshot is still ten hexes.
+
     b.  Roundshot does not modify the Hit Tables.
+
     c.  One broadside may be loaded with roundshot in one turn.
-2.  Chainshot: This type of ammunition was used to destroy rigging in
+
+2.  *Chainshot*: This type of ammunition was used to destroy rigging in
     order to immobilize enemy vessels.
+
     a.  Chainshot has a maximum range of three hexes.
+
     b.  Chainshot increases the Basic Hit Table by the amount found in
         the chainshot section under Optional modifiers of HDT. Chainshot
         lacks the penetrating ability of shot, and "H" and "G" hits
         count as misses when it is used.
+
     c.  Chainshot is loaded in one turn.
+
     d.  The British may never fire chainshot.
-3.  Doubleshot: A highly effective type of ammunition when fired at
+
+3.  *Doubleshot*: A highly effective type of ammunition when fired at
     close range, doubleshot was generally a double load of roundshot.
+
     a.  Doubleshot has a range of just one hex.
+
     b.  Doubleshot increases the Hit table number by the amount
         indicated in the Optional modifier of the HDT.
-    c.  Two moves are required to load doubleshot. "DS" is marked in
-        the load section of the ship's log for two consecutive turns.
-        On the turn following this, the doubleshot may be fired. The
-        other broadside may not be reloaded during either of the two
+
+    c.  Two moves are required to load doubleshot. "DS" is marked in the
+        load section of the ship's log for two consecutive turns.  On
+        the turn following this, the doubleshot may be fired. The other
+        broadside may not be reloaded during either of the two
         turns. Once a ship has begun loading doubleshot, it is committed
         to firing it.
+
 4.  Grapeshot: Grapeshot is used exclusively against the enemy crew.
     Grape was composed of canister or langridge. It was ineffective
     against the ship itself but devastating against exposed crewmen.
+
     a.  Grapeshot has a range of one hex.
+
     b.  The Hit Tables are not used with grapeshot. Instead, the
         modified Hit Table number represents the number of crew squares
         destroyed.
+
     c.  Only one turn is needed to load a broadside with grapeshot.
+
     d.  Grapeshot cannot be fired against an opposing ship whose crew is
         in the second or later turn of melee with the firing ship.
+
 5.  Loaded ammunition cannot be changed without firing out the first
     type of shot.
+
 6.  Carronades always carry the same type of shot as the regular
-    broadside even if the broadside has changed the type shot before the
-    carronades have fired.
+    broadside even if the broadside has changed the type of shot before
+    the carronades have fired.
+
 7.  If the target ship has a boarding party, it receives an additional
     crew square loss over and above the normal crew loss.
-
-(To clarify point 7: I understand this to mean that if the target ship
-has one or more boarding parties, it (the target ship) receives an
-additional crew square loss over and above the normal crew loss.
 
 ### C. Sink and Explode
 
@@ -438,68 +461,79 @@ If any ship "surrenders by striking" in the Combat Phase, the
 possibility that it may sink or explode must be determined.
 
 1.  When all of a ship's hull squares have been marked off, the enemy
-    player rolls a die, and the Destroyed Hull Table is checked.
-2.  If the result indicates the ship "surrenders by striking" handle
-    as in the Basic Game.
+    player rolls a die, and the *Destroyed Hull Table* is checked.
+
+2.  If the result indicates the ship "surrenders by striking" handle as
+    in the Basic Game.
+
 3.  If the result indicates that the "surrendered" ship will sink, the
     ship does not sink immediately. Continue to roll the die once for
     that ship on each succeeding turn during the Unfouling Phase until a
     "6" is rolled. At that time the ship sinks and is removed from the
     mapboard. Place a sink marker on a ship about to sink.
-4.  If the result indicates that the "surrendered" ship will explode,
-    it does not do so immediately. Continue to roll the die once for
-    that ship on each succeeding turn during the Unfouling Phase until a
-    "6" is rolled. At that time, the ship explodes, and is removed
-    from the mapboard. The force of the exploding ship will damage every
-    other ship located in an adjacent hex. This is handled by rolling
-    the die, and consulting Hit Table number"10 under the Rigging
-    Section. Mark this damage on each adjacent ship or ships. Place a
-    explode marker on a ship about to explode
+
+    ![Sink marker](files/sinking.png)
+
+4.  If the result indicates that the "surrendered" ship will explode, it
+    does not do so immediately. Continue to roll the die once for that
+    ship on each succeeding turn during the Unfouling Phase until a "6"
+    is rolled. At that time, the ship explodes, and is removed from the
+    mapboard. The force of the exploding ship will damage every other
+    ship located in an adjacent hex. This is handled by rolling the die,
+    and consulting Hit Table number ten under the Rigging Section. Mark
+    this damage on each adjacent ship or ships. Place an explode marker
+    on a ship about to explode.
+
 5.  Ships which will explode or sink remain on the mapboard until they
     do so, but can take no further part in the battle. The crew cannot
     be taken off, repairs cannot be made, and the crew cannot melee or
     fire the guns. The ship cannot be sailed, although it will drift
     normally. It may not be captured.
+
 6.  Ships that will sink or explode cannot be "scuttled" so as to sink
-    sooner than indicate on the die.
+    sooner than indicated on the die.
 
 ### D. Rake
 
-A ship which occupies the hex directly in front of the target ship's
-bow or directly behind the target ship's stern and which may bring it
-guns to bear may fire a rake even if return fire is possible.
+A ship which occupies the hex directly in front of the target ship's bow
+or directly behind the target ship's stern and which may bring its guns
+to bear may fire a *rake* even if return fire is possible.
 
 IX. Melee Phase
 ---------------
 
 The Melee Phase is identical to that of the Basic Game.
 
-X. Loading Phase
-----------------
+X. Reload Phase
+---------------
 
-A. One broadside per ship may be reloaded with "R" (roundshot),
+### A. Reloading
+
+One broadside per ship may be reloaded with "R" (roundshot),
 "DS" (doubleshot), "CS" (chainshot), or "GS" (grapeshot).
 
 ### B. Repairs
 
-Ships which don't load or fire guns, engage in melee, become involved
-in a collision, up-anchor change from full sails to battle sails or
+Ships which don't load or fire guns, engage in melee, become involved in
+a collision, up-anchor change from full sails to battle sails or
 vice-versa or expend any factors of its movement allowance to turn, may
 make repairs; provided there are a least two crew sections available.
 (The second section need not be complete). All repairs take three turns
 (not necessarily in sequence). In three turns, two hull, two rigging, or
 two gun squares can be repaired by simply erasing the "X" on the most
 recently marked squares. Repairs cannot be made on "surrendered"
-ships. Repairs in progress are listed in the Notes section of the
-ship's "log", in this phase by writing "RH" for hull repairs "RG"
-for gun repairs, and "RR" for rigging repairs. The third repair of the
-same type is circled and the boxes erased. Only one type of repair may
-be made per turn.
+ships. Repairs in progress are listed in the Notes section of the ship's
+"log", in this phase by writing "RH" for *hull repairs*, "RG" for *gun
+repairs*, and "RR" for *rigging repairs*. The third repair of the same
+type is circled and the boxes erased. Only one type of repair may be
+made per turn.
 
 XI. Full Sail Phase
 -------------------
 
 During this phase a player may decide for each ship whether full sails
-should be added or dropped. Full sails are added by placing a full sails
+should be added or dropped. Full sails are added by placing a full sail
 marker on the ship. Full sails are dropped by removing the full sails
 marker. The effect of this takes place immediately.
+
+![Full sail marker](files/fullsail.png)
