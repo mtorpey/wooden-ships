@@ -1,9 +1,11 @@
+`\end{multicols}`{=latex}
+`\pagebreak`{=latex}
+`\begin{multicols}{3}`{=latex}
+
 Basic Game Tables
 =================
 
-```{=latex}
-\end{multicols}
-```
+`\end{multicols}`{=latex}
 
 ```{=html}
 <table>
@@ -213,7 +215,7 @@ Basic Game Tables
 Hit tables
 ----------
 
-`\begin{minipage}[t]{0.2\textwidth}`{=latex}
+`\begin{across}{0.2}`{=latex}
 
 : Number 0
 
@@ -226,12 +228,126 @@ Hit tables
 |5 |H    |R      |
 |6 |G    |C      |
 
-`\end{minipage}`{=latex}
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Number 1
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |0    |0      |
+|2 |0    |0      |
+|3 |G    |R      |
+|4 |H    |C      |
+|5 |H-C  |R-H    |
+|6 |H-R  |2R     |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Number 2
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |H    |0      |
+|2 |G    |R      |
+|3 |H-C  |2R     |
+|4 |2H   |R-G    |
+|5 |2H-R |2R-C   |
+|6 |2H-G |2R-H   |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Number 3
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |H-G  |R-H    |
+|2 |2H   |2R     |
+|3 |H-G-C|2R-G   |
+|4 |2H-R |3R     |
+|5 |3H-C |2R-C   |
+|6 |2H-2G|4R     |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Number 4
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |2H-R |3R     |
+|2 |H-G-C|2R-H   |
+|3 |2H-R-G|3R-G  |
+|4 |3H-G |3R-C   |
+|5 |4H-C |2R-G-H |
+|6 |2H-2G-C|5R   |
+
+`\end{across}`{=latex}
+
+`\begin{across}{0.25}`{=latex}
+
+: Number 5
+
+|  | Hull |Rigging|
+|-:|:----:|:-----:|
+|1 |2H-C-G|3R-G   |
+|2 |2H-2G |4R     |
+|3 |2H-G-C-R|4R-H |
+|4 |3H-R-G|4R-G   |
+|5 |4H-G-R|4R-C   |
+|6 |3H-2C-G|5R-H  |
+
+`\end{across}`{=latex}
+`\begin{across}{0.25}`{=latex}
+
+: Number 6
+
+|  | Hull |Rigging|
+|-:|:----:|:-----:|
+|1 |2H-2G-C|3R-H-G|
+|2 |3H-2R-C|4R-H  |
+|3 |4H-2G |5R-C   |
+|4 |3H-2C-G|4R-G-H|
+|5 |5H-R-C|5R-H   |
+|6 |3H-2G-R-C|5R-2G|
+
+`\end{across}`{=latex}
+`\begin{across}{0.25}`{=latex}
+
+: Number 7
+
+|  |Hull   |Rigging|
+|-:|:-----:|:-----:|
+|1 |2H-3G-C|4R-H-G |
+|2 |3H-2C-R|4R-H-C |
+|3 |4H-3R  |5R-2H  |
+|4 |3H-3G-C|5R-G-C |
+|5 |4H-2C-G|6R-G   |
+|6 |3H-3G-C-R|7R-H |
+
+`\end{across}`{=latex}
+`\begin{across}{0.25}`{=latex}
+
+: Number 8
+
+|  |Hull   |Rigging|
+|-:|:-----:|:-----:|
+|1 |4H-2G-C|5R-H-C |
+|2 |5H-R-C |6R-G   |
+|3 |4H-3G-C|6R-H-G |
+|4 |5H-2R-G|6R-H-C |
+|5 |6H-2G-R|5R-2H-G|
+|6 |4H-2G-C-R|7R-H-G|
+
+`\end{across}`{=latex}
+
 
 Melee tables
 ------------
 
-`\begin{minipage}[t]{0.3\textwidth}`{=latex}
+`\begin{across}{0.3}`{=latex}
 
 : Crew melee strength table
 
@@ -243,8 +359,8 @@ Melee tables
 | Green crew square | 2 strength pts. |
 | Poor crew square | 1 strength pts. |
 
-`\end{minipage}`{=latex}
-`\begin{minipage}[t]{0.7\textwidth}`{=latex}
+`\end{across}`{=latex}
+`\begin{across}{0.7}`{=latex}
 
 : Melee resolution table (by total melee strength)
 
@@ -254,13 +370,13 @@ Melee tables
 | 3--4 | 0 | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
 | 5--6 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 2 | 2 |
 
-`\end{minipage}`{=latex}
+`\end{across}`{=latex}
 
 
 Fouled rigging tables
 ---------------------
 
-`\begin{minipage}[t]{0.5\textwidth}`{=latex}
+`\begin{across}{0.5}`{=latex}
 
 : Fouling table
 
@@ -269,8 +385,8 @@ Fouled rigging tables
 | 1--3 | Ships are fouled |
 | 4--6 | Ships are not fouled |
 
-`\end{minipage}`{=latex}
-`\begin{minipage}[t]{0.5\textwidth}`{=latex}
+`\end{across}`{=latex}
+`\begin{across}{0.5}`{=latex}
 
 : Unfouling table
 
@@ -279,13 +395,13 @@ Fouled rigging tables
 | 1--2 | Ships are unfouled |
 | 3--6 | Ships are not unfouled |
 
-`\end{minipage}`{=latex}
+`\end{across}`{=latex}
 
 
 Grappling tables
 ----------------
 
-`\begin{minipage}[t]{0.5\textwidth}`{=latex}
+`\begin{across}{0.5}`{=latex}
 
 : Grappling table
 
@@ -294,8 +410,8 @@ Grappling tables
 | 1--2 | Grappling succeeds |
 | 3--6 | Attempt fails |
 
-`\end{minipage}`{=latex}
-`\begin{minipage}[t]{0.5\textwidth}`{=latex}
+`\end{across}`{=latex}
+`\begin{across}{0.5}`{=latex}
 
 : Ungrappling table
 
@@ -304,8 +420,7 @@ Grappling tables
 | 1--2 | Ungrappling succeeds |
 | 3--6 | Attempt fails |
 
-`\end{minipage}`{=latex}
-
+`\end{across}`{=latex}
 
 
 `\begin{multicols}{3}`{=latex}
