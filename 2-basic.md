@@ -566,7 +566,7 @@ on the Hit Table.
         even if boarding parties have been formed. Place a strike marker
         on a ship which has "struck".
 
-        ![Strike marker](files/strike.png)
+        ![Strike marker](files/strike.png){width=7%}
 
 2.  Crew Hits ("C"):
 

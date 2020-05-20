@@ -66,15 +66,15 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-![Wind Direction](files/windarrow.png)
+![Wind Direction](files/windarrow.png){width=7%}
 
-![Full Sail](files/fullsail.png)
+![Full Sail](files/fullsail.png){width=7%}
 
-![Strike](files/strike.png)
+![Strike](files/strike.png){width=7%}
 
-![Explosion](files/explosion.png)
+![Explosion](files/explosion.png){width=7%}
 
-![Sinking](files/sinking.png)
+![Sinking](files/sinking.png){width=7%}
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must

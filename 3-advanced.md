@@ -210,7 +210,7 @@ more sails than normally used in battle.
     is explained in Section XI of the Advanced Game.  A player does not
     have to note full sails in the "log".
 
-    ![Full sail marker](files/fullsail.png)
+    ![Full sail marker](files/fullsail.png){width=7%}
 
 ### B. Backing Sails
 
@@ -472,7 +472,7 @@ possibility that it may sink or explode must be determined.
     "6" is rolled. At that time the ship sinks and is removed from the
     mapboard. Place a sink marker on a ship about to sink.
 
-    ![Sink marker](files/sinking.png)
+    ![Sink marker](files/sinking.png){width=7%}
 
 4.  If the result indicates that the "surrendered" ship will explode, it
     does not do so immediately. Continue to roll the die once for that
@@ -536,4 +536,4 @@ should be added or dropped. Full sails are added by placing a full sail
 marker on the ship. Full sails are dropped by removing the full sails
 marker. The effect of this takes place immediately.
 
-![Full sail marker](files/fullsail.png)
+![Full sail marker](files/fullsail.png){width=7%}
