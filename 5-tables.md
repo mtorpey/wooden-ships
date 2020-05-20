@@ -217,7 +217,7 @@ Hit tables
 
 `\begin{across}{0.2}`{=latex}
 
-: Number 0
+: Hit Table 0
 
 |  |Hull |Rigging|
 |-:|:---:|:-----:|
@@ -231,7 +231,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.2}`{=latex}
 
-: Number 1
+: Hit Table 1
 
 |  |Hull |Rigging|
 |-:|:---:|:-----:|
@@ -245,7 +245,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.2}`{=latex}
 
-: Number 2
+: Hit Table 2
 
 |  |Hull |Rigging|
 |-:|:---:|:-----:|
@@ -259,7 +259,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.2}`{=latex}
 
-: Number 3
+: Hit Table 3
 
 |  |Hull |Rigging|
 |-:|:---:|:-----:|
@@ -273,7 +273,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.2}`{=latex}
 
-: Number 4
+: Hit Table 4
 
 |  |Hull |Rigging|
 |-:|:---:|:-----:|
@@ -288,7 +288,7 @@ Hit tables
 
 `\begin{across}{0.25}`{=latex}
 
-: Number 5
+: Hit Table 5
 
 |  | Hull |Rigging|
 |-:|:----:|:-----:|
@@ -302,7 +302,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.25}`{=latex}
 
-: Number 6
+: Hit Table 6
 
 |  | Hull |Rigging|
 |-:|:----:|:-----:|
@@ -316,7 +316,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.25}`{=latex}
 
-: Number 7
+: Hit Table 7
 
 |  |Hull   |Rigging|
 |-:|:-----:|:-----:|
@@ -330,7 +330,7 @@ Hit tables
 `\end{across}`{=latex}
 `\begin{across}{0.25}`{=latex}
 
-: Number 8
+: Hit Table 8
 
 |  |Hull   |Rigging|
 |-:|:-----:|:-----:|
