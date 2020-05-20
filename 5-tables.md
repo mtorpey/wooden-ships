@@ -401,7 +401,7 @@ Fouled rigging tables
 Grappling tables
 ----------------
 
-`\begin{across}{0.5}`{=latex}
+`\begin{across}{0.4}`{=latex}
 
 : Grappling table
 
@@ -410,8 +410,15 @@ Grappling tables
 | 1--2 | Grappling succeeds |
 | 3--6 | Attempt fails |
 
+If one ship was motionless during the movement phase subtract one from
+the die roll. If both ships were motionless during the movement phase
+subtract two from the die roll.
+
 `\end{across}`{=latex}
-`\begin{across}{0.5}`{=latex}
+`\begin{across}{0.2}`{=latex}
+\ 
+`\end{across}`{=latex}
+`\begin{across}{0.4}`{=latex}
 
 : Ungrappling table
 
