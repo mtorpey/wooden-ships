@@ -728,64 +728,64 @@ Advanced Game Tables
     +1 & +1 & 0 & 0 & \textminus1 &
     \textminus1 & +1 & \textminus1 &
     \textminus1 & +1 & +1 & 0 & +1 \\
-  
-    4--6 & 
+
+    4--6 &
     1(2) & 1(2) & 0(1) &
-    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) & 
-    +1 & 
-    +1 & +1 & 0 & 0 & \textminus1 & 
-    \textminus1 & +1 & \textminus1 & 
+    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) &
+    +1 &
+    +1 & +1 & 0 & 0 & \textminus1 &
+    \textminus1 & +1 & \textminus1 &
     \textminus1 & +1 & +1 & 0 & +1 \\
-  
-    7--9 & 
+
+    7--9 &
     2(3) & 1(2) & 0(1) &
-    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) & 
-    +1 & 
-    +2 & +1 & 0 & 0 & \textminus1 & 
-    \textminus1 & +1 & \textminus2 & 
+    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) &
+    +1 &
+    +2 & +1 & 0 & 0 & \textminus1 &
+    \textminus1 & +1 & \textminus2 &
     \textminus2 & +1 & +1 & 0 & +1 \\
-  
-    10--12 & 
-    2(4) & 2(3) & 1(2) & 0(1) & \textminus1(0) & \textminus2(\textminus1) & 
-    +1 & 
-    +2 & +1 & 0 & 0 & \textminus1 & 
-    \textminus1 & +1 & \textminus2 & 
+
+    10--12 &
+    2(4) & 2(3) & 1(2) & 0(1) & \textminus1(0) & \textminus2(\textminus1) &
+    +1 &
+    +2 & +1 & 0 & 0 & \textminus1 &
+    \textminus1 & +1 & \textminus2 &
     \textminus2 & +1 & +1 & 0 & +1 \\
-  
-    13--15 & 
-    3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) & \textminus2(0) & 
-    +1 & 
+
+    13--15 &
+    3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) & \textminus2(0) &
+    +1 &
     +2 & +2 & 0 & 0 &
-    \textminus1 & 
-    \textminus1 & +2 & \textminus2 & 
+    \textminus1 &
+    \textminus1 & +2 & \textminus2 &
     \textminus3 & +2 & +2 & 0 & +1 \\
-  
-    16--18 & 
-    3(6) & 3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) & 
-    +1 & 
-    +2 & +2 & 0 & \textminus1 & \textminus1 & 
-    \textminus1 & +2 & \textminus2 & 
+
+    16--18 &
+    3(6) & 3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) &
+    +1 &
+    +2 & +2 & 0 & \textminus1 & \textminus1 &
+    \textminus1 & +2 & \textminus2 &
     \textminus3 & +2 & +2 & 0 & +1 \\
-  
-    19--21 & 
-    4(7) & 3(6) & 2(5) & 1(4) & 0(3) & \textminus1(2) & 
-    +1 & 
-    +2 & +2 & 0 & \textminus1 & \textminus2 & 
-    \textminus2 & +2 & \textminus2 & 
+
+    19--21 &
+    4(7) & 3(6) & 2(5) & 1(4) & 0(3) & \textminus1(2) &
+    +1 &
+    +2 & +2 & 0 & \textminus1 & \textminus2 &
+    \textminus2 & +2 & \textminus2 &
     \textminus4 & +2 & +2 & 0 & +2 \\
-  
-    22--24 & 
-    4(8) & 4(7) & 3(6) & 2(5) & 1(4) & 0(3) & 
-    +1 & 
-    +2 & +2 & 0 & \textminus1 & \textminus2 & 
-    \textminus2 & +2 & \textminus2 & 
+
+    22--24 &
+    4(8) & 4(7) & 3(6) & 2(5) & 1(4) & 0(3) &
+    +1 &
+    +2 & +2 & 0 & \textminus1 & \textminus2 &
+    \textminus2 & +2 & \textminus2 &
     \textminus4 & +2 & +2 & 0 & +2 \\
-  
-    25 & 
-    5(9) & 4(8) & 3(7) & 2(6) & 1(5) & 0(4) & 
-    +1 & 
+
+    25 &
+    5(9) & 4(8) & 3(7) & 2(6) & 1(5) & 0(4) &
+    +1 &
     +3 & +2 & 0 & \textminus1 & \textminus2 &
-    \textminus2 & +2 & \textminus2 & 
+    \textminus2 & +2 & \textminus2 &
     \textminus4 & +2 & +3 & 0 & +2 \\
 
     \bottomrule
