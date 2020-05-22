@@ -431,3 +431,365 @@ subtract two from the die roll.
 
 
 `\begin{multicols}{3}`{=latex}
+
+
+Advanced Game Tables
+====================
+
+`\end{multicols}`{=latex}
+
+```{=html}
+<table>
+  <caption>Hit Determination Table (HDT)</caption>
+
+  <tr>
+    <th rowspan="3" style="text-align:center;">Guns Firing</th>
+    <th colspan="6" rowspan="2" style="text-align:center;">Range in hexes</th>
+    <th rowspan="12" style="text-align:center;"></th>
+    <th colspan="9" style="text-align:center;">Hit table modifiers</th>
+    <th rowspan="12" style="text-align:center;"></th>
+    <th colspan="5" style="text-align:center;">Optional modifiers</th>
+  </tr>
+
+  <tr>
+    <th rowspan="2" style="text-align:center;">Stern Rake</th>
+    <th colspan="5" style="text-align:center;">Crew Quality</th>
+    <th rowspan="2" style="text-align:center;">Crew Section Loss</th>
+    <th rowspan="2" style="text-align:center;">Initial Bdside</th>
+    <th rowspan="2" style="text-align:center;">Cap Ship</th>
+    <th colspan="4" style="text-align:center;">Ammunition</th>
+    <th rowspan="2" style="text-align:center;">All types of anchor</th>
+  </tr>
+
+  <tr>
+    <th style="text-align:center;">1</th>
+    <th style="text-align:center;">2</th>
+    <th style="text-align:center;">3</th>
+    <th style="text-align:center;">4</th>
+    <th style="text-align:center; white-space: nowrap;">5–6</th>
+    <th style="text-align:center; white-space: nowrap;">7–10</th>
+    <th style="text-align:center;">EL</th>
+    <th style="text-align:center;">CR</th>
+    <th style="text-align:center;">AV</th>
+    <th style="text-align:center;">GR</th>
+    <th style="text-align:center;">PR</th>
+    <th style="text-align:center;">GP</th>
+    <th style="text-align:center;">CH</th>
+    <th style="text-align:center;">DS</th>
+    <th style="text-align:center;">RS</th>
+  </tr>
+
+  <tr>
+    <td style="text-align:center;">1–3</td>
+    <td style="text-align:right;">1(2)</td>
+    <td style="text-align:right;">0(1)</td>
+    <td style="text-align:right;">−1(0)</td>
+    <td style="text-align:right;">−2(−1)</td>
+    <td style="text-align:right;">−3(−2)</td>
+    <td style="text-align:right;">−4(−3)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4–6</td>
+    <td style="text-align:right;">1(2)</td>
+    <td style="text-align:right;">1(2)</td>
+    <td style="text-align:right;">0(1)</td>
+    <td style="text-align:right;">−1(0)</td>
+    <td style="text-align:right;">−2(−1)</td>
+    <td style="text-align:right;">−3(−2)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">7–9</td>
+    <td style="text-align:right;">2(3)</td>
+    <td style="text-align:right;">1(2)</td>
+    <td style="text-align:right;">0(1)</td>
+    <td style="text-align:right;">−1(0)</td>
+    <td style="text-align:right;">−2(−1)</td>
+    <td style="text-align:right;">−3(−2)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">10–12</td>
+    <td style="text-align:right;">2(4)</td>
+    <td style="text-align:right;">2(3)</td>
+    <td style="text-align:right;">1(2)</td>
+    <td style="text-align:right;">0(1)</td>
+    <td style="text-align:right;">−1(0)</td>
+    <td style="text-align:right;">−2(−1)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">13–15</td>
+    <td style="text-align:right;">3(5)</td>
+    <td style="text-align:right;">2(4)</td>
+    <td style="text-align:right;">1(3)</td>
+    <td style="text-align:right;">0(2)</td>
+    <td style="text-align:right;">−1(1)</td>
+    <td style="text-align:right;">−2(0)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−3</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">16–18</td>
+    <td style="text-align:right;">3(6)</td>
+    <td style="text-align:right;">3(5)</td>
+    <td style="text-align:right;">2(4)</td>
+    <td style="text-align:right;">1(3)</td>
+    <td style="text-align:right;">0(2)</td>
+    <td style="text-align:right;">−1(1)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−3</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">19–21</td>
+    <td style="text-align:right;">4(7)</td>
+    <td style="text-align:right;">3(6)</td>
+    <td style="text-align:right;">2(5)</td>
+    <td style="text-align:right;">1(4)</td>
+    <td style="text-align:right;">0(3)</td>
+    <td style="text-align:right;">−1(2)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−4</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+2</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">22–24</td>
+    <td style="text-align:right;">4(8)</td>
+    <td style="text-align:right;">4(7)</td>
+    <td style="text-align:right;">3(6)</td>
+    <td style="text-align:right;">2(5)</td>
+    <td style="text-align:right;">1(4)</td>
+    <td style="text-align:right;">0(3)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−4</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+2</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">25</td>
+    <td style="text-align:right;">5(9)</td>
+    <td style="text-align:right;">4(8)</td>
+    <td style="text-align:right;">3(7)</td>
+    <td style="text-align:right;">2(6)</td>
+    <td style="text-align:right;">1(5)</td>
+    <td style="text-align:right;">0(4)</td>
+    <td style="text-align:right;">+1</td>
+    <td style="text-align:right;">+3</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">−1</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">−2</td>
+    <td style="text-align:right;">−4</td>
+    <td style="text-align:right;">+2</td>
+    <td style="text-align:right;">+3</td>
+    <td style="text-align:right;">0</td>
+    <td style="text-align:right;">+2</td>
+  </tr>
+</table>
+```
+
+```{=latex}
+  \begin{longtable}{c | c c c c c c | c | r r r r r | c c c | c c c c | c}
+    \caption{Hit Determination Table (HDT)}\tabularnewline
+
+    \toprule
+
+    \multirow{4}{\widthof{Firing}}{Guns Firing} &
+    & & & & & &
+    \multicolumn{9}{c|}{Hit table modifiers} &
+    \multicolumn{5}{c}{Optional modifiers}
+    \\
+
+    & \multicolumn{6}{c|}{\multirow{2}{*}{Range in hexes}} &
+    \multirow{3}{\widthof{Rake}}{Stern Rake} &
+    \multicolumn{5}{c|}{\multirow{2}{*}{Crew Quality}} &
+    \multirow{3}{\widthof{Section}}{\centering Crew Section Loss} &
+    \multirow{3}{\widthof{Bdside}}{\centering Initial Bdside} &
+    \multirow{3}{\widthof{Ship}}{\centering Cap Ship} &
+    \multicolumn{4}{c|}{\multirow{2}{*}{Ammunition}} &
+    \multirow{3}{\widthof{of anchor}}{All types of anchor}
+    \\
+    & & & & & & & & & & & & & & & & & & & &
+    \\
+
+    & 1 & 2 & 3 & 4 & 5--6 & 7--10 &
+    &
+    EL & CR & AV & GR & PR &
+    & & &
+    GP & CH & DS & RS \\
+
+    \hline
+
+    1--3 &
+    1(2) & 0(1) & \textminus1(0) & \textminus2(\textminus1) &
+    \textminus3(\textminus2) & \textminus4(\textminus3) &
+    +1 &
+    +1 & +1 & 0 & 0 & \textminus1 &
+    \textminus1 & +1 & \textminus1 &
+    \textminus1 & +1 & +1 & 0 & +1 \\
+  
+    4--6 & 
+    1(2) & 1(2) & 0(1) &
+    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) & 
+    +1 & 
+    +1 & +1 & 0 & 0 & \textminus1 & 
+    \textminus1 & +1 & \textminus1 & 
+    \textminus1 & +1 & +1 & 0 & +1 \\
+  
+    7--9 & 
+    2(3) & 1(2) & 0(1) &
+    \textminus1(0) & \textminus2(\textminus1) & \textminus3(\textminus2) & 
+    +1 & 
+    +2 & +1 & 0 & 0 & \textminus1 & 
+    \textminus1 & +1 & \textminus2 & 
+    \textminus2 & +1 & +1 & 0 & +1 \\
+  
+    10--12 & 
+    2(4) & 2(3) & 1(2) & 0(1) & \textminus1(0) & \textminus2(\textminus1) & 
+    +1 & 
+    +2 & +1 & 0 & 0 & \textminus1 & 
+    \textminus1 & +1 & \textminus2 & 
+    \textminus2 & +1 & +1 & 0 & +1 \\
+  
+    13--15 & 
+    3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) & \textminus2(0) & 
+    +1 & 
+    +2 & +2 & 0 & 0 &
+    \textminus1 & 
+    \textminus1 & +2 & \textminus2 & 
+    \textminus3 & +2 & +2 & 0 & +1 \\
+  
+    16--18 & 
+    3(6) & 3(5) & 2(4) & 1(3) & 0(2) & \textminus1(1) & 
+    +1 & 
+    +2 & +2 & 0 & \textminus1 & \textminus1 & 
+    \textminus1 & +2 & \textminus2 & 
+    \textminus3 & +2 & +2 & 0 & +1 \\
+  
+    19--21 & 
+    4(7) & 3(6) & 2(5) & 1(4) & 0(3) & \textminus1(2) & 
+    +1 & 
+    +2 & +2 & 0 & \textminus1 & \textminus2 & 
+    \textminus2 & +2 & \textminus2 & 
+    \textminus4 & +2 & +2 & 0 & +2 \\
+  
+    22--24 & 
+    4(8) & 4(7) & 3(6) & 2(5) & 1(4) & 0(3) & 
+    +1 & 
+    +2 & +2 & 0 & \textminus1 & \textminus2 & 
+    \textminus2 & +2 & \textminus2 & 
+    \textminus4 & +2 & +2 & 0 & +2 \\
+  
+    25 & 
+    5(9) & 4(8) & 3(7) & 2(6) & 1(5) & 0(4) & 
+    +1 & 
+    +3 & +2 & 0 & \textminus1 & \textminus2 &
+    \textminus2 & +2 & \textminus2 & 
+    \textminus4 & +2 & +3 & 0 & +2 \\
+
+    \bottomrule
+  \end{longtable}
+```
+
+`\begin{multicols}{3}`{=latex}
