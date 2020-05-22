@@ -215,6 +215,7 @@ Basic Game Tables
 Hit tables
 ----------
 
+`\vspace{-1em}`{=latex}
 `\begin{across}{0.2}`{=latex}
 
 : Hit Table 0
@@ -347,6 +348,7 @@ Hit tables
 Melee tables
 ------------
 
+`\vspace{-1em}`{=latex}
 `\begin{across}{0.3}`{=latex}
 
 : Crew melee strength table
@@ -376,6 +378,7 @@ Melee tables
 Fouled rigging tables
 ---------------------
 
+`\vspace{-1em}`{=latex}
 `\begin{across}{0.5}`{=latex}
 
 : Fouling table
@@ -401,6 +404,7 @@ Fouled rigging tables
 Grappling tables
 ----------------
 
+`\vspace{-1em}`{=latex}
 `\begin{across}{0.4}`{=latex}
 
 : Grappling table
@@ -430,6 +434,7 @@ subtract two from the die roll.
 `\end{across}`{=latex}
 
 
+`\pagebreak`{=latex}
 `\begin{multicols}{3}`{=latex}
 
 
@@ -791,5 +796,169 @@ Advanced Game Tables
     \bottomrule
   \end{longtable}
 ```
+
+`\begin{multicols}{3}`{=latex}
+
+Hit tables
+----------
+
+`\end{multicols}`{=latex}
+`\vspace{-1em}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 0
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |0    |0      |
+|2 |0    |0      |
+|3 |0    |0      |
+|4 |C    |0      |
+|5 |H    |R      |
+|6 |G*   |C*     |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 1
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |0    |0      |
+|2 |0    |0      |
+|3 |G    |R      |
+|4 |H-G  |C      |
+|5 |H-C  |R-H    |
+|6 |H-R-C*|R-C-G*|
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 2
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |G    |0      |
+|2 |H    |R      |
+|3 |H-G  |R-C    |
+|4 |H-C  |R-G    |
+|5 |H-R-C|R-G    |
+|6 |2H-G*|2R-H-C*|
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 3
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |G-C  |0      |
+|2 |H    |R-C    |
+|3 |H-G-C|R-G    |
+|4 |2H-R |2R-C   |
+|5 |2H-C |2R-G   |
+|6 |2H-2G*|2R-H-C*|
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 4
+
+|  |Hull |Rigging|
+|-:|:---:|:-----:|
+|1 |G-C  |R-G    |
+|2 |H-R  |R-H    |
+|3 |2H-G-R|2R-C-G|
+|4 |2H-2G-C|2R-G |
+|5 |3H-C |3R-C   |
+|6 |3H-G*|4R-H-C*|
+
+`\end{across}`{=latex}
+
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 5
+
+|  | Hull |Rigging|
+|-:|:----:|:-----:|
+|1 |H-G-C |R-C    |
+|2 |2H-2C-R|2R-G  |
+|3 |2H-G-C|3R-H   |
+|4 |2H-2G |3R-G-C |
+|5 |3H-G-R|4R-H   |
+|6 |3H-G-C*|4R-H-G-C*|
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 6
+
+|  | Hull |Rigging|
+|-:|:----:|:-----:|
+|1 |H-2G-2C|2R-C  |
+|2 |2H-2C-R|2R-G-C|
+|3 |2H-G-R|3R-H-G |
+|4 |2H-2G |4R-G   |
+|5 |3H-G-C|4R-H   |
+|6 |4H-2G-C*|5R-H-C*|
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 7
+
+|  |Hull      |Rigging   |
+|-:|:--------:|:--------:|
+|1 |2H-G-C    |2R-C      |
+|2 |2H-C-R    |3R-G      |
+|3 |3H-2G-2C  |3R-H-G    |
+|4 |3H-2G     |4R-H-2C   |
+|5 |4H-2G-C   |5R-2G-C   |
+|6 |4H-2G-C-R*|5R-2H-G*  |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 8
+
+|  |Hull      |Rigging   |
+|-:|:--------:|:--------:|
+|1 |2H-G-2C   |3R-2G-C   |
+|2 |3H-G-C-R  |3R-H      |
+|3 |3H-2G-2C  |4R-3H-G   |
+|4 |4H-2C-G   |4R-G-C    |
+|5 |4H-G-2R   |5R-G      |
+|6 |4H-2G-2C* |6R-H-2C*  |
+
+`\end{across}`{=latex}
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 9
+
+|  |Hull      |Rigging   |
+|-:|:--------:|:--------:|
+|1 |2H-3G-C   |4R-H-G    |
+|2 |3H-2G-2C  |4R-H-C    |
+|3 |3H-2G-2C-R|5R-2H     |
+|4 |4H-2G-2C  |5R-2G-C   |
+|5 |4H-G-3R   |6R-G-2C   |
+|6 |5H-G-2C*  |7R-2G*    |
+
+`\end{across}`{=latex}
+
+`\begin{across}{0.2}`{=latex}
+
+: Hit Table 10
+
+|  |Hull      |Rigging   |
+|-:|:--------:|:--------:|
+|1 |2H-2G-4C  |5R-H-C    |
+|2 |3H-3G-C-R |6R-2G     |
+|3 |4H-2G-C-R |6R-H-2G   |
+|4 |5H-2R-G   |6R-H-G-C  |
+|5 |5H-2C-G-R |5R-2H-2C  |
+|6 |6H-2G-2C* |7R-H-2C-G*|
+
+`\end{across}`{=latex}
 
 `\begin{multicols}{3}`{=latex}
