@@ -430,7 +430,7 @@ loading times.
         turns. Once a ship has begun loading doubleshot, it is committed
         to firing it.
 
-4.  Grapeshot: Grapeshot is used exclusively against the enemy crew.
+4.  *Grapeshot*: Grapeshot is used exclusively against the enemy crew.
     Grape was composed of canister or langridge. It was ineffective
     against the ship itself but devastating against exposed crewmen.
 
@@ -515,9 +515,9 @@ One broadside per ship may be reloaded with "R" (roundshot),
 ### B. Repairs
 
 Ships which don't load or fire guns, engage in melee, become involved in
-a collision, up-anchor change from full sails to battle sails or
+a collision, up-anchor, change from full sails to battle sails or
 vice-versa or expend any factors of its movement allowance to turn, may
-make repairs; provided there are a least two crew sections available.
+make repairs; provided there are at least two crew sections available.
 (The second section need not be complete). All repairs take three turns
 (not necessarily in sequence). In three turns, two hull, two rigging, or
 two gun squares can be repaired by simply erasing the "X" on the most

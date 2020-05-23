@@ -98,11 +98,11 @@ mapboard.
 
     Examples:
 
-    a)  A ship with a battle sail speed of 3 starts the movement
+    a.  A ship with a battle sail speed of 3 starts the movement
         notation phase in attitude C in relation to wind direction. Its
         movement allowance is determined to be 1.
 
-    b)  A ship with a battle sail factor of 4 starts the movement
+    b.  A ship with a battle sail factor of 4 starts the movement
         notation phase in attitude A. Its movement allowance is 4.
 
 5.  The movement allowance is the *maximum* number of *hexes* a ship may
