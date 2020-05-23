@@ -1209,6 +1209,110 @@ Advanced Game Tables
 * Ship classes Number\ 1, Number\ 5, and Number\ 6 subtract 1 from Hit Table.
 
 `\end{across}`{=latex}
+`\pagebreak`{=latex}
 
+The Critical Hit Table
+----------------------
 
 `\begin{multicols}{3}`{=latex}
+
+1.
+    R: At range of 3 hexes or less, rake causes one rigging section to be
+    lost. (See optional rule VIII for effect).
+
+    H: No Effect
+
+2.
+    R: No Effect
+
+    H: At range of 3 hexes or less, rake causes all gun and crew hits to be
+    doubled.
+
+3.
+    R: No Effect
+
+    H: No Effect
+
+4.
+    R: Fallen rigging obscures a gunnery section in the left broadside. Reduce
+    Hit Table by 1 for the next three turns. Mark out two rigging squares.
+
+    H: No Effect
+
+5.
+    R: No Effect
+
+    H: Anchor cable severed. Anchored ships must note cut anchor in "log". Ships
+    may not anchor again.
+
+6.
+    R: Fallen rigging obscures a gunnery section in the right broadside. Reduce
+    Hit Table by 1 for the next three turns. Mark out two rigging squares.
+
+    H: No Effect
+
+7.
+    R: No Effect
+
+    H: Crew is demoralized. Roll one die; add crew quality strength
+    points. Subtract the number of lost crew sections. If the result is six or
+    less, crew drops one rate in quality.
+
+8.
+    R: Mast fails. Mark out one rigging section. (See optional rule VIII for
+    effect).
+
+    H: Possible damage to steering. Roll one die. If a 1, 3, or 5 appears,
+    turning ability number is permanently reduced by one.
+
+9.
+    R: No Effect
+
+    H: No Effect
+
+10.
+    R: Rake causes one rigging section to be lost. (See optional rule VIII for
+    effect).
+
+    H: Same as 5 H
+
+11.
+    R: No Effect
+
+    H: Magazine may explode. Roll one die. Add the range in number of hexes. If
+    the result is four or less, ship explodes. (See optional rule X for effect
+    of explosion).
+
+12.
+    R: No Effect
+
+    H: Water line damage: One crew section must be permanently assigned to keep
+    ship afloat for the remainder of the game.
+
+13.
+    R: Same as 10 R
+
+    H: Rake causes double the crew and gun hits.
+
+14.
+    R: No Effect
+
+    H: Fire breaks out. Roll one die. If a 6 is rolled fire is out of control
+    and ship will explode. (See optional rule X for effect). Any other number
+    rolled is the number of turns needed to put out fire. Hit Table reduced by
+    same amount for duration of fire.
+
+15.
+    R: No Effect
+
+    H: No Effect
+
+16.
+    R: Same as 8 R
+
+    H: Same as 7 H
+
+Results of Critical Hit Table determined at the end of the Combat phase after
+all regular damage has been recorded.
+
+All results are cumulative.
