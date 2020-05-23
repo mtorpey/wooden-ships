@@ -797,11 +797,8 @@ Advanced Game Tables
   \end{longtable}
 ```
 
-Hit tables
-----------
-
 `\vspace{-1em}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.13}`{=latex}
 
 : Hit Table 0
 
@@ -815,7 +812,7 @@ Hit tables
 | 6 | G*   | C*      |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.16}`{=latex}
 
 : Hit Table 1
 
@@ -829,7 +826,7 @@ Hit tables
 | 6 | H-R-C* | R-C-G*  |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.16}`{=latex}
 
 : Hit Table 2
 
@@ -843,7 +840,7 @@ Hit tables
 | 6 | 2H-G* | 2R-H-C* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.17}`{=latex}
 
 : Hit Table 3
 
@@ -857,7 +854,7 @@ Hit tables
 | 6 | 2H-2G* | 2R-H-C* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.19}`{=latex}
 
 : Hit Table 4
 
@@ -871,8 +868,7 @@ Hit tables
 | 6 | 3H-G*   | 4R-H-C* |
 
 `\end{across}`{=latex}
-
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.19}`{=latex}
 
 : Hit Table 5
 
@@ -886,7 +882,8 @@ Hit tables
 | 6 | 3H-G-C* | 4R-H-G-C* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+
+`\begin{across}{0.18}`{=latex}
 
 : Hit Table 6
 
@@ -900,7 +897,7 @@ Hit tables
 | 6 | 4H-2G-C* | 5R-H-C* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.20}`{=latex}
 
 : Hit Table 7
 
@@ -914,7 +911,7 @@ Hit tables
 | 6 | 4H-2G-C-R* | 5R-2H-G* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.20}`{=latex}
 
 : Hit Table 8
 
@@ -928,7 +925,7 @@ Hit tables
 | 6 | 4H-2G-2C* | 6R-H-2C* |
 
 `\end{across}`{=latex}
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.21}`{=latex}
 
 : Hit Table 9
 
@@ -942,8 +939,7 @@ Hit tables
 | 6 | 5H-G-2C*   | 7R-2G*  |
 
 `\end{across}`{=latex}
-
-`\begin{across}{0.2}`{=latex}
+`\begin{across}{0.21}`{=latex}
 
 : Hit Table 10
 
@@ -958,6 +954,8 @@ Hit tables
 
 `\end{across}`{=latex}
 
+`\begin{across}{0.2}`{=latex}
+
 : Ammunition Range Table
 
 | Weapon/ammo | Max range |
@@ -968,6 +966,8 @@ Hit tables
 | Grape shot  | 1         |
 | Double shot | 1         |
 
+`\end{across}`{=latex}
+`\begin{across}{0.25}`{=latex}
 
 : Destroyed Hull Table
 
@@ -977,8 +977,24 @@ Hit tables
 | 5    | Ship may sink*              |
 | 6    | Ship may explode*           |
 
-* The ship will explode or sink when a "6" is result of subsequent roll
+\* The ship will explode or sink when a\ "6" is result of subsequent roll
 
+`\end{across}`{=latex}
+`\begin{across}{0.3}`{=latex}
+
+: Wind Direction Change Table
+
+| Die | Results                            |
+|:---:|:-----------------------------------|
+| 1   | Wind shifts back to initial dir    |
+| 2   | No change                          |
+| 3   | Wind shifts 60° clockwise          |
+| 4   | Wind shifts 60° counter-clockwise  |
+| 5   | Wind shifts 120° clockwise         |
+| 6   | Wind shifts 120° counter-clockwise |
+
+`\end{across}`{=latex}
+`\begin{across}{0.25}`{=latex}
 
 : Wind Velocity Change Table
 
@@ -988,28 +1004,17 @@ Hit tables
 | 3--4 | Wind velocity does not change    |
 | 5--6 | Wind velocity increases 1 number |
 
-
-: Wind Direction Change Table
-
-| Die | Results                               |
-|:---:|:--------------------------------------|
-| 1   | Wind shifts back to init dir          |
-| 2   | No change                             |
-| 3   | Wind shifts 60 deg clockwise          |
-| 4   | Wind shifts 60 deg counter-clockwise  |
-| 5   | Wind shifts 120 deg clockwise         |
-| 6   | Wind shifts 120 deg counter-clockwise |
-
+`\end{across}`{=latex}
 
 ```{=latex}
-  \begin{longtable}{c | c | r r r r | r r r r | r r r r | r r r r | r r r r}
+  \begin{longtable}{c | l | r r r r | r r r r | r r r r | r r r r | r r r r}
     \caption{Wind Effects Table}\tabularnewline
 
     \toprule
 
     \multirow{3}{\widthof{velocity}}{Wind velocity number} &
     &
-    \multicolumn{20}{c}{Ship class} 
+    \multicolumn{20}{c}{Ship class}
     \\
 
     & &
@@ -1093,6 +1098,22 @@ Hit tables
     \bottomrule
   \end{longtable}
 ```
+
+`\begin{across}{0.5}`{=latex}
+**Storm:**
+
+* Full sails not allowed.
+* Ship classes Number\ 1 and Number\ 4 subtract 2 from Hit Table.
+* Ship classes Number\ 2 and Number\ 3 subtract 1 from Hit Table.
+
+`\end{across}`{=latex}
+`\begin{across}{0.5}`{=latex}
+**Gale:**
+
+* Ship classes Number\ 5 and Number\ 6 cannot use full sails.
+* Ship classes Number\ 1, Number\ 5, and Number\ 6 subtract 1 from Hit Table.
+
+`\end{across}`{=latex}
 
 
 `\begin{multicols}{3}`{=latex}
