@@ -1006,6 +1006,100 @@ Advanced Game Tables
 
 `\end{across}`{=latex}
 
+```{=html}
+<table>
+    <caption>Wind Effects Table</caption>
+
+    <tr>
+        <th rowspan="3">Wind velocity number</th>
+        <th />
+        <th colspan="20">Ship class</th>
+    </tr>
+
+    <tr>
+        <th />
+        <th colspan="4">Number 1</th>
+        <th colspan="4">Number 2</th>
+        <th colspan="4">Number 3 &amp; 4</th>
+        <th colspan="4">Number 5 &amp; 6</th>
+        <th colspan="4">Rowed vessels</th>
+    </tr>
+
+    <tr>
+        <th>Wind attitude</th>
+        <th>A</th> <th>B</th> <th>C</th> <th>D</th>
+        <th>A</th> <th>B</th> <th>C</th> <th>D</th>
+        <th>A</th> <th>B</th> <th>C</th> <th>D</th>
+        <th>A</th> <th>B</th> <th>C</th> <th>D</th>
+        <th>A</th> <th>B</th> <th>C</th> <th>D</th>
+    </tr>
+
+    <tr>
+        <td>0</td>
+        <td>Becalmed</td>
+        <td colspan="16">Ships may not move</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+    </tr>
+
+    <tr>
+        <td>1</td> <td>Light breeze</td>
+        <td>-3</td> <td>-2</td> <td>-2</td> <td>0</td>
+        <td>-3</td> <td>-2</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-2</td> <td>-1</td> <td>0</td>
+        <td>-2</td> <td>-1</td> <td>0</td> <td>0</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+    </tr>
+
+    <tr>
+        <td>2</td> <td>Medium&nbsp;breeze</td>
+        <td>-1</td> <td>-1</td> <td>-1</td> <td>0</td>
+        <td>-1</td> <td>-1</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>-1</td> <td>-1</td> <td>-1</td>
+    </tr>
+
+    <tr>
+        <td>3</td> <td>Normal breeze</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-2</td> <td>-2</td> <td>-2</td> <td>-2</td>
+    </tr>
+
+    <tr>
+        <td>4</td> <td>Heavy breeze</td>
+        <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>-1</td> <td>0</td> <td>0</td>
+        <td>-2</td> <td>-2</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-3</td> <td>-3</td> <td>-3</td>
+    </tr>
+
+    <tr>
+        <td>5</td> <td>Gale</td>
+        <td>-1</td> <td>0</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>-1</td> <td>0</td> <td>0</td>
+        <td>-1</td> <td>-1</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-2</td> <td>-2</td> <td>0</td>
+        <td colspan="4" rowspan="2">Can only drift in Gale or Storm</td>
+    </tr>
+
+    <tr>
+        <td>6</td> <td>Storm</td>
+        <td>-2</td> <td>-1</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-2</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-2</td> <td>-1</td> <td>0</td>
+        <td>-3</td> <td>-3</td> <td>-2</td> <td>0</td>
+    </tr>
+
+    <tr>
+        <td>7</td> <td>Hurricane</td>
+        <td colspan="20">Scenario ended</td>
+    </tr>
+</table>
+```
 ```{=latex}
   \begin{longtable}{c | l | r r r r | r r r r | r r r r | r r r r | r r r r}
     \caption{Wind Effects Table}\tabularnewline
