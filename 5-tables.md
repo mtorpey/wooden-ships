@@ -1001,11 +1001,98 @@ Hit tables
 | 6   | Wind shifts 120 deg counter-clockwise |
 
 
-: Wind Effects Table
+```{=latex}
+  \begin{longtable}{c | c | r r r r | r r r r | r r r r | r r r r | r r r r}
+    \caption{Wind Effects Table}\tabularnewline
 
-| Wind velocity number | Ship class |
-|:--------------------:|:----------:|
-| 0                    | -3         |
+    \toprule
+
+    \multirow{3}{\widthof{velocity}}{Wind velocity number} &
+    &
+    \multicolumn{20}{c}{Ship class} 
+    \\
+
+    & &
+    \multicolumn{4}{c|}{Number 1} &
+    \multicolumn{4}{c|}{Number 2} &
+    \multicolumn{4}{c|}{Number 3 \& 4} &
+    \multicolumn{4}{c|}{Number 5 \& 6} &
+    \multicolumn{4}{c}{Rowed vessels}
+    \\
+    
+    & Wind attitude & 
+    A & B & C & D &
+    A & B & C & D & 
+    A & B & C & D & 
+    A & B & C & D & 
+    A & B & C & D
+    \\
+    
+    \hline
+    
+    0 & Becalmed &
+    \multicolumn{16}{c|}{Ships may not move} &
+    0 & 0 & 0 & 0
+    \\
+    \cline{3-18}
+    
+    1 & Light breeze &
+    -3 & -2 & -2 & 0 &
+    -3 & -2 & -1 & 0 &
+    -3 & -2 & -1 & 0 &
+    -2 & -1 & 0 & 0 &
+    0 & 0 & 0 & 0
+    \\
+    
+    2 & Medium breeze &
+    -1 & -1 & -1 & 0 &
+    -1 & -1 & 0 & 0 &
+    -1 & 0 & 0 & 0 &
+    -1 & 0 & 0 & 0 &
+    -1 & -1 & -1 & -1
+    \\
+    
+    3 & Normal breeze &
+    0 & 0 & 0 & 0 &
+    0 & 0 & 0 & 0 &
+    0 & 0 & 0 & 0 &
+    0 & 0 & 0 & 0 &
+    -2 & -2 & -2 & -2
+    \\
+    
+    4 & Heavy breeze &
+    0 & 0 & 0 & 0 &
+    -1 & 0 & 0 & 0 &
+    -1 & -1 & 0 & 0 &
+    -2 & -2 & -1 & 0 &
+    -3 & -3 & -3 & -3
+    \\
+    \cline{19-22}
+    
+    5 & Gale &
+    -1 & 0 & 0 & 0 &
+    -1 & -1 & 0 & 0 &
+    -1 & -1 & -1 & 0 &
+    -3 & -2 & -2 & 0 &
+    \multicolumn{4}{c}
+    {\multirow{2}{\widthof{Can only drift in}}{Can only drift in Gale or Storm}}
+    \\
+
+    6 & Storm &
+    -2 & -1 & -1 & 0 &
+    -3 & -2 & -1 & 0 &
+    -3 & -2 & -1 & 0 &
+    -3 & -3 & -2 & 0
+    \\
+    \cline{3-22}
+    
+    7 & Hurricane &
+    \multicolumn{20}{c}{Scenario ended}
+    \\
+    
+    \bottomrule
+  \end{longtable}
+```
 
 
 `\begin{multicols}{3}`{=latex}
