@@ -519,27 +519,27 @@ sheets. Firing is done by broadsides of cannon.
 
 ### C. Hit Table Modifiers
 
-1.  **Crew quality:** Crew quality will increase or decrease the BHT as
+1.  *Crew quality:* Crew quality will increase or decrease the BHT as
     shown in the HDT depending on the number of gun squares being fired.
 
-2.  **Raking:** Raking (i.e., when one ship is in position to fire down
+2.  *Raking:* Raking (i.e., when one ship is in position to fire down
     the length of another one), will increase the BHT as shown in the
     HDT, depending on the number of gun squares firing. A ship is in a
     raking position anytime an opposing ship lies within the play of its
     broadside, but it lies outside the play of the opposing broadside.
 
-3.  **Crew Losses:** For each complete crew section wiped out or used
+3.  *Crew Losses:* For each complete crew section wiped out or used
     for boarding, the Hit Table is decreased by one. If no crew sections
     are available for firing, the guns may not be fired.
 
-4.  **Initial Broadside:** The first time a ship fires a broadside, that
+4.  *Initial Broadside:* The first time a ship fires a broadside, that
     broadside will be the most carefully loaded and aimed that it will
     fire. Each ship has two initial broadsides, one for each side of the
     ship. The initial broadside will increase the Hit Table as shown on
     the HDT, depending on the number of gun squares being fired in the
     broadside.
 
-5.  **Captured Ship:** When using the guns of a captured ship, the Hit
+5.  *Captured Ship:* When using the guns of a captured ship, the Hit
     Table is decreased by two tables. Ignore the crew loss modifier when
     firing from a captured ship.
 

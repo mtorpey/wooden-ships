@@ -105,23 +105,23 @@ The size of a ship is indicated by the size of the class overview.
 
 ![](files/shipcounter.png)
 
-1.  Turning Ability: The maximum number of 60 degree turns which that
+1.  *Turning Ability:* The maximum number of 60 degree turns which that
     ship can make during the course of the Movement Execution Phase.
 
-2.  Battle Sail Speed: The maximum speed that a ship has under battle
+2.  *Battle Sail Speed*: The maximum speed that a ship has under battle
     sails. (There are two speeds, 3 and 4).
 
-3.  Full Sail Speed: The lower righthand number represents a ship's
+3.  *Full Sail Speed*: The lower righthand number represents a ship's
     movement ability under an increased spread of sail. This speed is
     used in the Advanced Game only.
 
-4.  Stern: The stern of a ship is its rear section. This is the blunt
+4.  *Stern*: The stern of a ship is its rear section. This is the blunt
     end of the ship diagram on the counter.
 
-5.  Stern Hex: The hex that the stern and the rear half of the ship
+5.  *Stern Hex*: The hex that the stern and the rear half of the ship
     occupies.
 
-6.  Identification number: Each counter has a 4 digit number which is
+6.  *Identification number*: Each counter has a 4 digit number which is
     used to identify it with the ship that it represents. The first
     digit refers to the nationality of the vessel. The second digit
     refers to the class of ship. (See below) The last two digits serve
@@ -135,12 +135,12 @@ The size of a ship is indicated by the size of the class overview.
     3 (Gold) = Spanish/Venetian\
     4 (Light Blue) = American
 
-7.  Bow Hex: The hex that the bow and the forward half of the ship
+7.  *Bow Hex*: The hex that the bow and the forward half of the ship
     occupies.
 
-8.  Bow: The bow of a ship is its front. This is the pointed end of the
-    ship diagram on the counter. The bow always points in the direction
-    in which the ship is sailing.
+8.  *Bow*: The bow of a ship is its front. This is the pointed end of
+    the ship diagram on the counter. The bow always points in the
+    direction in which the ship is sailing.
 
 ### D. Basic Game and Advanced/Optional Tables
 
