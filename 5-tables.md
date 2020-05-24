@@ -1256,7 +1256,7 @@ The Critical Hit Table
 
 1.
     R: At range of 3 hexes or less, rake causes one rigging section to be
-    lost. (See optional rule VIII for effect).
+    lost. (See *Optional Rules VIII* for effect).
 
     H: No Effect
 
@@ -1297,7 +1297,7 @@ The Critical Hit Table
     less, crew drops one rate in quality.
 
 8.
-    R: Mast fails. Mark out one rigging section. (See optional rule VIII for
+    R: Mast fails. Mark out one rigging section. (See *Optional Rules VIII* for
     effect).
 
     H: Possible damage to steering. Roll one die. If a 1, 3, or 5 appears,
@@ -1309,8 +1309,8 @@ The Critical Hit Table
     H: No Effect
 
 10.
-    R: Rake causes one rigging section to be lost. (See optional rule VIII for
-    effect).
+    R: Rake causes one rigging section to be lost. (See *Optional Rules VIII*
+    for effect).
 
     H: Same as 5 H
 
@@ -1318,8 +1318,8 @@ The Critical Hit Table
     R: No Effect
 
     H: Magazine may explode. Roll one die. Add the range in number of hexes. If
-    the result is four or less, ship explodes. (See optional rule X for effect
-    of explosion).
+    the result is four or less, ship explodes. (See *Optional Rules X* for
+    effect of explosion).
 
 12.
     R: No Effect
@@ -1336,7 +1336,7 @@ The Critical Hit Table
     R: No Effect
 
     H: Fire breaks out. Roll one die. If a 6 is rolled fire is out of control
-    and ship will explode. (See optional rule X for effect). Any other number
+    and ship will explode. (See *Optional Rules X* for effect). Any other number
     rolled is the number of turns needed to put out fire. Hit Table reduced by
     same amount for duration of fire.
 

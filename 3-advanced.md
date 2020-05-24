@@ -202,8 +202,8 @@ more sails than normally used in battle.
 4.  Any ship which loses the entire first section of rigging immediately
     removes his ship from full sail status. It may not use full sails
     for the remainder of the game unless it repairs its rigging so as to
-    regain at least one rigging square in the first section. (*See X B,
-    Advanced Game*).
+    regain at least one rigging square in the first section. (See
+    *Advanced Game X.B*).
 
 5.  A ship sets sail to full sail speed by placing a full sail marker on
     his ship. The procedure for placing and removing full sail counters
@@ -326,7 +326,7 @@ fire at targets outside of this field.
 2.  Fields 1, 2, and 3 cover hexes that can be hit by the entire
     broadside. Field 4 can be fired at only by the guns of the stern
     section. Field 5 can be fired at only by the guns of the bow
-    section. (See *Advanced Game II B 2*).
+    section. (See *Advanced Game II.B.2*).
 
 3.  A ship may never fire at more than one target with a broadside even
     if just a section of the broadside is fired.

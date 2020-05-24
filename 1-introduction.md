@@ -211,8 +211,8 @@ log.
 
 4., 5., 6., and 7\.
 :   On lines 4, 5, 6, and 7 place movement allowance for each attitude
-    to wind. This information can be found in Movement section of the
-    Basic Game (IV A. 3., 4.).
+    to wind. This information can be found in the Movement section of
+    the Basic Game (*Basic Game IV.A.3--4*).
 
     Ignore parenthesis for Basic Game as these spaces are intended for
     full-sail movement in the Advanced Game.

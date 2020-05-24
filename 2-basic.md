@@ -108,7 +108,7 @@ mapboard.
 5.  The movement allowance is the *maximum* number of *hexes* a ship may
     move in a movement phase. A ship may only move into a hex toward
     which its bow is pointing; i.e., a ship can't move sideways or
-    backwards (*exception: drift -- V, B. 1. of Basic Game*).
+    backwards. (Exception: drift -- *Basic Game V.B.1*).
     Each hex a ship's bow enters costs one movement factor of its
     allowance. Once a ship has used all its factors, it must stop.
 
@@ -133,7 +133,7 @@ mapboard.
     maximum it does become relevant in the Advanced Game.
 
 10. Each individual turn costs one movement factor of the allowance.
-    (*Exception: IV, A. 15 of Basic Game*).
+    (*Exception: Basic Game IV.A.15*).
 
 11. A ship may never make a turn if the cost would cause that ship to
     exceed its movement allowance.
@@ -225,8 +225,8 @@ This is a special type of movement. It may be voluntary or involuntary.
     direction. This applies also to ships which are fouled or grappled
     together, if both ships are on at least their second consecutive
     movement execution phase without moving into another hex. Ships may
-    turn in place and still fulfill drifting obligations (*see IV,
-    A. 15, of the Basic Game*).
+    turn in place and still fulfill drifting obligations (see *Basic
+    Game IV.A.15*).
 
 2.  Ship of the line class vessels will drift one hex *every other turn*
     while drifting. Frigate and smaller class ships will drift one hex
@@ -732,7 +732,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
 
 3.  A ship which surrenders by any other means is captured when either a
     "TBP" or "OBP" is placed aboard. The boarding party becomes the
-    prize crew (*See VII B. 8. of the Basic Game*).
+    prize crew (see *Basic Game VII.B.8*).
 
 4.  Surrendered ships may not fire their guns, melee, or move as long as
     they are surrendered.
