@@ -124,8 +124,8 @@ The size of a ship is indicated by the size of the class overview.
 6.  *Identification number*: Each counter has a 4 digit number which is
     used to identify it with the ship that it represents. The first
     digit refers to the nationality of the vessel. The second digit
-    refers to the class of ship. (See below) The last two digits serve
-    to identify the counter as separate from any other.
+    refers to the class of ship. The last two digits serve to identify
+    the counter as separate from any other.
 
     ![](files/shipid.png)
 

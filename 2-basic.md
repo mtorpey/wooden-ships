@@ -80,9 +80,8 @@ mapboard.
     battle sail speed and its attitude to the wind direction.
 
 2.  The battle sail speed of each ship is printed on the counter
-    adjacent to the stern of the ship diagram (see II, C. 2 of
-    Introduction to Rules). All ships have a battle sail speed of
-    either 3 or 4.
+    adjacent to the stern of the ship diagram (see *Introduction to
+    Rules II.C.2*). All ships have a battle sail speed of either 3 or 4.
 
 3.  Along with the battle sail speed the attitude of the ship in
     relation to the wind must be determined. There are four attitudes to
