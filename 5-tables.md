@@ -1247,7 +1247,7 @@ Advanced Game Tables
 * Ship classes Number\ 1, Number\ 5, and Number\ 6 subtract 1 from Hit Table.
 
 `\end{across}`{=latex}
-`\pagebreak`{=latex}
+
 
 The Critical Hit Table
 ----------------------
