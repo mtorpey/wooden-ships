@@ -1174,10 +1174,10 @@ Advanced Game Tables
     \cline{3-18}
 
     1 & Light breeze &
-    \textminus3 & \textminus2 & \textminus2 & 0 &
-    \textminus3 & \textminus2 & \textminus1 & 0 &
-    \textminus3 & \textminus2 & \textminus1 & 0 &
-    \textminus2 & \textminus1 & 0 & 0 &
+    \textminus3 & \textminus2 & \textminus2 & \phantom{\textminus}0 &
+    \textminus3 & \textminus2 & \textminus1 & \phantom{\textminus}0 &
+    \textminus3 & \textminus2 & \textminus1 & \phantom{\textminus}0 &
+    \textminus2 & \textminus1 & 0 & \phantom{\textminus}0 &
     0 & 0 & 0 & 0
     \\
 
