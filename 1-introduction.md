@@ -66,15 +66,15 @@ and light blue spots identify the American vessels. Printed on each
 counter is information needed to play the game. Examine the examples
 below:
 
-![Wind Direction](files/windarrow.png){width=7%}
+![Wind Direction](files/windarrow.png){width=5em}
 
-![Full Sail](files/fullsail.png){width=7%}
+![Full Sail](files/fullsail.png){width=5em}
 
-![Strike](files/strike.png){width=7%}
+![Strike](files/strike.png){width=5em}
 
-![Explosion](files/explosion.png){width=7%}
+![Explosion](files/explosion.png){width=5em}
 
-![Sinking](files/sinking.png){width=7%}
+![Sinking](files/sinking.png){width=5em}
 
 Ship Classes: Each ship overview on the counter represents a class of
 ship. Classes denote different sizes and types of ships. NOTE: Care must
@@ -189,7 +189,7 @@ placed here. This information is found on the ship counter or in the
 ship's Order of Battle, found in the scenarios. A diagram is given as
 an example of this procedure.
 
-![](files/logsample.png)
+![](files/logsample.png){width=20em}
 
 The ship counter and log above represent the starting Basic Game
 strength of the Constellation. Check her specifications on the Master

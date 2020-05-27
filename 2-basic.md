@@ -89,7 +89,7 @@ mapboard.
     different position of the ship in relation to the direction that the
     wind is blowing. See diagram:
 
-    ![](files/attitudes.png)
+    ![](files/attitudes.png){width=20em}
 
 4.  The movement allowance is now checked on one of these two charts:
 
