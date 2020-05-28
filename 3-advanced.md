@@ -326,7 +326,7 @@ fire at targets outside of this field.
 2.  Fields 1, 2, and 3 cover hexes that can be hit by the entire
     broadside. Field 4 can be fired at only by the guns of the stern
     section. Field 5 can be fired at only by the guns of the bow
-    section. (See *Advanced Game II.B.2*).
+    section. (See *Advanced Game I.B.2*).
 
 3.  A ship may never fire at more than one target with a broadside even
     if just a section of the broadside is fired.
