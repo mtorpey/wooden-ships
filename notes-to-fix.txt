@@ -1,3 +1,1 @@
-Section references should be made consistent.
-Pictures
 Typeset hard spaces with "\ "?
