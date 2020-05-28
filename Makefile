@@ -10,23 +10,17 @@ ALL_TITLES=$(patsubst %.md, $(OUT_DIR)/%, $(INPUT_FILES))
 ALL_TARGETS=$(foreach T,$(ALL_TITLES), $T.pdf $T.html)
 
 # Make everything
-all : $(OUT_DIR)/full.pdf $(OUT_DIR)/full.html
+all : $(OUT_DIR)/wooden-ships-v2.pdf $(OUT_DIR)/wooden-ships-v2.html
 
 # Two output versions
-$(OUT_DIR)/%.pdf : %.md template.tex | $(OUT_DIR)
+$(OUT_DIR)/wooden-ships-v2.pdf : $(OUT_DIR)/wooden-ships-v2.md template.tex | $(OUT_DIR)
 	pandoc $< $(PDF_OPTS) -o $@
 
-$(OUT_DIR)/%.html : %.md template.html5 | $(OUT_DIR)
-	pandoc $< $(HTML_OPTS) -o $@
-
-$(OUT_DIR)/full.pdf : $(OUT_DIR)/full.md template.tex | $(OUT_DIR)
-	pandoc $< $(PDF_OPTS) -o $@
-
-$(OUT_DIR)/full.html : $(OUT_DIR)/full.md template.html5 | $(OUT_DIR)
+$(OUT_DIR)/wooden-ships-v2.html : $(OUT_DIR)/wooden-ships-v2.md template.html5 | $(OUT_DIR)
 	pandoc $< $(HTML_OPTS) -o $@
 
 # Combined document
-$(OUT_DIR)/full.md : $(INPUT_FILES) | $(OUT_DIR)
+$(OUT_DIR)/wooden-ships-v2.md : $(INPUT_FILES) | $(OUT_DIR)
 	rm -f $@
 	for T in $(sort $(INPUT_FILES)); do \
 		cat $$T >> $@; \
@@ -40,7 +34,7 @@ $(OUT_DIR) :
 # Clean up
 .PHONY : clean
 clean :
-	rm -rf $(OUT_DIR)
+	rm -rf $(OUT_DIR)/*
 
 # Debugging
 .PHONY : variables
