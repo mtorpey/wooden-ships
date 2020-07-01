@@ -634,7 +634,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
 1.  Crew sections designated as "TBP" during the Boarding Preparation
     Phase may now transfer as ordered to any friendly adjacent ship.
 
-2.  Cross off the transferred crewsections on the "log" as if they
+2.  Cross off the transferred crew sections on the "log" as if they
     were casualties, and make a note on a separate sheet of paper of the
     strengths of the transferred crew sections, and their present
     locations. Friendly crews ordered to transfer to ships which have
@@ -696,7 +696,7 @@ success of the boarding, melee must occur with the enemy's "OBP" or
     boarding party.
 
 3.  Once casualties have been removed, both players refigure their total
-    number of surviving crew squares are recompute their TMS.  Another
+    number of surviving crew squares and recompute their TMS.  Another
     melee *round* is fought.  This continues for three *rounds* or until
     one side has a three-to-one or better advantage in TMS.  When a
     three-to-one advantage occurs, the enemy boarding party is defeated
